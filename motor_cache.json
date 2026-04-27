@@ -3,41 +3,15 @@
     "data": {
       "run_name": "Jack Link's 500",
       "track_name": "Talladega Superspeedway",
+      "race_date": "2026-04-27",
+      "flag_state": 9,
       "laps_in_race": 188,
-      "race_number": 10,
-      "race_date": "2026-04-26",
-      "avg_speed_mph": 147.504,
-      "margin_of_victory": "0.114 Seconds",
       "cautions": 6,
       "caution_laps": 30,
-      "lead_changes": 52,
+      "lead_changes": 51,
       "leaders": 16,
-      "stage1_top10": [
-        "60",
-        "6",
-        "22",
-        "17",
-        "12",
-        "21",
-        "45",
-        "4",
-        "34",
-        "1"
-      ],
-      "stage2_top10": [
-        "1",
-        "20",
-        "17",
-        "47",
-        "34",
-        "60",
-        "51",
-        "48",
-        "9",
-        "38"
-      ],
-      "winner": "Carson Hocevar",
       "series_id": 1,
+      "race_id": 5605,
       "drivers": [
         {
           "pos": 1,
@@ -45,15 +19,12 @@
           "car": "#77",
           "driver": "Carson Hocevar",
           "team": "Chili's Ride the 'Dente",
-          "manufacturer": "Chevrolet",
+          "manufacturer": "Chevy",
           "laps": 188,
-          "stage1_pos": null,
-          "stage2_pos": null,
-          "points": 55,
-          "status": "Running",
-          "times_led": 8,
           "laps_led": 19,
-          "ineligible": false
+          "times_led": 8,
+          "status": "Running",
+          "points": 0
         },
         {
           "pos": 2,
@@ -63,13 +34,10 @@
           "team": "Kroger/Jack Link's",
           "manufacturer": "Ford",
           "laps": 188,
-          "stage1_pos": 4,
-          "stage2_pos": 3,
-          "points": 50,
-          "status": "Running",
-          "times_led": 8,
           "laps_led": 22,
-          "ineligible": false
+          "times_led": 8,
+          "status": "Running",
+          "points": 0
         },
         {
           "pos": 3,
@@ -77,15 +45,12 @@
           "car": "#48",
           "driver": "Alex Bowman",
           "team": "Ally",
-          "manufacturer": "Chevrolet",
+          "manufacturer": "Chevy",
           "laps": 188,
-          "stage1_pos": null,
-          "stage2_pos": 8,
-          "points": 37,
-          "status": "Running",
-          "times_led": 0,
           "laps_led": 0,
-          "ineligible": false
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
         },
         {
           "pos": 4,
@@ -93,15 +58,12 @@
           "car": "#9",
           "driver": "Chase Elliott",
           "team": "Amazon Prime",
-          "manufacturer": "Chevrolet",
+          "manufacturer": "Chevy",
           "laps": 188,
-          "stage1_pos": null,
-          "stage2_pos": 9,
-          "points": 35,
-          "status": "Running",
-          "times_led": 0,
           "laps_led": 0,
-          "ineligible": false
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
         },
         {
           "pos": 5,
@@ -111,13 +73,10 @@
           "team": "Aaron's/Boys & Girls Clubs of America",
           "manufacturer": "Ford",
           "laps": 188,
-          "stage1_pos": null,
-          "stage2_pos": 10,
-          "points": 34,
-          "status": "Running",
-          "times_led": 0,
           "laps_led": 0,
-          "ineligible": false
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
         },
         {
           "pos": 6,
@@ -125,15 +84,12 @@
           "car": "#47",
           "driver": "Ricky Stenhouse Jr.",
           "team": "Chef Boyardee",
-          "manufacturer": "Chevrolet",
+          "manufacturer": "Chevy",
           "laps": 188,
-          "stage1_pos": null,
-          "stage2_pos": 4,
-          "points": 38,
-          "status": "Running",
-          "times_led": 1,
           "laps_led": 2,
-          "ineligible": false
+          "times_led": 1,
+          "status": "Running",
+          "points": 0
         },
         {
           "pos": 7,
@@ -141,15 +97,12 @@
           "car": "#1",
           "driver": "Ross Chastain",
           "team": "Jockey VentraCool Air",
-          "manufacturer": "Chevrolet",
+          "manufacturer": "Chevy",
           "laps": 188,
-          "stage1_pos": 10,
-          "stage2_pos": 1,
-          "points": 41,
-          "status": "Running",
-          "times_led": 6,
           "laps_led": 22,
-          "ineligible": false
+          "times_led": 6,
+          "status": "Running",
+          "points": 0
         },
         {
           "pos": 8,
@@ -159,13 +112,10 @@
           "team": "Menards/FrogTape",
           "manufacturer": "Ford",
           "laps": 188,
-          "stage1_pos": null,
-          "stage2_pos": null,
-          "points": 29,
-          "status": "Running",
-          "times_led": 0,
           "laps_led": 0,
-          "ineligible": false
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
         },
         {
           "pos": 9,
@@ -175,13 +125,10 @@
           "team": "Grillo's Pickles/Pabst Blue Ribbon",
           "manufacturer": "Ford",
           "laps": 188,
-          "stage1_pos": 8,
-          "stage2_pos": null,
-          "points": 31,
-          "status": "Running",
-          "times_led": 1,
           "laps_led": 2,
-          "ineligible": false
+          "times_led": 1,
+          "status": "Running",
+          "points": 0
         },
         {
           "pos": 10,
@@ -189,15 +136,12 @@
           "car": "#8",
           "driver": "Kyle Busch",
           "team": "Cheddar's Scratch Kitchen",
-          "manufacturer": "Chevrolet",
+          "manufacturer": "Chevy",
           "laps": 188,
-          "stage1_pos": null,
-          "stage2_pos": null,
-          "points": 27,
-          "status": "Running",
-          "times_led": 0,
           "laps_led": 0,
-          "ineligible": false
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
         },
         {
           "pos": 11,
@@ -207,13 +151,10 @@
           "team": "Love's Travel Stops/Fleetguard",
           "manufacturer": "Ford",
           "laps": 188,
-          "stage1_pos": 9,
-          "stage2_pos": 5,
-          "points": 34,
-          "status": "Running",
-          "times_led": 0,
           "laps_led": 0,
-          "ineligible": false
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
         },
         {
           "pos": 12,
@@ -221,15 +162,12 @@
           "car": "#7",
           "driver": "Daniel Suarez",
           "team": "Freeway Insurance",
-          "manufacturer": "Chevrolet",
+          "manufacturer": "Chevy",
           "laps": 188,
-          "stage1_pos": null,
-          "stage2_pos": null,
-          "points": 25,
-          "status": "Running",
-          "times_led": 0,
           "laps_led": 0,
-          "ineligible": false
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
         },
         {
           "pos": 13,
@@ -237,15 +175,12 @@
           "car": "#10",
           "driver": "Ty Dillon",
           "team": "Grizzly Nicotine Pouches",
-          "manufacturer": "Chevrolet",
+          "manufacturer": "Chevy",
           "laps": 188,
-          "stage1_pos": null,
-          "stage2_pos": null,
-          "points": 24,
-          "status": "Running",
-          "times_led": 0,
           "laps_led": 0,
-          "ineligible": false
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
         },
         {
           "pos": 14,
@@ -255,13 +190,10 @@
           "team": "ROCKSTAR ENERGY DRINK",
           "manufacturer": "Toyota",
           "laps": 188,
-          "stage1_pos": 7,
-          "stage2_pos": null,
-          "points": 27,
+          "laps_led": 3,
+          "times_led": 2,
           "status": "Running",
-          "times_led": 1,
-          "laps_led": 2,
-          "ineligible": false
+          "points": 0
         },
         {
           "pos": 15,
@@ -271,13 +203,10 @@
           "team": "King's Hawaiian UBE Coconut Rolls",
           "manufacturer": "Toyota",
           "laps": 188,
-          "stage1_pos": null,
-          "stage2_pos": null,
-          "points": 22,
-          "status": "Running",
-          "times_led": 4,
           "laps_led": 28,
-          "ineligible": false
+          "times_led": 4,
+          "status": "Running",
+          "points": 0
         },
         {
           "pos": 16,
@@ -285,15 +214,12 @@
           "car": "#16",
           "driver": "AJ Allmendinger",
           "team": "Grizzly Nicotine Pouches",
-          "manufacturer": "Chevrolet",
+          "manufacturer": "Chevy",
           "laps": 188,
-          "stage1_pos": null,
-          "stage2_pos": null,
-          "points": 21,
-          "status": "Running",
-          "times_led": 0,
           "laps_led": 0,
-          "ineligible": false
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
         },
         {
           "pos": 17,
@@ -303,13 +229,10 @@
           "team": "Rheem",
           "manufacturer": "Toyota",
           "laps": 188,
-          "stage1_pos": null,
-          "stage2_pos": 2,
-          "points": 29,
-          "status": "Running",
-          "times_led": 5,
           "laps_led": 31,
-          "ineligible": false
+          "times_led": 5,
+          "status": "Running",
+          "points": 0
         },
         {
           "pos": 18,
@@ -319,29 +242,23 @@
           "team": "BuildSubmarines.com",
           "manufacturer": "Ford",
           "laps": 188,
-          "stage1_pos": 1,
-          "stage2_pos": 6,
-          "points": 34,
-          "status": "Running",
-          "times_led": 3,
           "laps_led": 21,
-          "ineligible": false
+          "times_led": 3,
+          "status": "Running",
+          "points": 0
         },
         {
           "pos": 19,
           "start": 18,
           "car": "#3",
           "driver": "Austin Dillon",
-          "team": "",
-          "manufacturer": "",
+          "team": "Bass Pro Shops/Winchester Long Beard XR",
+          "manufacturer": "Chevy",
           "laps": 188,
-          "stage1_pos": null,
-          "stage2_pos": null,
-          "points": 18,
+          "laps_led": 4,
+          "times_led": 3,
           "status": "Running",
-          "times_led": 4,
-          "laps_led": 5,
-          "ineligible": false
+          "points": 0
         },
         {
           "pos": 20,
@@ -349,15 +266,12 @@
           "car": "#97",
           "driver": "Shane Van Gisbergen",
           "team": "WeatherTech",
-          "manufacturer": "Chevrolet",
+          "manufacturer": "Chevy",
           "laps": 188,
-          "stage1_pos": null,
-          "stage2_pos": null,
-          "points": 17,
-          "status": "Running",
-          "times_led": 0,
           "laps_led": 0,
-          "ineligible": false
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
         },
         {
           "pos": 21,
@@ -365,15 +279,12 @@
           "car": "#51",
           "driver": "Cody Ware",
           "team": "Super.com",
-          "manufacturer": "Chevrolet",
+          "manufacturer": "Chevy",
           "laps": 188,
-          "stage1_pos": null,
-          "stage2_pos": 7,
-          "points": 20,
-          "status": "Running",
-          "times_led": 0,
           "laps_led": 0,
-          "ineligible": false
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
         },
         {
           "pos": 22,
@@ -383,13 +294,10 @@
           "team": "Pye-Barker Fire & Safety",
           "manufacturer": "Toyota",
           "laps": 187,
-          "stage1_pos": null,
-          "stage2_pos": null,
-          "points": 15,
-          "status": "Running",
-          "times_led": 0,
           "laps_led": 0,
-          "ineligible": false
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
         },
         {
           "pos": 23,
@@ -399,29 +307,23 @@
           "team": "Dollar Tree",
           "manufacturer": "Toyota",
           "laps": 187,
-          "stage1_pos": null,
-          "stage2_pos": null,
-          "points": 14,
-          "status": "Running",
-          "times_led": 0,
           "laps_led": 0,
-          "ineligible": false
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
         },
         {
           "pos": 24,
           "start": 40,
           "car": "#78",
-          "driver": "* Daniel Dye",
+          "driver": "* Daniel Dye(i)",
           "team": "Champion Container Corporation",
-          "manufacturer": "Chevrolet",
+          "manufacturer": "Chevy",
           "laps": 186,
-          "stage1_pos": null,
-          "stage2_pos": null,
-          "points": 0,
-          "status": "Running",
-          "times_led": 0,
           "laps_led": 0,
-          "ineligible": true
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
         },
         {
           "pos": 25,
@@ -431,13 +333,10 @@
           "team": "BEATBOX",
           "manufacturer": "Toyota",
           "laps": 186,
-          "stage1_pos": null,
-          "stage2_pos": null,
-          "points": 12,
-          "status": "Running",
-          "times_led": 0,
           "laps_led": 0,
-          "ineligible": false
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
         },
         {
           "pos": 26,
@@ -445,47 +344,38 @@
           "car": "#88",
           "driver": "Connor Zilisch",
           "team": "Red Bull",
-          "manufacturer": "Chevrolet",
+          "manufacturer": "Chevy",
           "laps": 185,
-          "stage1_pos": null,
-          "stage2_pos": null,
-          "points": 11,
-          "status": "Running",
-          "times_led": 0,
           "laps_led": 0,
-          "ineligible": false
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
         },
         {
           "pos": 27,
           "start": 37,
           "car": "#33",
-          "driver": "* Jesse Love",
+          "driver": "* Jesse Love(i)",
           "team": "1-800-Pack-Rat",
-          "manufacturer": "Chevrolet",
+          "manufacturer": "Chevy",
           "laps": 185,
-          "stage1_pos": null,
-          "stage2_pos": null,
-          "points": 0,
-          "status": "Running",
-          "times_led": 0,
           "laps_led": 0,
-          "ineligible": true
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
         },
         {
           "pos": 28,
           "start": 38,
           "car": "#66",
-          "driver": "* Chad Finchum",
+          "driver": "* Chad Finchum(i)",
           "team": "Knox Hydrate",
           "manufacturer": "Ford",
           "laps": 182,
-          "stage1_pos": null,
-          "stage2_pos": null,
-          "points": 0,
-          "status": "Running",
-          "times_led": 1,
           "laps_led": 8,
-          "ineligible": true
+          "times_led": 1,
+          "status": "Running",
+          "points": 0
         },
         {
           "pos": 29,
@@ -495,29 +385,23 @@
           "team": "Bass Pro Shops",
           "manufacturer": "Toyota",
           "laps": 180,
-          "stage1_pos": null,
-          "stage2_pos": null,
-          "points": 8,
-          "status": "Running",
-          "times_led": 2,
           "laps_led": 3,
-          "ineligible": false
+          "times_led": 2,
+          "status": "Running",
+          "points": 0
         },
         {
           "pos": 30,
           "start": 39,
           "car": "#44",
-          "driver": "* Joey Gase",
+          "driver": "* Joey Gase(i)",
           "team": "National Fire Prevention Association",
-          "manufacturer": "Chevrolet",
+          "manufacturer": "Chevy",
           "laps": 177,
-          "stage1_pos": null,
-          "stage2_pos": null,
-          "points": 0,
-          "status": "Running",
-          "times_led": 0,
           "laps_led": 0,
-          "ineligible": true
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
         },
         {
           "pos": 31,
@@ -527,13 +411,10 @@
           "team": "Castrol",
           "manufacturer": "Ford",
           "laps": 166,
-          "stage1_pos": 2,
-          "stage2_pos": null,
-          "points": 15,
-          "status": "Running",
-          "times_led": 0,
           "laps_led": 0,
-          "ineligible": false
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
         },
         {
           "pos": 32,
@@ -541,15 +422,12 @@
           "car": "#71",
           "driver": "Michael McDowell",
           "team": "Gunk",
-          "manufacturer": "Chevrolet",
+          "manufacturer": "Chevy",
           "laps": 149,
-          "stage1_pos": null,
-          "stage2_pos": null,
-          "points": 5,
-          "status": "Running",
-          "times_led": 1,
           "laps_led": 1,
-          "ineligible": false
+          "times_led": 1,
+          "status": "Running",
+          "points": 0
         },
         {
           "pos": 33,
@@ -559,13 +437,10 @@
           "team": "Motorcraft/Quick Lane",
           "manufacturer": "Ford",
           "laps": 124,
-          "stage1_pos": 6,
-          "stage2_pos": null,
-          "points": 9,
-          "status": "Accident",
-          "times_led": 0,
           "laps_led": 0,
-          "ineligible": false
+          "times_led": 0,
+          "status": "Out",
+          "points": 0
         },
         {
           "pos": 34,
@@ -575,13 +450,10 @@
           "team": "Saia Freight + Logistics",
           "manufacturer": "Toyota",
           "laps": 122,
-          "stage1_pos": null,
-          "stage2_pos": null,
-          "points": 3,
-          "status": "Accident",
-          "times_led": 3,
           "laps_led": 17,
-          "ineligible": false
+          "times_led": 3,
+          "status": "Out",
+          "points": 0
         },
         {
           "pos": 35,
@@ -589,15 +461,12 @@
           "car": "#24",
           "driver": "William Byron",
           "team": "Phorm Energy",
-          "manufacturer": "Chevrolet",
+          "manufacturer": "Chevy",
           "laps": 119,
-          "stage1_pos": null,
-          "stage2_pos": null,
-          "points": 2,
-          "status": "Accident",
-          "times_led": 0,
           "laps_led": 0,
-          "ineligible": false
+          "times_led": 0,
+          "status": "Out",
+          "points": 0
         },
         {
           "pos": 36,
@@ -607,13 +476,10 @@
           "team": "Xfinity",
           "manufacturer": "Toyota",
           "laps": 114,
-          "stage1_pos": null,
-          "stage2_pos": null,
-          "points": 1,
-          "status": "Accident",
-          "times_led": 3,
           "laps_led": 3,
-          "ineligible": false
+          "times_led": 3,
+          "status": "Out",
+          "points": 0
         },
         {
           "pos": 37,
@@ -623,17 +489,53 @@
           "team": "Wurth",
           "manufacturer": "Ford",
           "laps": 114,
-          "stage1_pos": 5,
-          "stage2_pos": null,
-          "points": 7,
-          "status": "Accident",
-          "times_led": 0,
           "laps_led": 0,
-          "ineligible": false
+          "times_led": 0,
+          "status": "Out",
+          "points": 0
+        },
+        {
+          "pos": 38,
+          "start": 27,
+          "car": "#41",
+          "driver": "Cole Custer",
+          "team": "Haas/Autodesk",
+          "manufacturer": "Chevy",
+          "laps": 114,
+          "laps_led": 0,
+          "times_led": 0,
+          "status": "Out",
+          "points": 0
+        },
+        {
+          "pos": 39,
+          "start": 25,
+          "car": "#22",
+          "driver": "Joey Logano",
+          "team": "Shell Pennzoil",
+          "manufacturer": "Ford",
+          "laps": 114,
+          "laps_led": 3,
+          "times_led": 1,
+          "status": "Out",
+          "points": 0
+        },
+        {
+          "pos": 40,
+          "start": 2,
+          "car": "#5",
+          "driver": "Kyle Larson",
+          "team": "Valvoline",
+          "manufacturer": "Chevy",
+          "laps": 114,
+          "laps_led": 0,
+          "times_led": 0,
+          "status": "Out",
+          "points": 0
         }
       ]
     },
-    "_updated": "2026-04-26"
+    "_updated": "2026-04-27"
   },
   "nascar-history": {
     "data": {
@@ -641,41 +543,15 @@
         {
           "run_name": "Jack Link's 500",
           "track_name": "Talladega Superspeedway",
+          "race_date": "2026-04-27",
+          "flag_state": 9,
           "laps_in_race": 188,
-          "race_number": 10,
-          "race_date": "2026-04-26",
-          "avg_speed_mph": 147.504,
-          "margin_of_victory": "0.114 Seconds",
           "cautions": 6,
           "caution_laps": 30,
-          "lead_changes": 52,
+          "lead_changes": 51,
           "leaders": 16,
-          "stage1_top10": [
-            "60",
-            "6",
-            "22",
-            "17",
-            "12",
-            "21",
-            "45",
-            "4",
-            "34",
-            "1"
-          ],
-          "stage2_top10": [
-            "1",
-            "20",
-            "17",
-            "47",
-            "34",
-            "60",
-            "51",
-            "48",
-            "9",
-            "38"
-          ],
-          "winner": "Carson Hocevar",
           "series_id": 1,
+          "race_id": 5605,
           "drivers": [
             {
               "pos": 1,
@@ -683,15 +559,12 @@
               "car": "#77",
               "driver": "Carson Hocevar",
               "team": "Chili's Ride the 'Dente",
-              "manufacturer": "Chevrolet",
+              "manufacturer": "Chevy",
               "laps": 188,
-              "stage1_pos": null,
-              "stage2_pos": null,
-              "points": 55,
-              "status": "Running",
-              "times_led": 8,
               "laps_led": 19,
-              "ineligible": false
+              "times_led": 8,
+              "status": "Running",
+              "points": 0
             },
             {
               "pos": 2,
@@ -701,13 +574,10 @@
               "team": "Kroger/Jack Link's",
               "manufacturer": "Ford",
               "laps": 188,
-              "stage1_pos": 4,
-              "stage2_pos": 3,
-              "points": 50,
-              "status": "Running",
-              "times_led": 8,
               "laps_led": 22,
-              "ineligible": false
+              "times_led": 8,
+              "status": "Running",
+              "points": 0
             },
             {
               "pos": 3,
@@ -715,15 +585,12 @@
               "car": "#48",
               "driver": "Alex Bowman",
               "team": "Ally",
-              "manufacturer": "Chevrolet",
+              "manufacturer": "Chevy",
               "laps": 188,
-              "stage1_pos": null,
-              "stage2_pos": 8,
-              "points": 37,
-              "status": "Running",
-              "times_led": 0,
               "laps_led": 0,
-              "ineligible": false
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
             },
             {
               "pos": 4,
@@ -731,15 +598,12 @@
               "car": "#9",
               "driver": "Chase Elliott",
               "team": "Amazon Prime",
-              "manufacturer": "Chevrolet",
+              "manufacturer": "Chevy",
               "laps": 188,
-              "stage1_pos": null,
-              "stage2_pos": 9,
-              "points": 35,
-              "status": "Running",
-              "times_led": 0,
               "laps_led": 0,
-              "ineligible": false
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
             },
             {
               "pos": 5,
@@ -749,13 +613,10 @@
               "team": "Aaron's/Boys & Girls Clubs of America",
               "manufacturer": "Ford",
               "laps": 188,
-              "stage1_pos": null,
-              "stage2_pos": 10,
-              "points": 34,
-              "status": "Running",
-              "times_led": 0,
               "laps_led": 0,
-              "ineligible": false
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
             },
             {
               "pos": 6,
@@ -763,15 +624,12 @@
               "car": "#47",
               "driver": "Ricky Stenhouse Jr.",
               "team": "Chef Boyardee",
-              "manufacturer": "Chevrolet",
+              "manufacturer": "Chevy",
               "laps": 188,
-              "stage1_pos": null,
-              "stage2_pos": 4,
-              "points": 38,
-              "status": "Running",
-              "times_led": 1,
               "laps_led": 2,
-              "ineligible": false
+              "times_led": 1,
+              "status": "Running",
+              "points": 0
             },
             {
               "pos": 7,
@@ -779,15 +637,12 @@
               "car": "#1",
               "driver": "Ross Chastain",
               "team": "Jockey VentraCool Air",
-              "manufacturer": "Chevrolet",
+              "manufacturer": "Chevy",
               "laps": 188,
-              "stage1_pos": 10,
-              "stage2_pos": 1,
-              "points": 41,
-              "status": "Running",
-              "times_led": 6,
               "laps_led": 22,
-              "ineligible": false
+              "times_led": 6,
+              "status": "Running",
+              "points": 0
             },
             {
               "pos": 8,
@@ -797,13 +652,10 @@
               "team": "Menards/FrogTape",
               "manufacturer": "Ford",
               "laps": 188,
-              "stage1_pos": null,
-              "stage2_pos": null,
-              "points": 29,
-              "status": "Running",
-              "times_led": 0,
               "laps_led": 0,
-              "ineligible": false
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
             },
             {
               "pos": 9,
@@ -813,13 +665,10 @@
               "team": "Grillo's Pickles/Pabst Blue Ribbon",
               "manufacturer": "Ford",
               "laps": 188,
-              "stage1_pos": 8,
-              "stage2_pos": null,
-              "points": 31,
-              "status": "Running",
-              "times_led": 1,
               "laps_led": 2,
-              "ineligible": false
+              "times_led": 1,
+              "status": "Running",
+              "points": 0
             },
             {
               "pos": 10,
@@ -827,15 +676,12 @@
               "car": "#8",
               "driver": "Kyle Busch",
               "team": "Cheddar's Scratch Kitchen",
-              "manufacturer": "Chevrolet",
+              "manufacturer": "Chevy",
               "laps": 188,
-              "stage1_pos": null,
-              "stage2_pos": null,
-              "points": 27,
-              "status": "Running",
-              "times_led": 0,
               "laps_led": 0,
-              "ineligible": false
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
             },
             {
               "pos": 11,
@@ -845,13 +691,10 @@
               "team": "Love's Travel Stops/Fleetguard",
               "manufacturer": "Ford",
               "laps": 188,
-              "stage1_pos": 9,
-              "stage2_pos": 5,
-              "points": 34,
-              "status": "Running",
-              "times_led": 0,
               "laps_led": 0,
-              "ineligible": false
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
             },
             {
               "pos": 12,
@@ -859,15 +702,12 @@
               "car": "#7",
               "driver": "Daniel Suarez",
               "team": "Freeway Insurance",
-              "manufacturer": "Chevrolet",
+              "manufacturer": "Chevy",
               "laps": 188,
-              "stage1_pos": null,
-              "stage2_pos": null,
-              "points": 25,
-              "status": "Running",
-              "times_led": 0,
               "laps_led": 0,
-              "ineligible": false
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
             },
             {
               "pos": 13,
@@ -875,15 +715,12 @@
               "car": "#10",
               "driver": "Ty Dillon",
               "team": "Grizzly Nicotine Pouches",
-              "manufacturer": "Chevrolet",
+              "manufacturer": "Chevy",
               "laps": 188,
-              "stage1_pos": null,
-              "stage2_pos": null,
-              "points": 24,
-              "status": "Running",
-              "times_led": 0,
               "laps_led": 0,
-              "ineligible": false
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
             },
             {
               "pos": 14,
@@ -893,13 +730,10 @@
               "team": "ROCKSTAR ENERGY DRINK",
               "manufacturer": "Toyota",
               "laps": 188,
-              "stage1_pos": 7,
-              "stage2_pos": null,
-              "points": 27,
+              "laps_led": 3,
+              "times_led": 2,
               "status": "Running",
-              "times_led": 1,
-              "laps_led": 2,
-              "ineligible": false
+              "points": 0
             },
             {
               "pos": 15,
@@ -909,13 +743,10 @@
               "team": "King's Hawaiian UBE Coconut Rolls",
               "manufacturer": "Toyota",
               "laps": 188,
-              "stage1_pos": null,
-              "stage2_pos": null,
-              "points": 22,
-              "status": "Running",
-              "times_led": 4,
               "laps_led": 28,
-              "ineligible": false
+              "times_led": 4,
+              "status": "Running",
+              "points": 0
             },
             {
               "pos": 16,
@@ -923,15 +754,12 @@
               "car": "#16",
               "driver": "AJ Allmendinger",
               "team": "Grizzly Nicotine Pouches",
-              "manufacturer": "Chevrolet",
+              "manufacturer": "Chevy",
               "laps": 188,
-              "stage1_pos": null,
-              "stage2_pos": null,
-              "points": 21,
-              "status": "Running",
-              "times_led": 0,
               "laps_led": 0,
-              "ineligible": false
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
             },
             {
               "pos": 17,
@@ -941,13 +769,10 @@
               "team": "Rheem",
               "manufacturer": "Toyota",
               "laps": 188,
-              "stage1_pos": null,
-              "stage2_pos": 2,
-              "points": 29,
-              "status": "Running",
-              "times_led": 5,
               "laps_led": 31,
-              "ineligible": false
+              "times_led": 5,
+              "status": "Running",
+              "points": 0
             },
             {
               "pos": 18,
@@ -957,29 +782,23 @@
               "team": "BuildSubmarines.com",
               "manufacturer": "Ford",
               "laps": 188,
-              "stage1_pos": 1,
-              "stage2_pos": 6,
-              "points": 34,
-              "status": "Running",
-              "times_led": 3,
               "laps_led": 21,
-              "ineligible": false
+              "times_led": 3,
+              "status": "Running",
+              "points": 0
             },
             {
               "pos": 19,
               "start": 18,
               "car": "#3",
               "driver": "Austin Dillon",
-              "team": "",
-              "manufacturer": "",
+              "team": "Bass Pro Shops/Winchester Long Beard XR",
+              "manufacturer": "Chevy",
               "laps": 188,
-              "stage1_pos": null,
-              "stage2_pos": null,
-              "points": 18,
+              "laps_led": 4,
+              "times_led": 3,
               "status": "Running",
-              "times_led": 4,
-              "laps_led": 5,
-              "ineligible": false
+              "points": 0
             },
             {
               "pos": 20,
@@ -987,15 +806,12 @@
               "car": "#97",
               "driver": "Shane Van Gisbergen",
               "team": "WeatherTech",
-              "manufacturer": "Chevrolet",
+              "manufacturer": "Chevy",
               "laps": 188,
-              "stage1_pos": null,
-              "stage2_pos": null,
-              "points": 17,
-              "status": "Running",
-              "times_led": 0,
               "laps_led": 0,
-              "ineligible": false
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
             },
             {
               "pos": 21,
@@ -1003,15 +819,12 @@
               "car": "#51",
               "driver": "Cody Ware",
               "team": "Super.com",
-              "manufacturer": "Chevrolet",
+              "manufacturer": "Chevy",
               "laps": 188,
-              "stage1_pos": null,
-              "stage2_pos": 7,
-              "points": 20,
-              "status": "Running",
-              "times_led": 0,
               "laps_led": 0,
-              "ineligible": false
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
             },
             {
               "pos": 22,
@@ -1021,13 +834,10 @@
               "team": "Pye-Barker Fire & Safety",
               "manufacturer": "Toyota",
               "laps": 187,
-              "stage1_pos": null,
-              "stage2_pos": null,
-              "points": 15,
-              "status": "Running",
-              "times_led": 0,
               "laps_led": 0,
-              "ineligible": false
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
             },
             {
               "pos": 23,
@@ -1037,29 +847,23 @@
               "team": "Dollar Tree",
               "manufacturer": "Toyota",
               "laps": 187,
-              "stage1_pos": null,
-              "stage2_pos": null,
-              "points": 14,
-              "status": "Running",
-              "times_led": 0,
               "laps_led": 0,
-              "ineligible": false
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
             },
             {
               "pos": 24,
               "start": 40,
               "car": "#78",
-              "driver": "* Daniel Dye",
+              "driver": "* Daniel Dye(i)",
               "team": "Champion Container Corporation",
-              "manufacturer": "Chevrolet",
+              "manufacturer": "Chevy",
               "laps": 186,
-              "stage1_pos": null,
-              "stage2_pos": null,
-              "points": 0,
-              "status": "Running",
-              "times_led": 0,
               "laps_led": 0,
-              "ineligible": true
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
             },
             {
               "pos": 25,
@@ -1069,13 +873,10 @@
               "team": "BEATBOX",
               "manufacturer": "Toyota",
               "laps": 186,
-              "stage1_pos": null,
-              "stage2_pos": null,
-              "points": 12,
-              "status": "Running",
-              "times_led": 0,
               "laps_led": 0,
-              "ineligible": false
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
             },
             {
               "pos": 26,
@@ -1083,47 +884,38 @@
               "car": "#88",
               "driver": "Connor Zilisch",
               "team": "Red Bull",
-              "manufacturer": "Chevrolet",
+              "manufacturer": "Chevy",
               "laps": 185,
-              "stage1_pos": null,
-              "stage2_pos": null,
-              "points": 11,
-              "status": "Running",
-              "times_led": 0,
               "laps_led": 0,
-              "ineligible": false
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
             },
             {
               "pos": 27,
               "start": 37,
               "car": "#33",
-              "driver": "* Jesse Love",
+              "driver": "* Jesse Love(i)",
               "team": "1-800-Pack-Rat",
-              "manufacturer": "Chevrolet",
+              "manufacturer": "Chevy",
               "laps": 185,
-              "stage1_pos": null,
-              "stage2_pos": null,
-              "points": 0,
-              "status": "Running",
-              "times_led": 0,
               "laps_led": 0,
-              "ineligible": true
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
             },
             {
               "pos": 28,
               "start": 38,
               "car": "#66",
-              "driver": "* Chad Finchum",
+              "driver": "* Chad Finchum(i)",
               "team": "Knox Hydrate",
               "manufacturer": "Ford",
               "laps": 182,
-              "stage1_pos": null,
-              "stage2_pos": null,
-              "points": 0,
-              "status": "Running",
-              "times_led": 1,
               "laps_led": 8,
-              "ineligible": true
+              "times_led": 1,
+              "status": "Running",
+              "points": 0
             },
             {
               "pos": 29,
@@ -1133,29 +925,23 @@
               "team": "Bass Pro Shops",
               "manufacturer": "Toyota",
               "laps": 180,
-              "stage1_pos": null,
-              "stage2_pos": null,
-              "points": 8,
-              "status": "Running",
-              "times_led": 2,
               "laps_led": 3,
-              "ineligible": false
+              "times_led": 2,
+              "status": "Running",
+              "points": 0
             },
             {
               "pos": 30,
               "start": 39,
               "car": "#44",
-              "driver": "* Joey Gase",
+              "driver": "* Joey Gase(i)",
               "team": "National Fire Prevention Association",
-              "manufacturer": "Chevrolet",
+              "manufacturer": "Chevy",
               "laps": 177,
-              "stage1_pos": null,
-              "stage2_pos": null,
-              "points": 0,
-              "status": "Running",
-              "times_led": 0,
               "laps_led": 0,
-              "ineligible": true
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
             },
             {
               "pos": 31,
@@ -1165,13 +951,10 @@
               "team": "Castrol",
               "manufacturer": "Ford",
               "laps": 166,
-              "stage1_pos": 2,
-              "stage2_pos": null,
-              "points": 15,
-              "status": "Running",
-              "times_led": 0,
               "laps_led": 0,
-              "ineligible": false
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
             },
             {
               "pos": 32,
@@ -1179,15 +962,12 @@
               "car": "#71",
               "driver": "Michael McDowell",
               "team": "Gunk",
-              "manufacturer": "Chevrolet",
+              "manufacturer": "Chevy",
               "laps": 149,
-              "stage1_pos": null,
-              "stage2_pos": null,
-              "points": 5,
-              "status": "Running",
-              "times_led": 1,
               "laps_led": 1,
-              "ineligible": false
+              "times_led": 1,
+              "status": "Running",
+              "points": 0
             },
             {
               "pos": 33,
@@ -1197,13 +977,10 @@
               "team": "Motorcraft/Quick Lane",
               "manufacturer": "Ford",
               "laps": 124,
-              "stage1_pos": 6,
-              "stage2_pos": null,
-              "points": 9,
-              "status": "Accident",
-              "times_led": 0,
               "laps_led": 0,
-              "ineligible": false
+              "times_led": 0,
+              "status": "Out",
+              "points": 0
             },
             {
               "pos": 34,
@@ -1213,13 +990,10 @@
               "team": "Saia Freight + Logistics",
               "manufacturer": "Toyota",
               "laps": 122,
-              "stage1_pos": null,
-              "stage2_pos": null,
-              "points": 3,
-              "status": "Accident",
-              "times_led": 3,
               "laps_led": 17,
-              "ineligible": false
+              "times_led": 3,
+              "status": "Out",
+              "points": 0
             },
             {
               "pos": 35,
@@ -1227,15 +1001,12 @@
               "car": "#24",
               "driver": "William Byron",
               "team": "Phorm Energy",
-              "manufacturer": "Chevrolet",
+              "manufacturer": "Chevy",
               "laps": 119,
-              "stage1_pos": null,
-              "stage2_pos": null,
-              "points": 2,
-              "status": "Accident",
-              "times_led": 0,
               "laps_led": 0,
-              "ineligible": false
+              "times_led": 0,
+              "status": "Out",
+              "points": 0
             },
             {
               "pos": 36,
@@ -1245,13 +1016,10 @@
               "team": "Xfinity",
               "manufacturer": "Toyota",
               "laps": 114,
-              "stage1_pos": null,
-              "stage2_pos": null,
-              "points": 1,
-              "status": "Accident",
-              "times_led": 3,
               "laps_led": 3,
-              "ineligible": false
+              "times_led": 3,
+              "status": "Out",
+              "points": 0
             },
             {
               "pos": 37,
@@ -1261,13 +1029,49 @@
               "team": "Wurth",
               "manufacturer": "Ford",
               "laps": 114,
-              "stage1_pos": 5,
-              "stage2_pos": null,
-              "points": 7,
-              "status": "Accident",
-              "times_led": 0,
               "laps_led": 0,
-              "ineligible": false
+              "times_led": 0,
+              "status": "Out",
+              "points": 0
+            },
+            {
+              "pos": 38,
+              "start": 27,
+              "car": "#41",
+              "driver": "Cole Custer",
+              "team": "Haas/Autodesk",
+              "manufacturer": "Chevy",
+              "laps": 114,
+              "laps_led": 0,
+              "times_led": 0,
+              "status": "Out",
+              "points": 0
+            },
+            {
+              "pos": 39,
+              "start": 25,
+              "car": "#22",
+              "driver": "Joey Logano",
+              "team": "Shell Pennzoil",
+              "manufacturer": "Ford",
+              "laps": 114,
+              "laps_led": 3,
+              "times_led": 1,
+              "status": "Out",
+              "points": 0
+            },
+            {
+              "pos": 40,
+              "start": 2,
+              "car": "#5",
+              "driver": "Kyle Larson",
+              "team": "Valvoline",
+              "manufacturer": "Chevy",
+              "laps": 114,
+              "laps_led": 0,
+              "times_led": 0,
+              "status": "Out",
+              "points": 0
             }
           ]
         },
@@ -6953,9 +6757,9 @@
           ]
         }
       ],
-      "updated": "2026-04-26"
+      "updated": "2026-04-27"
     },
-    "_updated": "2026-04-26"
+    "_updated": "2026-04-27"
   },
   "nascar-2026-season": {
     "data": {
