@@ -7244,11 +7244,11 @@
         }
       ],
       "next_race": {
-        "name": "Food City 500",
-        "track": "Bristol Motor Speedway",
-        "date": "2026-04-12",
-        "time": "3:00 PM ET",
-        "tv": "FS1"
+        "name": "W\u00fcrth 400 presented by LIQUI MOLY",
+        "track": "Texas Motor Speedway",
+        "date": "2026-05-03",
+        "time": "",
+        "tv": ""
       }
     },
     "_updated": "2026-04-27"
@@ -26950,7 +26950,14 @@
         }
       ],
       "series_name": "NASCAR Craftsman Truck Series",
-      "updated": "2026-04-27"
+      "updated": "2026-04-27",
+      "next_race": {
+        "name": "SpeedyCash.com 250",
+        "track": "Texas Motor Speedway",
+        "date": "2026-05-01",
+        "time": "",
+        "tv": ""
+      }
     },
     "_updated": "2026-04-27"
   },
@@ -35203,7 +35210,14 @@
         }
       ],
       "series_name": "NASCAR O'Reilly Auto Parts Series",
-      "updated": "2026-04-27"
+      "updated": "2026-04-27",
+      "next_race": {
+        "name": "Andy's Frozen Custard 340",
+        "track": "Texas Motor Speedway",
+        "date": "2026-05-02",
+        "time": "",
+        "tv": ""
+      }
     },
     "_updated": "2026-04-27"
   }
