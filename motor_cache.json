@@ -20543,6 +20543,13 @@
         "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/132568.png",
         "flag": "",
         "country": ""
+      },
+      "4364865": {
+        "id": "4364865",
+        "name": "Alex Fitzpatrick",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/4364865.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+        "country": "England"
       }
     },
     "_updated": "2026-04-28"
