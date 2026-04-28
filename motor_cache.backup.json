@@ -7267,6 +7267,15 @@
           "tv": "ESPN"
         },
         {
+          "name": "Cadillac Championship",
+          "date": "2026-04-30",
+          "is_complete": false,
+          "is_live": false,
+          "winner": null,
+          "winner_score": null,
+          "players": []
+        },
+        {
           "name": "Zurich Classic of New Orleans",
           "date": "2026-04-23",
           "is_complete": true,
