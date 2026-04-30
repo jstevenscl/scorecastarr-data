@@ -7270,7 +7270,7 @@
           "name": "Cadillac Championship",
           "date": "2026-04-30",
           "is_complete": false,
-          "is_live": false,
+          "is_live": true,
           "winner": null,
           "winner_score": null,
           "players": []
@@ -26616,7 +26616,7 @@
         {
           "pos": 33,
           "driver": "Clayton Green",
-          "car": "#22",
+          "car": "#2",
           "manufacturer": "",
           "points": 31,
           "wins": 0,
@@ -26895,7 +26895,7 @@
         {
           "pos": 64,
           "driver": "William Sawalich",
-          "car": "#1",
+          "car": "#5",
           "manufacturer": "",
           "points": 0,
           "wins": 0,
@@ -34984,7 +34984,7 @@
         {
           "pos": 45,
           "driver": "Dawson Cram",
-          "car": "#74",
+          "car": "#35",
           "manufacturer": "",
           "points": 14,
           "wins": 0,
