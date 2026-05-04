@@ -16682,6 +16682,30 @@
         "headshot": "",
         "flag": "",
         "country": ""
+      },
+      "2863": {
+        "id": "2863",
+        "name": "Lloyd Harris",
+        "shortName": "L. Harris",
+        "headshot": "",
+        "flag": "",
+        "country": ""
+      },
+      "2636": {
+        "id": "2636",
+        "name": "Roman Safiullin",
+        "shortName": "R. Safiullin",
+        "headshot": "",
+        "flag": "",
+        "country": ""
+      },
+      "12932": {
+        "id": "12932",
+        "name": "Michael Zheng",
+        "shortName": "M. Zheng",
+        "headshot": "",
+        "flag": "",
+        "country": ""
       }
     },
     "_updated": "2026-05-04"
@@ -17908,6 +17932,54 @@
         "id": "7672",
         "name": "Taylah Preston",
         "shortName": "T. Preston",
+        "headshot": "",
+        "flag": "",
+        "country": ""
+      },
+      "3889": {
+        "id": "3889",
+        "name": "Katarzyna Kawa",
+        "shortName": "K. Kawa",
+        "headshot": "",
+        "flag": "",
+        "country": ""
+      },
+      "2974": {
+        "id": "2974",
+        "name": "Kayla Day",
+        "shortName": "K. Day",
+        "headshot": "",
+        "flag": "",
+        "country": ""
+      },
+      "3155": {
+        "id": "3155",
+        "name": "Wang Xiyu",
+        "shortName": "X. Wang",
+        "headshot": "",
+        "flag": "",
+        "country": ""
+      },
+      "740": {
+        "id": "740",
+        "name": "Karolina Pliskova",
+        "shortName": "Ka. Pliskova",
+        "headshot": "",
+        "flag": "",
+        "country": ""
+      },
+      "10501": {
+        "id": "10501",
+        "name": "Maria Timofeeva",
+        "shortName": "M. Timofeeva",
+        "headshot": "",
+        "flag": "",
+        "country": ""
+      },
+      "13479": {
+        "id": "13479",
+        "name": "Mary Stoiana",
+        "shortName": "M. Stoiana",
         "headshot": "",
         "flag": "",
         "country": ""
@@ -21555,7 +21627,7 @@
           "name": "Jannik Sinner",
           "country": "",
           "headshot": "",
-          "points": 13350.0,
+          "points": 14350.0,
           "change": 0
         },
         {
@@ -21573,7 +21645,7 @@
           "name": "Alexander Zverev",
           "country": "",
           "headshot": "",
-          "points": 5255.0,
+          "points": 5805.0,
           "change": 0
         },
         {
@@ -21582,7 +21654,7 @@
           "name": "Novak Djokovic",
           "country": "",
           "headshot": "",
-          "points": 4710.0,
+          "points": 4700.0,
           "change": 0
         },
         {
@@ -21591,7 +21663,7 @@
           "name": "Felix Auger-Aliassime",
           "country": "",
           "headshot": "",
-          "points": 4100.0,
+          "points": 4050.0,
           "change": 0
         },
         {
@@ -21600,7 +21672,7 @@
           "name": "Ben Shelton",
           "country": "",
           "headshot": "",
-          "points": 4070.0,
+          "points": 4030.0,
           "change": 0
         },
         {
@@ -21609,7 +21681,7 @@
           "name": "Taylor Fritz",
           "country": "",
           "headshot": "",
-          "points": 3870.0,
+          "points": 3770.0,
           "change": 0
         },
         {
@@ -21618,25 +21690,25 @@
           "name": "Alex de Minaur",
           "country": "",
           "headshot": "",
-          "points": 3845.0,
+          "points": 3755.0,
           "change": 0
         },
         {
           "rank": 9,
-          "id": "3764",
-          "name": "Lorenzo Musetti",
-          "country": "",
-          "headshot": "",
-          "points": 3715.0,
-          "change": 0
-        },
-        {
-          "rank": 10,
           "id": "2383",
           "name": "Daniil Medvedev",
           "country": "",
           "headshot": "",
-          "points": 3560.0,
+          "points": 3460.0,
+          "change": 0
+        },
+        {
+          "rank": 10,
+          "id": "3764",
+          "name": "Lorenzo Musetti",
+          "country": "",
+          "headshot": "",
+          "points": 3415.0,
           "change": 0
         },
         {
@@ -21645,47 +21717,38 @@
           "name": "Alexander Bublik",
           "country": "",
           "headshot": "",
-          "points": 3445.0,
+          "points": 3355.0,
           "change": 0
         },
         {
           "rank": 12,
-          "id": "2642",
-          "name": "Andrey Rublev",
-          "country": "",
-          "headshot": "",
-          "points": 2630.0,
-          "change": 0
-        },
-        {
-          "rank": 13,
           "id": "7602",
           "name": "Flavio Cobolli",
           "country": "",
           "headshot": "",
-          "points": 2600.0,
+          "points": 2750.0,
           "change": 0
         },
         {
-          "rank": 14,
+          "rank": 13,
           "id": "3754",
           "name": "Jiri Lehecka",
           "country": "",
           "headshot": "",
-          "points": 2540.0,
+          "points": 2715.0,
+          "change": 0
+        },
+        {
+          "rank": 14,
+          "id": "2642",
+          "name": "Andrey Rublev",
+          "country": "",
+          "headshot": "",
+          "points": 2590.0,
           "change": 0
         },
         {
           "rank": 15,
-          "id": "2989",
-          "name": "Casper Ruud",
-          "country": "",
-          "headshot": "",
-          "points": 2535.0,
-          "change": 0
-        },
-        {
-          "rank": 16,
           "id": "2367",
           "name": "Karen Khachanov",
           "country": "",
@@ -21694,12 +21757,21 @@
           "change": 0
         },
         {
-          "rank": 17,
+          "rank": 16,
           "id": "9376",
           "name": "Valentin Vacherot",
           "country": "",
           "headshot": "",
-          "points": 2168.0,
+          "points": 2147.0,
+          "change": 0
+        },
+        {
+          "rank": 17,
+          "id": "10052",
+          "name": "Arthur Fils",
+          "country": "",
+          "headshot": "",
+          "points": 2130.0,
           "change": 0
         },
         {
@@ -21708,25 +21780,25 @@
           "name": "Tommy Paul",
           "country": "",
           "headshot": "",
-          "points": 2065.0,
+          "points": 1975.0,
           "change": 0
         },
         {
           "rank": 19,
-          "id": "2708",
-          "name": "Frances Tiafoe",
+          "id": "2366",
+          "name": "Cameron Norrie",
           "country": "",
           "headshot": "",
-          "points": 1965.0,
+          "points": 1918.0,
           "change": 0
         },
         {
           "rank": 20,
-          "id": "3700",
-          "name": "Francisco Cerundolo",
+          "id": "7833",
+          "name": "Luciano Darderi",
           "country": "",
           "headshot": "",
-          "points": 1920.0,
+          "points": 1890.0,
           "change": 0
         },
         {
@@ -21735,29 +21807,20 @@
           "name": "Learner Tien",
           "country": "",
           "headshot": "",
-          "points": 1885.0,
-          "change": 0
-        },
-        {
-          "rank": 22,
-          "id": "7833",
-          "name": "Luciano Darderi",
-          "country": "",
-          "headshot": "",
           "points": 1870.0,
           "change": 0
         },
         {
-          "rank": 23,
-          "id": "2366",
-          "name": "Cameron Norrie",
+          "rank": 22,
+          "id": "2708",
+          "name": "Frances Tiafoe",
           "country": "",
           "headshot": "",
-          "points": 1868.0,
+          "points": 1865.0,
           "change": 0
         },
         {
-          "rank": 24,
+          "rank": 23,
           "id": "3212",
           "name": "Alejandro Davidovich Fokina",
           "country": "",
@@ -21766,48 +21829,57 @@
           "change": 0
         },
         {
-          "rank": 25,
-          "id": "10052",
-          "name": "Arthur Fils",
-          "country": "",
-          "headshot": "",
-          "points": 1740.0,
-          "change": 0
-        },
-        {
-          "rank": 26,
+          "rank": 24,
           "id": "3511",
           "name": "Arthur Rinderknech",
           "country": "",
           "headshot": "",
-          "points": 1716.0,
+          "points": 1736.0,
           "change": 0
         },
         {
-          "rank": 27,
-          "id": "10319",
-          "name": "Jakub Mensik",
+          "rank": 25,
+          "id": "2989",
+          "name": "Casper Ruud",
           "country": "",
           "headshot": "",
-          "points": 1700.0,
+          "points": 1735.0,
           "change": 0
         },
         {
-          "rank": 28,
-          "id": "3856",
-          "name": "Jack Draper",
-          "country": "",
-          "headshot": "",
-          "points": 1610.0,
-          "change": 0
-        },
-        {
-          "rank": 29,
+          "rank": 26,
           "id": "3739",
           "name": "Tomas Martin Etcheverry",
           "country": "",
           "headshot": "",
-          "points": 1590.0,
+          "points": 1660.0,
+          "change": 0
+        },
+        {
+          "rank": 27,
+          "id": "3700",
+          "name": "Francisco Cerundolo",
+          "country": "",
+          "headshot": "",
+          "points": 1620.0,
+          "change": 0
+        },
+        {
+          "rank": 28,
+          "id": "10319",
+          "name": "Jakub Mensik",
+          "country": "",
+          "headshot": "",
+          "points": 1600.0,
+          "change": 0
+        },
+        {
+          "rank": 29,
+          "id": "11745",
+          "name": "Joao Fonseca",
+          "country": "",
+          "headshot": "",
+          "points": 1435.0,
           "change": 0
         },
         {
@@ -21816,16 +21888,16 @@
           "name": "Corentin Moutet",
           "country": "",
           "headshot": "",
-          "points": 1433.0,
+          "points": 1413.0,
           "change": 0
         },
         {
           "rank": 31,
-          "id": "11745",
-          "name": "Joao Fonseca",
+          "id": "3319",
+          "name": "Tallon Griekspoor",
           "country": "",
           "headshot": "",
-          "points": 1415.0,
+          "points": 1360.0,
           "change": 0
         },
         {
@@ -21834,40 +21906,40 @@
           "name": "Brandon Nakashima",
           "country": "",
           "headshot": "",
-          "points": 1385.0,
+          "points": 1295.0,
           "change": 0
         },
         {
           "rank": 33,
-          "id": "3319",
-          "name": "Tallon Griekspoor",
-          "country": "",
-          "headshot": "",
-          "points": 1340.0,
-          "change": 0
-        },
-        {
-          "rank": 34,
           "id": "3085",
           "name": "Ugo Humbert",
           "country": "",
           "headshot": "",
-          "points": 1320.0,
+          "points": 1280.0,
+          "change": 0
+        },
+        {
+          "rank": 34,
+          "id": "12657",
+          "name": "Rafael Jodar",
+          "country": "",
+          "headshot": "",
+          "points": 1273.0,
           "change": 0
         },
         {
           "rank": 35,
-          "id": "2860",
-          "name": "Denis Shapovalov",
+          "id": "2970",
+          "name": "Alejandro Tabilo",
           "country": "",
           "headshot": "",
-          "points": 1210.0,
+          "points": 1248.0,
           "change": 0
         },
         {
           "rank": 36,
-          "id": "3885",
-          "name": "Gabriel Diallo",
+          "id": "11757",
+          "name": "Alexander Blockx",
           "country": "",
           "headshot": "",
           "points": 1200.0,
@@ -21875,11 +21947,11 @@
         },
         {
           "rank": 37,
-          "id": "11400",
-          "name": "Alex Michelsen",
+          "id": "2860",
+          "name": "Denis Shapovalov",
           "country": "",
           "headshot": "",
-          "points": 1200.0,
+          "points": 1170.0,
           "change": 0
         },
         {
@@ -21888,25 +21960,25 @@
           "name": "Jaume Munar",
           "country": "",
           "headshot": "",
-          "points": 1135.0,
+          "points": 1155.0,
           "change": 0
         },
         {
           "rank": 39,
-          "id": "3659",
-          "name": "Holger Rune",
+          "id": "3356",
+          "name": "Zizou Bergs",
           "country": "",
           "headshot": "",
-          "points": 1120.0,
+          "points": 1140.0,
           "change": 0
         },
         {
           "rank": 40,
-          "id": "3368",
-          "name": "Sebastian Korda",
+          "id": "3659",
+          "name": "Holger Rune",
           "country": "",
           "headshot": "",
-          "points": 1100.0,
+          "points": 1110.0,
           "change": 0
         },
         {
@@ -21915,61 +21987,61 @@
           "name": "Tomas Machac",
           "country": "",
           "headshot": "",
-          "points": 1080.0,
+          "points": 1100.0,
           "change": 0
         },
         {
           "rank": 42,
-          "id": "12657",
-          "name": "Rafael Jodar",
+          "id": "11400",
+          "name": "Alex Michelsen",
           "country": "",
           "headshot": "",
-          "points": 1080.0,
+          "points": 1090.0,
           "change": 0
         },
         {
           "rank": 43,
-          "id": "2970",
-          "name": "Alejandro Tabilo",
+          "id": "3368",
+          "name": "Sebastian Korda",
           "country": "",
           "headshot": "",
-          "points": 1068.0,
+          "points": 1050.0,
           "change": 0
         },
         {
           "rank": 44,
-          "id": "3356",
-          "name": "Zizou Bergs",
-          "country": "",
-          "headshot": "",
-          "points": 1060.0,
-          "change": 0
-        },
-        {
-          "rank": 45,
           "id": "9992",
           "name": "Mariano Navone",
           "country": "",
           "headshot": "",
-          "points": 1055.0,
+          "points": 1046.0,
           "change": 0
         },
         {
-          "rank": 46,
+          "rank": 45,
           "id": "1266",
           "name": "Adrian Mannarino",
           "country": "",
           "headshot": "",
-          "points": 1025.0,
+          "points": 1035.0,
+          "change": 0
+        },
+        {
+          "rank": 46,
+          "id": "3885",
+          "name": "Gabriel Diallo",
+          "country": "",
+          "headshot": "",
+          "points": 1000.0,
           "change": 0
         },
         {
           "rank": 47,
-          "id": "10638",
-          "name": "Terence Atmane",
+          "id": "464",
+          "name": "Marin Cilic",
           "country": "",
           "headshot": "",
-          "points": 983.0,
+          "points": 980.0,
           "change": 0
         },
         {
@@ -21983,20 +22055,20 @@
         },
         {
           "rank": 49,
-          "id": "4115",
-          "name": "Nuno Borges",
-          "country": "",
-          "headshot": "",
-          "points": 970.0,
-          "change": 0
-        },
-        {
-          "rank": 50,
           "id": "9213",
           "name": "Fabian Marozsan",
           "country": "",
           "headshot": "",
-          "points": 955.0,
+          "points": 975.0,
+          "change": 0
+        },
+        {
+          "rank": 50,
+          "id": "3856",
+          "name": "Jack Draper",
+          "country": "",
+          "headshot": "",
+          "points": 960.0,
           "change": 0
         }
       ],
@@ -22013,7 +22085,7 @@
           "name": "Aryna Sabalenka",
           "country": "",
           "headshot": "",
-          "points": 10895.0,
+          "points": 10110.0,
           "change": 0
         },
         {
@@ -22022,25 +22094,25 @@
           "name": "Elena Rybakina",
           "country": "",
           "headshot": "",
-          "points": 8500.0,
+          "points": 8555.0,
           "change": 0
         },
         {
           "rank": 3,
-          "id": "3626",
-          "name": "Coco Gauff",
-          "country": "",
-          "headshot": "",
-          "points": 7279.0,
-          "change": 0
-        },
-        {
-          "rank": 4,
           "id": "3730",
           "name": "Iga Swiatek",
           "country": "",
           "headshot": "",
-          "points": 7273.0,
+          "points": 6948.0,
+          "change": 0
+        },
+        {
+          "rank": 4,
+          "id": "3626",
+          "name": "Coco Gauff",
+          "country": "",
+          "headshot": "",
+          "points": 6749.0,
           "change": 0
         },
         {
@@ -22058,29 +22130,20 @@
           "name": "Amanda Anisimova",
           "country": "",
           "headshot": "",
-          "points": 5995.0,
+          "points": 5985.0,
           "change": 0
         },
         {
           "rank": 7,
-          "id": "1797",
-          "name": "Elina Svitolina",
-          "country": "",
-          "headshot": "",
-          "points": 3910.0,
-          "change": 0
-        },
-        {
-          "rank": 8,
           "id": "9820",
           "name": "Mirra Andreeva",
           "country": "",
           "headshot": "",
-          "points": 3746.0,
+          "points": 4181.0,
           "change": 0
         },
         {
-          "rank": 9,
+          "rank": 8,
           "id": "2615",
           "name": "Jasmine Paolini",
           "country": "",
@@ -22089,12 +22152,21 @@
           "change": 0
         },
         {
-          "rank": 10,
+          "rank": 9,
           "id": "11219",
           "name": "Victoria Mboko",
           "country": "",
           "headshot": "",
           "points": 3531.0,
+          "change": 0
+        },
+        {
+          "rank": 10,
+          "id": "1797",
+          "name": "Elina Svitolina",
+          "country": "",
+          "headshot": "",
+          "points": 3530.0,
           "change": 0
         },
         {
@@ -22121,7 +22193,7 @@
           "name": "Linda Noskova",
           "country": "",
           "headshot": "",
-          "points": 2849.0,
+          "points": 2999.0,
           "change": 0
         },
         {
@@ -22130,34 +22202,34 @@
           "name": "Ekaterina Alexandrova",
           "country": "",
           "headshot": "",
-          "points": 2789.0,
+          "points": 2669.0,
           "change": 0
         },
         {
           "rank": 15,
-          "id": "2789",
-          "name": "Naomi Osaka",
+          "id": "3382",
+          "name": "Marta Kostyuk",
           "country": "",
           "headshot": "",
-          "points": 2324.0,
+          "points": 2507.0,
           "change": 0
         },
         {
           "rank": 16,
-          "id": "14311",
-          "name": "Iva Jovic",
+          "id": "2789",
+          "name": "Naomi Osaka",
           "country": "",
           "headshot": "",
-          "points": 2270.0,
+          "points": 2341.0,
           "change": 0
         },
         {
           "rank": 17,
-          "id": "1556",
-          "name": "Madison Keys",
+          "id": "14311",
+          "name": "Iva Jovic",
           "country": "",
           "headshot": "",
-          "points": 2161.0,
+          "points": 2235.0,
           "change": 0
         },
         {
@@ -22166,20 +22238,29 @@
           "name": "Clara Tauson",
           "country": "",
           "headshot": "",
-          "points": 2040.0,
+          "points": 2030.0,
           "change": 0
         },
         {
           "rank": 19,
-          "id": "8017",
-          "name": "Diana Shnaider",
+          "id": "1556",
+          "name": "Madison Keys",
           "country": "",
           "headshot": "",
-          "points": 2001.0,
+          "points": 1946.0,
           "change": 0
         },
         {
           "rank": 20,
+          "id": "8017",
+          "name": "Diana Shnaider",
+          "country": "",
+          "headshot": "",
+          "points": 1946.0,
+          "change": 0
+        },
+        {
+          "rank": 21,
           "id": "3840",
           "name": "Liudmila Samsonova",
           "country": "",
@@ -22188,7 +22269,7 @@
           "change": 0
         },
         {
-          "rank": 21,
+          "rank": 22,
           "id": "2221",
           "name": "Elise Mertens",
           "country": "",
@@ -22197,72 +22278,63 @@
           "change": 0
         },
         {
-          "rank": 22,
-          "id": "2977",
-          "name": "Anna Kalinskaya",
-          "country": "",
-          "headshot": "",
-          "points": 1813.0,
-          "change": 0
-        },
-        {
           "rank": 23,
-          "id": "3382",
-          "name": "Marta Kostyuk",
-          "country": "",
-          "headshot": "",
-          "points": 1722.0,
-          "change": 0
-        },
-        {
-          "rank": 24,
-          "id": "2392",
-          "name": "Marie Bouzkova",
-          "country": "",
-          "headshot": "",
-          "points": 1676.0,
-          "change": 0
-        },
-        {
-          "rank": 25,
           "id": "3641",
           "name": "Leylah Fernandez",
           "country": "",
           "headshot": "",
-          "points": 1646.0,
+          "points": 1851.0,
+          "change": 0
+        },
+        {
+          "rank": 24,
+          "id": "2977",
+          "name": "Anna Kalinskaya",
+          "country": "",
+          "headshot": "",
+          "points": 1758.0,
+          "change": 0
+        },
+        {
+          "rank": 25,
+          "id": "3913",
+          "name": "Hailey Baptiste",
+          "country": "",
+          "headshot": "",
+          "points": 1747.0,
           "change": 0
         },
         {
           "rank": 26,
-          "id": "1774",
-          "name": "Sorana Cirstea",
+          "id": "2392",
+          "name": "Marie Bouzkova",
           "country": "",
           "headshot": "",
-          "points": 1540.0,
+          "points": 1651.0,
           "change": 0
         },
         {
           "rank": 27,
-          "id": "3398",
-          "name": "Emma Raducanu",
+          "id": "1774",
+          "name": "Sorana Cirstea",
           "country": "",
           "headshot": "",
-          "points": 1465.0,
+          "points": 1595.0,
           "change": 0
         },
         {
           "rank": 28,
-          "id": "3785",
-          "name": "Emma Navarro",
+          "id": "2737",
+          "name": "Jaqueline Cristian",
           "country": "",
           "headshot": "",
-          "points": 1442.0,
+          "points": 1437.0,
           "change": 0
         },
         {
           "rank": 29,
-          "id": "14146",
-          "name": "Maya Joint",
+          "id": "3380",
+          "name": "Ann Li",
           "country": "",
           "headshot": "",
           "points": 1435.0,
@@ -22270,15 +22342,33 @@
         },
         {
           "rank": 30,
-          "id": "3157",
-          "name": "Cristina Bucsa",
+          "id": "3398",
+          "name": "Emma Raducanu",
           "country": "",
           "headshot": "",
-          "points": 1426.0,
+          "points": 1430.0,
           "change": 0
         },
         {
           "rank": 31,
+          "id": "3157",
+          "name": "Cristina Bucsa",
+          "country": "",
+          "headshot": "",
+          "points": 1406.0,
+          "change": 0
+        },
+        {
+          "rank": 32,
+          "id": "6048",
+          "name": "Zheng Qinwen",
+          "country": "",
+          "headshot": "",
+          "points": 1405.0,
+          "change": 0
+        },
+        {
+          "rank": 33,
           "id": "3387",
           "name": "Wang Xinyu",
           "country": "",
@@ -22287,27 +22377,9 @@
           "change": 0
         },
         {
-          "rank": 32,
-          "id": "3913",
-          "name": "Hailey Baptiste",
-          "country": "",
-          "headshot": "",
-          "points": 1392.0,
-          "change": 0
-        },
-        {
-          "rank": 33,
-          "id": "2737",
-          "name": "Jaqueline Cristian",
-          "country": "",
-          "headshot": "",
-          "points": 1382.0,
-          "change": 0
-        },
-        {
           "rank": 34,
-          "id": "3380",
-          "name": "Ann Li",
+          "id": "14146",
+          "name": "Maya Joint",
           "country": "",
           "headshot": "",
           "points": 1380.0,
@@ -22315,42 +22387,51 @@
         },
         {
           "rank": 35,
-          "id": "7819",
-          "name": "Sara Bejlek",
+          "id": "3785",
+          "name": "Emma Navarro",
           "country": "",
           "headshot": "",
-          "points": 1380.0,
+          "points": 1377.0,
           "change": 0
         },
         {
           "rank": 36,
-          "id": "6048",
-          "name": "Zheng Qinwen",
+          "id": "2195",
+          "name": "Jelena Ostapenko",
           "country": "",
           "headshot": "",
-          "points": 1350.0,
+          "points": 1369.0,
           "change": 0
         },
         {
           "rank": 37,
-          "id": "3018",
-          "name": "Maria Sakkari",
+          "id": "7819",
+          "name": "Sara Bejlek",
           "country": "",
           "headshot": "",
-          "points": 1348.0,
+          "points": 1360.0,
           "change": 0
         },
         {
           "rank": 38,
-          "id": "2672",
-          "name": "Magdalena Frech",
+          "id": "2971",
+          "name": "Anastasia Potapova",
           "country": "",
           "headshot": "",
-          "points": 1318.0,
+          "points": 1355.0,
           "change": 0
         },
         {
           "rank": 39,
+          "id": "2248",
+          "name": "Katerina Siniakova",
+          "country": "",
+          "headshot": "",
+          "points": 1342.0,
+          "change": 0
+        },
+        {
+          "rank": 40,
           "id": "6368",
           "name": "Janice Tjen",
           "country": "",
@@ -22359,43 +22440,16 @@
           "change": 0
         },
         {
-          "rank": 40,
-          "id": "2195",
-          "name": "Jelena Ostapenko",
-          "country": "",
-          "headshot": "",
-          "points": 1314.0,
-          "change": 0
-        },
-        {
           "rank": 41,
           "id": "3831",
           "name": "Elisabetta Cocciaretto",
           "country": "",
           "headshot": "",
-          "points": 1310.0,
+          "points": 1290.0,
           "change": 0
         },
         {
           "rank": 42,
-          "id": "2248",
-          "name": "Katerina Siniakova",
-          "country": "",
-          "headshot": "",
-          "points": 1299.0,
-          "change": 0
-        },
-        {
-          "rank": 43,
-          "id": "5848",
-          "name": "Peyton Stearns",
-          "country": "",
-          "headshot": "",
-          "points": 1296.0,
-          "change": 0
-        },
-        {
-          "rank": 44,
           "id": "7759",
           "name": "Alexandra Eala",
           "country": "",
@@ -22404,7 +22458,16 @@
           "change": 0
         },
         {
-          "rank": 45,
+          "rank": 43,
+          "id": "6403",
+          "name": "Lois Boisson",
+          "country": "",
+          "headshot": "",
+          "points": 1268.0,
+          "change": 0
+        },
+        {
+          "rank": 44,
           "id": "2735",
           "name": "Marketa Vondrousova",
           "country": "",
@@ -22413,48 +22476,57 @@
           "change": 0
         },
         {
-          "rank": 46,
-          "id": "6403",
-          "name": "Lois Boisson",
+          "rank": 45,
+          "id": "2672",
+          "name": "Magdalena Frech",
           "country": "",
           "headshot": "",
-          "points": 1259.0,
+          "points": 1263.0,
           "change": 0
         },
         {
-          "rank": 47,
+          "rank": 46,
           "id": "1881",
           "name": "Laura Siegemund",
           "country": "",
           "headshot": "",
-          "points": 1217.0,
+          "points": 1250.0,
+          "change": 0
+        },
+        {
+          "rank": 47,
+          "id": "3018",
+          "name": "Maria Sakkari",
+          "country": "",
+          "headshot": "",
+          "points": 1238.0,
           "change": 0
         },
         {
           "rank": 48,
-          "id": "5528",
-          "name": "McCartney Kessler",
+          "id": "8419",
+          "name": "Tereza Valentova",
           "country": "",
           "headshot": "",
-          "points": 1214.0,
+          "points": 1231.0,
           "change": 0
         },
         {
           "rank": 49,
-          "id": "3142",
-          "name": "Dayana Yastremska",
+          "id": "5848",
+          "name": "Peyton Stearns",
           "country": "",
           "headshot": "",
-          "points": 1200.0,
+          "points": 1211.0,
           "change": 0
         },
         {
           "rank": 50,
-          "id": "6059",
-          "name": "Jessica Bouzas Maneiro",
+          "id": "5528",
+          "name": "McCartney Kessler",
           "country": "",
           "headshot": "",
-          "points": 1186.0,
+          "points": 1204.0,
           "change": 0
         }
       ],
