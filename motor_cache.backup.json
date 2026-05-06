@@ -7859,19 +7859,19 @@
         },
         {
           "pos": 12,
-          "driver": "Ryan Preece",
-          "car": "#60",
-          "manufacturer": "Ford",
-          "points": 298,
+          "driver": "Christopher Bell",
+          "car": "#20",
+          "manufacturer": "Toyota",
+          "points": 291,
           "wins": 0,
           "races": 0
         },
         {
           "pos": 13,
-          "driver": "Christopher Bell",
-          "car": "#20",
-          "manufacturer": "Toyota",
-          "points": 291,
+          "driver": "Ryan Preece",
+          "car": "#60",
+          "manufacturer": "Ford",
+          "points": 273,
           "wins": 0,
           "races": 0
         },
@@ -22708,13 +22708,13 @@
         "name": "Bubba Wallace",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/3645.vresize.140.140.medium.2.png"
       },
-      "ryan_preece": {
-        "name": "Ryan Preece",
-        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/3624.vresize.140.140.medium.2.png"
-      },
       "christopher_bell": {
         "name": "Christopher Bell",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4531.vresize.140.140.medium.2.png"
+      },
+      "ryan_preece": {
+        "name": "Ryan Preece",
+        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/3624.vresize.140.140.medium.2.png"
       },
       "daniel_su\u00e1rez": {
         "name": "Daniel Su\u00e1rez",
