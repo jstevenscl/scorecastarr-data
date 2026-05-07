@@ -14686,6 +14686,212 @@
     "data": {
       "races": [
         {
+          "raceName": "Miami Grand Prix",
+          "date": "2026-05-03",
+          "circuit": "Miami International Autodrome",
+          "country": "USA",
+          "results": [
+            {
+              "pos": 1,
+              "driver": "Andrea Kimi Antonelli",
+              "team": "Mercedes",
+              "time": "1:33:19.273",
+              "points": 25.0,
+              "number": "12",
+              "laps": "57"
+            },
+            {
+              "pos": 2,
+              "driver": "Lando Norris",
+              "team": "McLaren",
+              "time": "+3.264",
+              "points": 18.0,
+              "number": "1",
+              "laps": "57"
+            },
+            {
+              "pos": 3,
+              "driver": "Oscar Piastri",
+              "team": "McLaren",
+              "time": "+27.092",
+              "points": 15.0,
+              "number": "81",
+              "laps": "57"
+            },
+            {
+              "pos": 4,
+              "driver": "George Russell",
+              "team": "Mercedes",
+              "time": "+43.051",
+              "points": 12.0,
+              "number": "63",
+              "laps": "57"
+            },
+            {
+              "pos": 5,
+              "driver": "Max Verstappen",
+              "team": "Red Bull",
+              "time": "+48.949",
+              "points": 10.0,
+              "number": "3",
+              "laps": "57"
+            },
+            {
+              "pos": 6,
+              "driver": "Lewis Hamilton",
+              "team": "Ferrari",
+              "time": "+53.753",
+              "points": 8.0,
+              "number": "44",
+              "laps": "57"
+            },
+            {
+              "pos": 7,
+              "driver": "Franco Colapinto",
+              "team": "Alpine F1 Team",
+              "time": "+1:01.871",
+              "points": 6.0,
+              "number": "43",
+              "laps": "57"
+            },
+            {
+              "pos": 8,
+              "driver": "Charles Leclerc",
+              "team": "Ferrari",
+              "time": "+1:04.245",
+              "points": 4.0,
+              "number": "16",
+              "laps": "57"
+            },
+            {
+              "pos": 9,
+              "driver": "Carlos Sainz",
+              "team": "Williams",
+              "time": "+1:22.072",
+              "points": 2.0,
+              "number": "55",
+              "laps": "57"
+            },
+            {
+              "pos": 10,
+              "driver": "Alexander Albon",
+              "team": "Williams",
+              "time": "+1:30.972",
+              "points": 1.0,
+              "number": "23",
+              "laps": "57"
+            },
+            {
+              "pos": 11,
+              "driver": "Oliver Bearman",
+              "team": "Haas F1 Team",
+              "time": "+6.400",
+              "points": 0.0,
+              "number": "87",
+              "laps": "56"
+            },
+            {
+              "pos": 12,
+              "driver": "Gabriel Bortoleto",
+              "team": "Audi",
+              "time": "+9.353",
+              "points": 0.0,
+              "number": "5",
+              "laps": "56"
+            },
+            {
+              "pos": 13,
+              "driver": "Esteban Ocon",
+              "team": "Haas F1 Team",
+              "time": "+13.873",
+              "points": 0.0,
+              "number": "31",
+              "laps": "56"
+            },
+            {
+              "pos": 14,
+              "driver": "Arvid Lindblad",
+              "team": "RB F1 Team",
+              "time": "+44.781",
+              "points": 0.0,
+              "number": "41",
+              "laps": "56"
+            },
+            {
+              "pos": 15,
+              "driver": "Fernando Alonso",
+              "team": "Aston Martin",
+              "time": "+1:14.964",
+              "points": 0.0,
+              "number": "14",
+              "laps": "56"
+            },
+            {
+              "pos": 16,
+              "driver": "Sergio P\u00e9rez",
+              "team": "Cadillac F1 Team",
+              "time": "+1:17.513",
+              "points": 0.0,
+              "number": "11",
+              "laps": "56"
+            },
+            {
+              "pos": 17,
+              "driver": "Lance Stroll",
+              "team": "Aston Martin",
+              "time": "+1:22.631",
+              "points": 0.0,
+              "number": "18",
+              "laps": "56"
+            },
+            {
+              "pos": 18,
+              "driver": "Valtteri Bottas",
+              "team": "Cadillac F1 Team",
+              "time": "+1:08.255",
+              "points": 0.0,
+              "number": "77",
+              "laps": "55"
+            },
+            {
+              "pos": 19,
+              "driver": "Nico H\u00fclkenberg",
+              "team": "Audi",
+              "time": "Retired",
+              "points": 0.0,
+              "number": "27",
+              "laps": "7"
+            },
+            {
+              "pos": 20,
+              "driver": "Liam Lawson",
+              "team": "RB F1 Team",
+              "time": "Retired",
+              "points": 0.0,
+              "number": "30",
+              "laps": "6"
+            },
+            {
+              "pos": 21,
+              "driver": "Pierre Gasly",
+              "team": "Alpine F1 Team",
+              "time": "Retired",
+              "points": 0.0,
+              "number": "10",
+              "laps": "4"
+            },
+            {
+              "pos": 22,
+              "driver": "Isack Hadjar",
+              "team": "Red Bull",
+              "time": "Retired",
+              "points": 0.0,
+              "number": "6",
+              "laps": "4"
+            }
+          ]
+        },
+        {
           "raceName": "Japanese Grand Prix",
           "date": "2026-03-29",
           "circuit": "Suzuka Circuit",
@@ -15250,9 +15456,9 @@
           ]
         }
       ],
-      "updated": "2026-04-02"
+      "updated": "2026-05-07"
     },
-    "_updated": "2026-04-03"
+    "_updated": "2026-05-07"
   },
   "f1-2026-season": {
     "data": {
@@ -15436,6 +15642,11 @@
       ],
       "races": [
         {
+          "name": "Miami Grand Prix",
+          "date": "2026-05-03",
+          "winner": "Andrea Kimi Antonelli"
+        },
+        {
           "round": 3,
           "name": "Japanese Grand Prix",
           "date": "2026-03-29",
@@ -15462,9 +15673,9 @@
         "country": "USA",
         "tv": "ESPN"
       },
-      "updated": "2026-04-02"
+      "updated": "2026-05-07"
     },
-    "_updated": "2026-04-07"
+    "_updated": "2026-05-07"
   },
   "atp-players": {
     "data": {
