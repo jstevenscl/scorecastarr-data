@@ -8616,6 +8616,15 @@
           "races": 0
         },
         {
+          "pos": 39,
+          "driver": "Katherine Legge",
+          "car": "#78",
+          "manufacturer": "",
+          "points": 2,
+          "wins": 0,
+          "races": 0
+        },
+        {
           "pos": 40,
           "driver": "Corey Heim",
           "car": "#67",
@@ -23551,6 +23560,10 @@
         "name": "BJ McLeod",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/3811.vresize.140.140.medium.1.png"
       },
+      "katherine_legge": {
+        "name": "Katherine Legge",
+        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4704.vresize.140.140.medium.2.png"
+      },
       "corey_heim": {
         "name": "Corey Heim",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4863.vresize.140.140.medium.2.png"
@@ -23818,10 +23831,6 @@
       "tony_stewart": {
         "name": "Tony Stewart",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/2812.vresize.140.140.medium.1.png"
-      },
-      "katherine_legge": {
-        "name": "Katherine Legge",
-        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4704.vresize.140.140.medium.2.png"
       },
       "gray_gaulding": {
         "name": "Gray Gaulding",
