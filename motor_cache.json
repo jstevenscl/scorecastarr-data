@@ -8792,6 +8792,15 @@
           "tv": "ESPN"
         },
         {
+          "name": "PGA Championship",
+          "date": "2026-05-14",
+          "is_complete": false,
+          "is_live": false,
+          "winner": null,
+          "winner_score": null,
+          "players": []
+        },
+        {
           "name": "Truist Championship",
           "date": "2026-05-07",
           "is_complete": true,
@@ -40767,7 +40776,7 @@
         {
           "pos": 46,
           "driver": "Blake Lothian",
-          "car": "#35",
+          "car": "#55",
           "manufacturer": "",
           "points": 16,
           "wins": 0,
@@ -40929,7 +40938,7 @@
         {
           "pos": 65,
           "driver": "Ross Chastain",
-          "car": "#32",
+          "car": "#9",
           "manufacturer": "Chevy",
           "points": 0,
           "wins": 0,
