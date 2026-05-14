@@ -8795,7 +8795,7 @@
           "name": "PGA Championship",
           "date": "2026-05-14",
           "is_complete": false,
-          "is_live": false,
+          "is_live": true,
           "winner": null,
           "winner_score": null,
           "players": []
