@@ -25113,10 +25113,6 @@
         "name": "Timmy Hill",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/2860.vresize.140.140.medium.1.png"
       },
-      "joey_gase": {
-        "name": "Joey Gase",
-        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/3593.vresize.140.140.medium.1.png"
-      },
       "sheldon_creed": {
         "name": "Sheldon Creed",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4588.vresize.140.140.medium.1.png"
@@ -25173,6 +25169,10 @@
         "name": "Josh Williams",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4187.vresize.140.140.medium.1.png"
       },
+      "joey_gase": {
+        "name": "Joey Gase",
+        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/3593.vresize.140.140.medium.1.png"
+      },
       "garrett_smithley": {
         "name": "Garrett Smithley",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4522.vresize.140.140.medium.1.png"
@@ -25212,10 +25212,6 @@
       "david_starr": {
         "name": "David Starr",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/2905.vresize.140.140.medium.1.png"
-      },
-      "gray_gaulding": {
-        "name": "Gray Gaulding",
-        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4136.vresize.140.140.medium.1.png"
       },
       "natalie_decker": {
         "name": "Natalie Decker",
@@ -25352,6 +25348,10 @@
       "tony_stewart": {
         "name": "Tony Stewart",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/2812.vresize.140.140.medium.1.png"
+      },
+      "gray_gaulding": {
+        "name": "Gray Gaulding",
+        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4136.vresize.140.140.medium.1.png"
       }
     },
     "_updated": "2026-05-20"
@@ -34291,7 +34291,7 @@
         }
       ],
       "series_name": "NASCAR Craftsman Truck Series",
-      "updated": "2026-05-19",
+      "updated": "2026-05-20",
       "next_race": {
         "name": "North Carolina Education Lottery 200",
         "track": "Charlotte Motor Speedway",
@@ -45028,7 +45028,7 @@
         }
       ],
       "series_name": "NASCAR O'Reilly Auto Parts Series",
-      "updated": "2026-05-19",
+      "updated": "2026-05-20",
       "next_race": {
         "name": "Charbroil 300",
         "track": "Charlotte Motor Speedway",
