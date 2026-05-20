@@ -3,7 +3,7 @@
     "data": {
       "run_name": "NASCAR All-Star Race - Final Segment",
       "track_name": "Dover Motor Speedway",
-      "race_date": "2026-05-19",
+      "race_date": "2026-05-20",
       "session_type": "race",
       "winner": "Denny Hamlin",
       "flag_state": 9,
@@ -355,7 +355,7 @@
         }
       ]
     },
-    "_updated": "2026-05-19"
+    "_updated": "2026-05-20"
   },
   "nascar-history": {
     "data": {
@@ -363,7 +363,7 @@
         {
           "run_name": "NASCAR All-Star Race - Final Segment",
           "track_name": "Dover Motor Speedway",
-          "race_date": "2026-05-19",
+          "race_date": "2026-05-20",
           "session_type": "race",
           "winner": "Denny Hamlin",
           "flag_state": 9,
@@ -9420,14 +9420,14 @@
           "session_type": "race"
         }
       ],
-      "updated": "2026-05-19"
+      "updated": "2026-05-20"
     },
-    "_updated": "2026-05-19"
+    "_updated": "2026-05-20"
   },
   "nascar-2026-season": {
     "data": {
       "series_name": "NASCAR Cup Series",
-      "updated": "2026-05-19",
+      "updated": "2026-05-20",
       "standings": [
         {
           "pos": 1,
@@ -9932,7 +9932,7 @@
         "tv": ""
       }
     },
-    "_updated": "2026-05-19"
+    "_updated": "2026-05-20"
   },
   "pga-2026-tournaments": {
     "data": {
@@ -16360,9 +16360,9 @@
           "players": []
         }
       ],
-      "updated": "2026-05-19"
+      "updated": "2026-05-20"
     },
-    "_updated": "2026-05-19"
+    "_updated": "2026-05-20"
   },
   "f1-history": {
     "data": {
@@ -17138,9 +17138,9 @@
           ]
         }
       ],
-      "updated": "2026-05-19"
+      "updated": "2026-05-20"
     },
-    "_updated": "2026-05-19"
+    "_updated": "2026-05-20"
   },
   "f1-2026-season": {
     "data": {
@@ -17355,9 +17355,9 @@
         "country": "USA",
         "tv": "ESPN"
       },
-      "updated": "2026-05-19"
+      "updated": "2026-05-20"
     },
-    "_updated": "2026-05-19"
+    "_updated": "2026-05-20"
   },
   "atp-players": {
     "data": {
@@ -18634,7 +18634,7 @@
         "country": ""
       }
     },
-    "_updated": "2026-05-19"
+    "_updated": "2026-05-20"
   },
   "wta-players": {
     "data": {
@@ -19911,7 +19911,7 @@
         "country": ""
       }
     },
-    "_updated": "2026-05-19"
+    "_updated": "2026-05-20"
   },
   "pga-players": {
     "data": {
@@ -23997,7 +23997,7 @@
         "country": "USA"
       }
     },
-    "_updated": "2026-05-19"
+    "_updated": "2026-05-20"
   },
   "atp-rankings": {
     "data": {
@@ -24453,9 +24453,9 @@
           "change": 0
         }
       ],
-      "updated": "2026-05-19"
+      "updated": "2026-05-20"
     },
-    "_updated": "2026-05-19"
+    "_updated": "2026-05-20"
   },
   "wta-rankings": {
     "data": {
@@ -24911,9 +24911,9 @@
           "change": 0
         }
       ],
-      "updated": "2026-05-19"
+      "updated": "2026-05-20"
     },
-    "_updated": "2026-05-19"
+    "_updated": "2026-05-20"
   },
   "nascar-drivers": {
     "data": {
@@ -25113,6 +25113,10 @@
         "name": "Timmy Hill",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/2860.vresize.140.140.medium.1.png"
       },
+      "joey_gase": {
+        "name": "Joey Gase",
+        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/3593.vresize.140.140.medium.1.png"
+      },
       "sheldon_creed": {
         "name": "Sheldon Creed",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4588.vresize.140.140.medium.1.png"
@@ -25169,10 +25173,6 @@
         "name": "Josh Williams",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4187.vresize.140.140.medium.1.png"
       },
-      "joey_gase": {
-        "name": "Joey Gase",
-        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/3593.vresize.140.140.medium.1.png"
-      },
       "garrett_smithley": {
         "name": "Garrett Smithley",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4522.vresize.140.140.medium.1.png"
@@ -25212,6 +25212,10 @@
       "david_starr": {
         "name": "David Starr",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/2905.vresize.140.140.medium.1.png"
+      },
+      "gray_gaulding": {
+        "name": "Gray Gaulding",
+        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4136.vresize.140.140.medium.1.png"
       },
       "natalie_decker": {
         "name": "Natalie Decker",
@@ -25348,13 +25352,9 @@
       "tony_stewart": {
         "name": "Tony Stewart",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/2812.vresize.140.140.medium.1.png"
-      },
-      "gray_gaulding": {
-        "name": "Gray Gaulding",
-        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4136.vresize.140.140.medium.1.png"
       }
     },
-    "_updated": "2026-05-19"
+    "_updated": "2026-05-20"
   },
   "f1-drivers": {
     "data": {
@@ -25447,7 +25447,7 @@
         "headshot": "https://media.formula1.com/image/upload/c_fill,g_face,w_140,h_140/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/astonmartin/lanstr01/2026astonmartinlanstr01right.webp"
       }
     },
-    "_updated": "2026-05-19"
+    "_updated": "2026-05-20"
   },
   "nascar-trucks-history": {
     "data": {
@@ -34300,7 +34300,7 @@
         "tv": ""
       }
     },
-    "_updated": "2026-05-19"
+    "_updated": "2026-05-20"
   },
   "nascar-noaps-history": {
     "data": {
@@ -45037,6 +45037,6 @@
         "tv": ""
       }
     },
-    "_updated": "2026-05-19"
+    "_updated": "2026-05-20"
   }
 }
