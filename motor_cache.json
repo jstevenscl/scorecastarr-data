@@ -9792,7 +9792,7 @@
         {
           "pos": 41,
           "driver": "Austin Hill",
-          "car": "#8",
+          "car": "#33",
           "manufacturer": "",
           "points": 0,
           "wins": 0,
@@ -25458,7 +25458,7 @@
           "race_date": "2026-05-23",
           "session_type": "race",
           "winner": "Corey Day(i)",
-          "flag_state": 8,
+          "flag_state": 9,
           "laps_in_race": 134,
           "cautions": 0,
           "caution_laps": 0,
@@ -33552,7 +33552,7 @@
       "race_date": "2026-05-23",
       "session_type": "race",
       "winner": "Corey Day(i)",
-      "flag_state": 8,
+      "flag_state": 9,
       "laps_in_race": 134,
       "cautions": 0,
       "caution_laps": 0,
@@ -34778,9 +34778,9 @@
       "series_name": "NASCAR Craftsman Truck Series",
       "updated": "2026-05-23",
       "next_race": {
-        "name": "Allegiance 200",
-        "track": "Nashville Superspeedway",
-        "date": "2026-05-29",
+        "name": "North Carolina Education Lottery 200",
+        "track": "Charlotte Motor Speedway",
+        "date": "2026-05-23",
         "time": "",
         "tv": ""
       }
