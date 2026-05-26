@@ -24864,6 +24864,20 @@
         "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/4877951.png",
         "flag": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
         "country": "USA"
+      },
+      "2552": {
+        "id": "2552",
+        "name": "Kevin Kisner",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/2552.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+        "country": "USA"
+      },
+      "5353540": {
+        "id": "5353540",
+        "name": "Albert Hansson",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/5353540.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png",
+        "country": "Sweden"
       }
     },
     "_updated": "2026-05-26"
