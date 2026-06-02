@@ -11100,6 +11100,15 @@
           "tv": "ESPN"
         },
         {
+          "name": "the Memorial Tournament pres. by Workday",
+          "date": "2026-06-04",
+          "is_complete": false,
+          "is_live": false,
+          "winner": null,
+          "winner_score": null,
+          "players": []
+        },
+        {
           "name": "RBC Heritage",
           "date": "2026-04-16",
           "is_complete": true,
