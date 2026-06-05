@@ -10963,7 +10963,7 @@
           "pos": 43,
           "driver": "Daniel Dye",
           "car": "#78",
-          "manufacturer": "",
+          "manufacturer": "Chevy",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -36387,7 +36387,7 @@
           "pos": 5,
           "driver": "Giovanni Ruggiero",
           "car": "#17",
-          "manufacturer": "",
+          "manufacturer": "Toyota",
           "points": 352,
           "wins": 0,
           "races": 0
@@ -36567,7 +36567,7 @@
           "pos": 25,
           "driver": "Daniel Dye",
           "car": "#20",
-          "manufacturer": "",
+          "manufacturer": "Chevy",
           "points": 95,
           "wins": 0,
           "races": 0
@@ -36576,7 +36576,7 @@
           "pos": 26,
           "driver": "Connor Mosack",
           "car": "#7",
-          "manufacturer": "",
+          "manufacturer": "Chevy",
           "points": 93,
           "wins": 0,
           "races": 0
@@ -36864,7 +36864,7 @@
           "pos": 59,
           "driver": "Jason Kitzmiller",
           "car": "#97",
-          "manufacturer": "",
+          "manufacturer": "Chevy",
           "points": 7,
           "wins": 0,
           "races": 0
@@ -48842,7 +48842,7 @@
           "pos": 70,
           "driver": "Daniel Dye",
           "car": "#52",
-          "manufacturer": "",
+          "manufacturer": "Chevy",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -48905,7 +48905,7 @@
           "pos": 77,
           "driver": "Giovanni Ruggiero",
           "car": "#19",
-          "manufacturer": "",
+          "manufacturer": "Toyota",
           "points": 0,
           "wins": 0,
           "races": 0
