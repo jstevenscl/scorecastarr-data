@@ -11621,7 +11621,7 @@
           "driver": "Tyler Reddick",
           "car": "#45",
           "manufacturer": "Toyota",
-          "points": 657,
+          "points": 669,
           "wins": 5,
           "races": 0
         },
@@ -11630,8 +11630,8 @@
           "driver": "Denny Hamlin",
           "car": "#11",
           "manufacturer": "Toyota",
-          "points": 560,
-          "wins": 2,
+          "points": 618,
+          "wins": 3,
           "races": 0
         },
         {
@@ -11639,7 +11639,7 @@
           "driver": "Ryan Blaney",
           "car": "#12",
           "manufacturer": "Ford",
-          "points": 483,
+          "points": 512,
           "wins": 1,
           "races": 0
         },
@@ -11648,7 +11648,7 @@
           "driver": "Chase Elliott",
           "car": "#9",
           "manufacturer": "Chevy",
-          "points": 460,
+          "points": 482,
           "wins": 2,
           "races": 0
         },
@@ -11657,7 +11657,7 @@
           "driver": "Ty Gibbs",
           "car": "#54",
           "manufacturer": "Toyota",
-          "points": 449,
+          "points": 470,
           "wins": 1,
           "races": 0
         },
@@ -11666,17 +11666,17 @@
           "driver": "Kyle Larson",
           "car": "#5",
           "manufacturer": "Chevy",
-          "points": 409,
+          "points": 453,
           "wins": 0,
           "races": 0
         },
         {
           "pos": 7,
-          "driver": "Christopher Bell",
-          "car": "#20",
-          "manufacturer": "Toyota",
-          "points": 399,
-          "wins": 0,
+          "driver": "Carson Hocevar",
+          "car": "#77",
+          "manufacturer": "Chevy",
+          "points": 428,
+          "wins": 1,
           "races": 0
         },
         {
@@ -11684,70 +11684,70 @@
           "driver": "Chris Buescher",
           "car": "#17",
           "manufacturer": "Ford",
-          "points": 393,
+          "points": 424,
           "wins": 0,
           "races": 0
         },
         {
           "pos": 9,
-          "driver": "Carson Hocevar",
-          "car": "#77",
-          "manufacturer": "Chevy",
-          "points": 383,
+          "driver": "Daniel Su\u00e1rez",
+          "car": "#7",
+          "manufacturer": "",
+          "points": 418,
           "wins": 1,
           "races": 0
         },
         {
           "pos": 10,
-          "driver": "Daniel Su\u00e1rez",
-          "car": "#7",
-          "manufacturer": "",
-          "points": 378,
-          "wins": 1,
+          "driver": "Christopher Bell",
+          "car": "#20",
+          "manufacturer": "Toyota",
+          "points": 410,
+          "wins": 0,
           "races": 0
         },
         {
           "pos": 11,
-          "driver": "William Byron",
-          "car": "#24",
-          "manufacturer": "Chevy",
-          "points": 352,
+          "driver": "Bubba Wallace",
+          "car": "#23",
+          "manufacturer": "Toyota",
+          "points": 378,
           "wins": 0,
           "races": 0
         },
         {
           "pos": 12,
-          "driver": "Shane Van Gisbergen",
-          "car": "#97",
+          "driver": "William Byron",
+          "car": "#24",
           "manufacturer": "Chevy",
-          "points": 348,
-          "wins": 1,
+          "points": 377,
+          "wins": 0,
           "races": 0
         },
         {
           "pos": 13,
-          "driver": "Brad Keselowski",
-          "car": "#6",
-          "manufacturer": "Ford",
-          "points": 347,
+          "driver": "Chase Briscoe",
+          "car": "#19",
+          "manufacturer": "Toyota",
+          "points": 370,
           "wins": 0,
           "races": 0
         },
         {
           "pos": 14,
-          "driver": "Chase Briscoe",
-          "car": "#19",
-          "manufacturer": "Toyota",
-          "points": 343,
-          "wins": 0,
+          "driver": "Shane Van Gisbergen",
+          "car": "#97",
+          "manufacturer": "Chevy",
+          "points": 355,
+          "wins": 1,
           "races": 0
         },
         {
           "pos": 15,
-          "driver": "Bubba Wallace",
-          "car": "#23",
-          "manufacturer": "Toyota",
-          "points": 338,
+          "driver": "Brad Keselowski",
+          "car": "#6",
+          "manufacturer": "Ford",
+          "points": 350,
           "wins": 0,
           "races": 0
         },
@@ -11756,61 +11756,61 @@
           "driver": "Austin Cindric",
           "car": "#2",
           "manufacturer": "Ford",
-          "points": 306,
+          "points": 332,
           "wins": 0,
           "races": 0
         },
         {
           "pos": 17,
-          "driver": "Ryan Preece",
-          "car": "#60",
+          "driver": "Joey Logano",
+          "car": "#22",
           "manufacturer": "Ford",
-          "points": 304,
+          "points": 329,
           "wins": 0,
           "races": 0
         },
         {
           "pos": 18,
-          "driver": "Joey Logano",
-          "car": "#22",
-          "manufacturer": "Ford",
-          "points": 297,
+          "driver": "Erik Jones",
+          "car": "#43",
+          "manufacturer": "Toyota",
+          "points": 314,
           "wins": 0,
           "races": 0
         },
         {
           "pos": 19,
-          "driver": "Michael McDowell",
-          "car": "#71",
-          "manufacturer": "Chevy",
-          "points": 275,
+          "driver": "Ryan Preece",
+          "car": "#60",
+          "manufacturer": "Ford",
+          "points": 313,
           "wins": 0,
           "races": 0
         },
         {
           "pos": 20,
-          "driver": "Zane Smith",
-          "car": "#38",
-          "manufacturer": "Ford",
-          "points": 272,
+          "driver": "Michael McDowell",
+          "car": "#71",
+          "manufacturer": "Chevy",
+          "points": 286,
           "wins": 0,
           "races": 0
         },
         {
           "pos": 21,
-          "driver": "Erik Jones",
-          "car": "#43",
-          "manufacturer": "Toyota",
-          "points": 270,
+          "driver": "AJ Allmendinger",
+          "car": "#16",
+          "manufacturer": "Chevy",
+          "points": 286,
           "wins": 0,
           "races": 0
         },
         {
           "pos": 22,
-          "driver": "AJ Allmendinger",
-          "car": "#16",
-          "manufacturer": "Chevy",
-          "points": 266,
+          "driver": "Zane Smith",
+          "car": "#38",
+          "manufacturer": "Ford",
+          "points": 282,
           "wins": 0,
           "races": 0
         },
@@ -11819,16 +11819,16 @@
           "driver": "Ricky Stenhouse Jr",
           "car": "#47",
           "manufacturer": "",
-          "points": 263,
+          "points": 271,
           "wins": 0,
           "races": 0
         },
         {
           "pos": 24,
-          "driver": "Austin Dillon",
-          "car": "#3",
+          "driver": "Ross Chastain",
+          "car": "#1",
           "manufacturer": "Chevy",
-          "points": 244,
+          "points": 260,
           "wins": 0,
           "races": 0
         },
@@ -11837,25 +11837,25 @@
           "driver": "Todd Gilliland",
           "car": "#34",
           "manufacturer": "Ford",
-          "points": 240,
+          "points": 255,
           "wins": 0,
           "races": 0
         },
         {
           "pos": 26,
-          "driver": "Ross Chastain",
-          "car": "#1",
-          "manufacturer": "Chevy",
-          "points": 239,
+          "driver": "Riley Herbst",
+          "car": "#35",
+          "manufacturer": "Toyota",
+          "points": 250,
           "wins": 0,
           "races": 0
         },
         {
           "pos": 27,
-          "driver": "Riley Herbst",
-          "car": "#35",
-          "manufacturer": "Toyota",
-          "points": 224,
+          "driver": "Austin Dillon",
+          "car": "#3",
+          "manufacturer": "Chevy",
+          "points": 245,
           "wins": 0,
           "races": 0
         },
@@ -11864,7 +11864,7 @@
           "driver": "John H. Nemechek",
           "car": "#42",
           "manufacturer": "",
-          "points": 213,
+          "points": 236,
           "wins": 0,
           "races": 0
         },
@@ -11873,25 +11873,25 @@
           "driver": "Noah Gragson",
           "car": "#4",
           "manufacturer": "Ford",
-          "points": 202,
+          "points": 212,
           "wins": 0,
           "races": 0
         },
         {
           "pos": 30,
-          "driver": "Ty Dillon",
-          "car": "#10",
-          "manufacturer": "Chevy",
-          "points": 177,
+          "driver": "Josh Berry",
+          "car": "#21",
+          "manufacturer": "Ford",
+          "points": 196,
           "wins": 0,
           "races": 0
         },
         {
           "pos": 31,
-          "driver": "Josh Berry",
-          "car": "#21",
-          "manufacturer": "Ford",
-          "points": 174,
+          "driver": "Ty Dillon",
+          "car": "#10",
+          "manufacturer": "Chevy",
+          "points": 190,
           "wins": 0,
           "races": 0
         },
@@ -11900,7 +11900,7 @@
           "driver": "Alex Bowman",
           "car": "#48",
           "manufacturer": "Chevy",
-          "points": 160,
+          "points": 178,
           "wins": 0,
           "races": 0
         },
@@ -11909,7 +11909,7 @@
           "driver": "Cole Custer",
           "car": "#41",
           "manufacturer": "Chevy",
-          "points": 150,
+          "points": 175,
           "wins": 0,
           "races": 0
         },
@@ -11918,7 +11918,7 @@
           "driver": "Connor Zilisch",
           "car": "#88",
           "manufacturer": "Chevy",
-          "points": 147,
+          "points": 148,
           "wins": 0,
           "races": 0
         },
@@ -11927,7 +11927,7 @@
           "driver": "Cody Ware",
           "car": "#51",
           "manufacturer": "Chevy",
-          "points": 117,
+          "points": 131,
           "wins": 0,
           "races": 0
         },
@@ -11987,6 +11987,15 @@
         },
         {
           "pos": 42,
+          "driver": "JJ Yeley",
+          "car": "#44",
+          "manufacturer": "",
+          "points": 0,
+          "wins": 0,
+          "races": 0
+        },
+        {
+          "pos": 43,
           "driver": "Justin Allgaier",
           "car": "#40",
           "manufacturer": "",
@@ -11995,7 +12004,7 @@
           "races": 0
         },
         {
-          "pos": 43,
+          "pos": 44,
           "driver": "Daniel Dye",
           "car": "#78",
           "manufacturer": "",
@@ -12004,7 +12013,7 @@
           "races": 0
         },
         {
-          "pos": 44,
+          "pos": 45,
           "driver": "Jesse Love",
           "car": "#33",
           "manufacturer": "",
@@ -12013,7 +12022,7 @@
           "races": 0
         },
         {
-          "pos": 45,
+          "pos": 46,
           "driver": "Chad Finchum",
           "car": "#66",
           "manufacturer": "",
@@ -12022,18 +12031,9 @@
           "races": 0
         },
         {
-          "pos": 46,
+          "pos": 47,
           "driver": "Jimmie Johnson",
           "car": "#84",
-          "manufacturer": "",
-          "points": 0,
-          "wins": 0,
-          "races": 0
-        },
-        {
-          "pos": 48,
-          "driver": "JJ Yeley",
-          "car": "#44",
           "manufacturer": "",
           "points": 0,
           "wins": 0,
@@ -12133,15 +12133,6 @@
           "players": [],
           "course": "TPC San Antonio",
           "tv": "ESPN"
-        },
-        {
-          "name": "RBC Heritage",
-          "date": "2026-04-16",
-          "is_complete": true,
-          "is_live": false,
-          "winner": "Matt Fitzpatrick",
-          "winner_score": "-19",
-          "players": []
         },
         {
           "name": "Masters Tournament",
@@ -18536,6 +18527,15 @@
           "winner": "Russell Henley",
           "winner_score": "-13",
           "players": []
+        },
+        {
+          "name": "the Memorial Tournament pres. by Workday",
+          "date": "2026-06-04",
+          "is_complete": true,
+          "is_live": false,
+          "winner": "J.T. Poston",
+          "winner_score": "-12",
+          "players": []
         }
       ],
       "updated": "2026-06-08"
@@ -20947,6 +20947,46 @@
         "headshot": "",
         "flag": "",
         "country": ""
+      },
+      "13871": {
+        "id": "13871",
+        "name": "Rei Sakamoto",
+        "shortName": "R. Sakamoto",
+        "headshot": "",
+        "flag": "",
+        "country": ""
+      },
+      "11382": {
+        "id": "11382",
+        "name": "Bu Yunchaokete",
+        "shortName": "B. Yunchaokete",
+        "headshot": "",
+        "flag": "",
+        "country": ""
+      },
+      "10645": {
+        "id": "10645",
+        "name": "Toby Samuel",
+        "shortName": "T. Samuel",
+        "headshot": "",
+        "flag": "",
+        "country": ""
+      },
+      "8621": {
+        "id": "8621",
+        "name": "Arthur Fery",
+        "shortName": "A. Fery",
+        "headshot": "",
+        "flag": "",
+        "country": ""
+      },
+      "9029": {
+        "id": "9029",
+        "name": "August Holmgren",
+        "shortName": "A. Holmgren",
+        "headshot": "",
+        "flag": "",
+        "country": ""
       }
     },
     "_updated": "2026-06-08"
@@ -22229,6 +22269,54 @@
         "id": "8808",
         "name": "Hanne Vandewinkel",
         "shortName": "H. Vandewinkel",
+        "headshot": "",
+        "flag": "",
+        "country": ""
+      },
+      "4666": {
+        "id": "4666",
+        "name": "Lucia Bronzetti",
+        "shortName": "L. Bronzetti",
+        "headshot": "",
+        "flag": "",
+        "country": ""
+      },
+      "10676": {
+        "id": "10676",
+        "name": "Leyre Romero Gormaz",
+        "shortName": "L. Romero Gormaz",
+        "headshot": "",
+        "flag": "",
+        "country": ""
+      },
+      "8690": {
+        "id": "8690",
+        "name": "Marina Bassols Ribera",
+        "shortName": "M. Bassols Ribera",
+        "headshot": "",
+        "flag": "",
+        "country": ""
+      },
+      "2617": {
+        "id": "2617",
+        "name": "Jil Teichmann",
+        "shortName": "J. Teichmann",
+        "headshot": "",
+        "flag": "",
+        "country": ""
+      },
+      "15069": {
+        "id": "15069",
+        "name": "Laura Samson",
+        "shortName": "L. Samsonova",
+        "headshot": "",
+        "flag": "",
+        "country": ""
+      },
+      "2980": {
+        "id": "2980",
+        "name": "Claire Liu",
+        "shortName": "C. Liu",
         "headshot": "",
         "flag": "",
         "country": ""
@@ -26345,7 +26433,7 @@
           "name": "Jannik Sinner",
           "country": "",
           "headshot": "",
-          "points": 14750.0,
+          "points": 13500.0,
           "change": 0
         },
         {
@@ -26354,7 +26442,7 @@
           "name": "Carlos Alcaraz",
           "country": "",
           "headshot": "",
-          "points": 11960.0,
+          "points": 9960.0,
           "change": 0
         },
         {
@@ -26363,16 +26451,16 @@
           "name": "Alexander Zverev",
           "country": "",
           "headshot": "",
-          "points": 5705.0,
+          "points": 7305.0,
           "change": 0
         },
         {
           "rank": 4,
-          "id": "296",
-          "name": "Novak Djokovic",
+          "id": "3209",
+          "name": "Felix Auger-Aliassime",
           "country": "",
           "headshot": "",
-          "points": 4460.0,
+          "points": 4440.0,
           "change": 0
         },
         {
@@ -26381,25 +26469,25 @@
           "name": "Ben Shelton",
           "country": "",
           "headshot": "",
-          "points": 4070.0,
+          "points": 3920.0,
           "change": 0
         },
         {
           "rank": 6,
-          "id": "3209",
-          "name": "Felix Auger-Aliassime",
-          "country": "",
-          "headshot": "",
-          "points": 4050.0,
-          "change": 0
-        },
-        {
-          "rank": 7,
           "id": "2651",
           "name": "Alex de Minaur",
           "country": "",
           "headshot": "",
-          "points": 3855.0,
+          "points": 3905.0,
+          "change": 0
+        },
+        {
+          "rank": 7,
+          "id": "296",
+          "name": "Novak Djokovic",
+          "country": "",
+          "headshot": "",
+          "points": 3760.0,
           "change": 0
         },
         {
@@ -26422,20 +26510,20 @@
         },
         {
           "rank": 10,
-          "id": "2865",
-          "name": "Alexander Bublik",
+          "id": "7602",
+          "name": "Flavio Cobolli",
           "country": "",
           "headshot": "",
-          "points": 3320.0,
+          "points": 3540.0,
           "change": 0
         },
         {
           "rank": 11,
-          "id": "3764",
-          "name": "Lorenzo Musetti",
+          "id": "2865",
+          "name": "Alexander Bublik",
           "country": "",
           "headshot": "",
-          "points": 3115.0,
+          "points": 2930.0,
           "change": 0
         },
         {
@@ -26444,7 +26532,7 @@
           "name": "Jiri Lehecka",
           "country": "",
           "headshot": "",
-          "points": 2665.0,
+          "points": 2575.0,
           "change": 0
         },
         {
@@ -26458,11 +26546,11 @@
         },
         {
           "rank": 14,
-          "id": "7602",
-          "name": "Flavio Cobolli",
+          "id": "2989",
+          "name": "Casper Ruud",
           "country": "",
           "headshot": "",
-          "points": 2340.0,
+          "points": 2425.0,
           "change": 0
         },
         {
@@ -26476,69 +26564,60 @@
         },
         {
           "rank": 16,
-          "id": "2989",
-          "name": "Casper Ruud",
+          "id": "3764",
+          "name": "Lorenzo Musetti",
           "country": "",
           "headshot": "",
-          "points": 2275.0,
+          "points": 2315.0,
           "change": 0
         },
         {
           "rank": 17,
-          "id": "7833",
-          "name": "Luciano Darderi",
+          "id": "10319",
+          "name": "Jakub Mensik",
           "country": "",
           "headshot": "",
-          "points": 2260.0,
+          "points": 2300.0,
           "change": 0
         },
         {
           "rank": 18,
-          "id": "10386",
-          "name": "Learner Tien",
+          "id": "7833",
+          "name": "Luciano Darderi",
           "country": "",
           "headshot": "",
-          "points": 2180.0,
+          "points": 2300.0,
           "change": 0
         },
         {
           "rank": 19,
-          "id": "9376",
-          "name": "Valentin Vacherot",
+          "id": "10386",
+          "name": "Learner Tien",
           "country": "",
           "headshot": "",
-          "points": 2103.0,
+          "points": 2270.0,
           "change": 0
         },
         {
           "rank": 20,
-          "id": "10052",
-          "name": "Arthur Fils",
+          "id": "9376",
+          "name": "Valentin Vacherot",
           "country": "",
           "headshot": "",
-          "points": 2040.0,
+          "points": 2145.0,
           "change": 0
         },
         {
           "rank": 21,
-          "id": "2964",
-          "name": "Tommy Paul",
+          "id": "10052",
+          "name": "Arthur Fils",
           "country": "",
           "headshot": "",
-          "points": 1945.0,
+          "points": 1940.0,
           "change": 0
         },
         {
           "rank": 22,
-          "id": "2708",
-          "name": "Frances Tiafoe",
-          "country": "",
-          "headshot": "",
-          "points": 1905.0,
-          "change": 0
-        },
-        {
-          "rank": 23,
           "id": "3212",
           "name": "Alejandro Davidovich Fokina",
           "country": "",
@@ -26547,43 +26626,70 @@
           "change": 0
         },
         {
-          "rank": 24,
-          "id": "2366",
-          "name": "Cameron Norrie",
+          "rank": 23,
+          "id": "12657",
+          "name": "Rafael Jodar",
           "country": "",
           "headshot": "",
-          "points": 1785.0,
+          "points": 1849.0,
           "change": 0
         },
         {
-          "rank": 25,
+          "rank": 24,
           "id": "3511",
           "name": "Arthur Rinderknech",
           "country": "",
           "headshot": "",
-          "points": 1736.0,
+          "points": 1776.0,
+          "change": 0
+        },
+        {
+          "rank": 25,
+          "id": "11745",
+          "name": "Joao Fonseca",
+          "country": "",
+          "headshot": "",
+          "points": 1735.0,
           "change": 0
         },
         {
           "rank": 26,
-          "id": "3700",
-          "name": "Francisco Cerundolo",
+          "id": "2708",
+          "name": "Frances Tiafoe",
           "country": "",
           "headshot": "",
-          "points": 1570.0,
+          "points": 1705.0,
           "change": 0
         },
         {
           "rank": 27,
-          "id": "10319",
-          "name": "Jakub Mensik",
+          "id": "3700",
+          "name": "Francisco Cerundolo",
           "country": "",
           "headshot": "",
-          "points": 1550.0,
+          "points": 1660.0,
           "change": 0
         },
         {
           "rank": 28,
+          "id": "2964",
+          "name": "Tommy Paul",
+          "country": "",
+          "headshot": "",
+          "points": 1645.0,
+          "change": 0
+        },
+        {
+          "rank": 29,
+          "id": "2366",
+          "name": "Cameron Norrie",
+          "country": "",
+          "headshot": "",
+          "points": 1595.0,
+          "change": 0
+        },
+        {
+          "rank": 30,
           "id": "3739",
           "name": "Tomas Martin Etcheverry",
           "country": "",
@@ -26592,34 +26698,25 @@
           "change": 0
         },
         {
-          "rank": 29,
-          "id": "12657",
-          "name": "Rafael Jodar",
-          "country": "",
-          "headshot": "",
-          "points": 1461.0,
-          "change": 0
-        },
-        {
-          "rank": 30,
-          "id": "11745",
-          "name": "Joao Fonseca",
-          "country": "",
-          "headshot": "",
-          "points": 1435.0,
-          "change": 0
-        },
-        {
           "rank": 31,
-          "id": "11226",
-          "name": "Ignacio Buse",
+          "id": "2970",
+          "name": "Alejandro Tabilo",
           "country": "",
           "headshot": "",
-          "points": 1412.0,
+          "points": 1428.0,
           "change": 0
         },
         {
           "rank": 32,
+          "id": "3774",
+          "name": "Brandon Nakashima",
+          "country": "",
+          "headshot": "",
+          "points": 1385.0,
+          "change": 0
+        },
+        {
+          "rank": 33,
           "id": "3085",
           "name": "Ugo Humbert",
           "country": "",
@@ -26628,39 +26725,30 @@
           "change": 0
         },
         {
-          "rank": 33,
-          "id": "3319",
-          "name": "Tallon Griekspoor",
-          "country": "",
-          "headshot": "",
-          "points": 1340.0,
-          "change": 0
-        },
-        {
           "rank": 34,
-          "id": "2886",
-          "name": "Corentin Moutet",
+          "id": "3793",
+          "name": "Matteo Arnaldi",
           "country": "",
           "headshot": "",
-          "points": 1323.0,
+          "points": 1336.0,
           "change": 0
         },
         {
           "rank": 35,
-          "id": "3774",
-          "name": "Brandon Nakashima",
+          "id": "11226",
+          "name": "Ignacio Buse",
           "country": "",
           "headshot": "",
-          "points": 1295.0,
+          "points": 1316.0,
           "change": 0
         },
         {
           "rank": 36,
-          "id": "2970",
-          "name": "Alejandro Tabilo",
+          "id": "2886",
+          "name": "Corentin Moutet",
           "country": "",
           "headshot": "",
-          "points": 1278.0,
+          "points": 1283.0,
           "change": 0
         },
         {
@@ -26669,25 +26757,25 @@
           "name": "Alexander Blockx",
           "country": "",
           "headshot": "",
-          "points": 1238.0,
+          "points": 1280.0,
           "change": 0
         },
         {
           "rank": 38,
-          "id": "9992",
-          "name": "Mariano Navone",
+          "id": "11400",
+          "name": "Alex Michelsen",
           "country": "",
           "headshot": "",
-          "points": 1215.0,
+          "points": 1205.0,
           "change": 0
         },
         {
           "rank": 39,
-          "id": "2860",
-          "name": "Denis Shapovalov",
+          "id": "9992",
+          "name": "Mariano Navone",
           "country": "",
           "headshot": "",
-          "points": 1170.0,
+          "points": 1165.0,
           "change": 0
         },
         {
@@ -26701,20 +26789,20 @@
         },
         {
           "rank": 41,
-          "id": "2709",
-          "name": "Jaume Munar",
+          "id": "3319",
+          "name": "Tallon Griekspoor",
           "country": "",
           "headshot": "",
-          "points": 1145.0,
+          "points": 1150.0,
           "change": 0
         },
         {
           "rank": 42,
-          "id": "11400",
-          "name": "Alex Michelsen",
+          "id": "2860",
+          "name": "Denis Shapovalov",
           "country": "",
           "headshot": "",
-          "points": 1115.0,
+          "points": 1130.0,
           "change": 0
         },
         {
@@ -26723,47 +26811,56 @@
           "name": "Tomas Machac",
           "country": "",
           "headshot": "",
-          "points": 1080.0,
+          "points": 1120.0,
           "change": 0
         },
         {
           "rank": 44,
-          "id": "3659",
-          "name": "Holger Rune",
+          "id": "2709",
+          "name": "Jaume Munar",
           "country": "",
           "headshot": "",
-          "points": 1060.0,
+          "points": 1105.0,
           "change": 0
         },
         {
           "rank": 45,
-          "id": "1266",
-          "name": "Adrian Mannarino",
+          "id": "4008",
+          "name": "Juan Manuel Cerundolo",
           "country": "",
           "headshot": "",
-          "points": 1037.0,
+          "points": 1055.0,
           "change": 0
         },
         {
           "rank": 46,
-          "id": "464",
-          "name": "Marin Cilic",
+          "id": "1266",
+          "name": "Adrian Mannarino",
           "country": "",
           "headshot": "",
-          "points": 1010.0,
+          "points": 1031.0,
           "change": 0
         },
         {
           "rank": 47,
-          "id": "3368",
-          "name": "Sebastian Korda",
+          "id": "464",
+          "name": "Marin Cilic",
           "country": "",
           "headshot": "",
-          "points": 1000.0,
+          "points": 994.0,
           "change": 0
         },
         {
           "rank": 48,
+          "id": "2622",
+          "name": "Matteo Berrettini",
+          "country": "",
+          "headshot": "",
+          "points": 985.0,
+          "change": 0
+        },
+        {
+          "rank": 49,
           "id": "2874",
           "name": "Miomir Kecmanovic",
           "country": "",
@@ -26772,21 +26869,12 @@
           "change": 0
         },
         {
-          "rank": 49,
-          "id": "3885",
-          "name": "Gabriel Diallo",
-          "country": "",
-          "headshot": "",
-          "points": 975.0,
-          "change": 0
-        },
-        {
           "rank": 50,
-          "id": "11383",
-          "name": "Ethan Quinn",
+          "id": "4115",
+          "name": "Nuno Borges",
           "country": "",
           "headshot": "",
-          "points": 974.0,
+          "points": 970.0,
           "change": 0
         }
       ],
@@ -26803,7 +26891,7 @@
           "name": "Aryna Sabalenka",
           "country": "",
           "headshot": "",
-          "points": 9960.0,
+          "points": 9090.0,
           "change": 0
         },
         {
@@ -26812,7 +26900,7 @@
           "name": "Elena Rybakina",
           "country": "",
           "headshot": "",
-          "points": 8313.0,
+          "points": 8143.0,
           "change": 0
         },
         {
@@ -26821,38 +26909,47 @@
           "name": "Iga Swiatek",
           "country": "",
           "headshot": "",
-          "points": 7273.0,
+          "points": 6733.0,
           "change": 0
         },
         {
           "rank": 4,
-          "id": "3626",
-          "name": "Coco Gauff",
-          "country": "",
-          "headshot": "",
-          "points": 6749.0,
-          "change": 0
-        },
-        {
-          "rank": 5,
           "id": "2113",
           "name": "Jessica Pegula",
           "country": "",
           "headshot": "",
-          "points": 6286.0,
+          "points": 6056.0,
           "change": 0
         },
         {
-          "rank": 6,
+          "rank": 5,
           "id": "3221",
           "name": "Amanda Anisimova",
           "country": "",
           "headshot": "",
-          "points": 5958.0,
+          "points": 5848.0,
+          "change": 0
+        },
+        {
+          "rank": 6,
+          "id": "9820",
+          "name": "Mirra Andreeva",
+          "country": "",
+          "headshot": "",
+          "points": 5751.0,
           "change": 0
         },
         {
           "rank": 7,
+          "id": "3626",
+          "name": "Coco Gauff",
+          "country": "",
+          "headshot": "",
+          "points": 4879.0,
+          "change": 0
+        },
+        {
+          "rank": 8,
           "id": "1797",
           "name": "Elina Svitolina",
           "country": "",
@@ -26861,21 +26958,12 @@
           "change": 0
         },
         {
-          "rank": 8,
-          "id": "9820",
-          "name": "Mirra Andreeva",
-          "country": "",
-          "headshot": "",
-          "points": 4181.0,
-          "change": 0
-        },
-        {
           "rank": 9,
           "id": "11219",
           "name": "Victoria Mboko",
           "country": "",
           "headshot": "",
-          "points": 3710.0,
+          "points": 3670.0,
           "change": 0
         },
         {
@@ -26884,7 +26972,7 @@
           "name": "Karolina Muchova",
           "country": "",
           "headshot": "",
-          "points": 3318.0,
+          "points": 3438.0,
           "change": 0
         },
         {
@@ -26893,11 +26981,20 @@
           "name": "Belinda Bencic",
           "country": "",
           "headshot": "",
-          "points": 3145.0,
+          "points": 3385.0,
           "change": 0
         },
         {
           "rank": 12,
+          "id": "3382",
+          "name": "Marta Kostyuk",
+          "country": "",
+          "headshot": "",
+          "points": 3157.0,
+          "change": 0
+        },
+        {
+          "rank": 13,
           "id": "6970",
           "name": "Linda Noskova",
           "country": "",
@@ -26906,48 +27003,39 @@
           "change": 0
         },
         {
-          "rank": 13,
+          "rank": 14,
           "id": "2615",
           "name": "Jasmine Paolini",
           "country": "",
           "headshot": "",
-          "points": 2787.0,
-          "change": 0
-        },
-        {
-          "rank": 14,
-          "id": "3182",
-          "name": "Ekaterina Alexandrova",
-          "country": "",
-          "headshot": "",
-          "points": 2679.0,
+          "points": 2617.0,
           "change": 0
         },
         {
           "rank": 15,
-          "id": "3382",
-          "name": "Marta Kostyuk",
-          "country": "",
-          "headshot": "",
-          "points": 2387.0,
-          "change": 0
-        },
-        {
-          "rank": 16,
           "id": "2789",
           "name": "Naomi Osaka",
           "country": "",
           "headshot": "",
-          "points": 2341.0,
+          "points": 2571.0,
+          "change": 0
+        },
+        {
+          "rank": 16,
+          "id": "8017",
+          "name": "Diana Shnaider",
+          "country": "",
+          "headshot": "",
+          "points": 2506.0,
           "change": 0
         },
         {
           "rank": 17,
-          "id": "14311",
-          "name": "Iva Jovic",
+          "id": "3182",
+          "name": "Ekaterina Alexandrova",
           "country": "",
           "headshot": "",
-          "points": 2306.0,
+          "points": 2449.0,
           "change": 0
         },
         {
@@ -26956,38 +27044,47 @@
           "name": "Sorana Cirstea",
           "country": "",
           "headshot": "",
-          "points": 1985.0,
+          "points": 2415.0,
           "change": 0
         },
         {
           "rank": 19,
-          "id": "1556",
-          "name": "Madison Keys",
+          "id": "14311",
+          "name": "Iva Jovic",
           "country": "",
           "headshot": "",
-          "points": 1962.0,
+          "points": 2366.0,
           "change": 0
         },
         {
           "rank": 20,
-          "id": "3792",
-          "name": "Clara Tauson",
+          "id": "2977",
+          "name": "Anna Kalinskaya",
           "country": "",
           "headshot": "",
-          "points": 1920.0,
+          "points": 2212.0,
           "change": 0
         },
         {
           "rank": 21,
-          "id": "2221",
-          "name": "Elise Mertens",
+          "id": "3417",
+          "name": "Maja Chwalinska",
           "country": "",
           "headshot": "",
-          "points": 1858.0,
+          "points": 1996.0,
           "change": 0
         },
         {
           "rank": 22,
+          "id": "2221",
+          "name": "Elise Mertens",
+          "country": "",
+          "headshot": "",
+          "points": 1918.0,
+          "change": 0
+        },
+        {
+          "rank": 23,
           "id": "3641",
           "name": "Leylah Fernandez",
           "country": "",
@@ -26996,21 +27093,12 @@
           "change": 0
         },
         {
-          "rank": 23,
-          "id": "8017",
-          "name": "Diana Shnaider",
-          "country": "",
-          "headshot": "",
-          "points": 1796.0,
-          "change": 0
-        },
-        {
           "rank": 24,
-          "id": "2977",
-          "name": "Anna Kalinskaya",
+          "id": "3792",
+          "name": "Clara Tauson",
           "country": "",
           "headshot": "",
-          "points": 1792.0,
+          "points": 1800.0,
           "change": 0
         },
         {
@@ -27019,25 +27107,25 @@
           "name": "Emma Navarro",
           "country": "",
           "headshot": "",
-          "points": 1719.0,
+          "points": 1779.0,
           "change": 0
         },
         {
           "rank": 26,
-          "id": "3913",
-          "name": "Hailey Baptiste",
+          "id": "1556",
+          "name": "Madison Keys",
           "country": "",
           "headshot": "",
-          "points": 1683.0,
+          "points": 1772.0,
           "change": 0
         },
         {
           "rank": 27,
-          "id": "3840",
-          "name": "Liudmila Samsonova",
+          "id": "2971",
+          "name": "Anastasia Potapova",
           "country": "",
           "headshot": "",
-          "points": 1635.0,
+          "points": 1640.0,
           "change": 0
         },
         {
@@ -27060,33 +27148,42 @@
         },
         {
           "rank": 30,
-          "id": "2971",
-          "name": "Anastasia Potapova",
+          "id": "3913",
+          "name": "Hailey Baptiste",
           "country": "",
           "headshot": "",
-          "points": 1470.0,
+          "points": 1513.0,
           "change": 0
         },
         {
           "rank": 31,
-          "id": "2195",
-          "name": "Jelena Ostapenko",
+          "id": "3387",
+          "name": "Wang Xinyu",
           "country": "",
           "headshot": "",
-          "points": 1464.0,
+          "points": 1431.0,
           "change": 0
         },
         {
           "rank": 32,
-          "id": "2737",
-          "name": "Jaqueline Cristian",
+          "id": "2248",
+          "name": "Katerina Siniakova",
           "country": "",
           "headshot": "",
-          "points": 1414.0,
+          "points": 1422.0,
           "change": 0
         },
         {
           "rank": 33,
+          "id": "7759",
+          "name": "Alexandra Eala",
+          "country": "",
+          "headshot": "",
+          "points": 1416.0,
+          "change": 0
+        },
+        {
+          "rank": 34,
           "id": "3157",
           "name": "Cristina Bucsa",
           "country": "",
@@ -27095,57 +27192,48 @@
           "change": 0
         },
         {
-          "rank": 34,
-          "id": "3387",
-          "name": "Wang Xinyu",
-          "country": "",
-          "headshot": "",
-          "points": 1371.0,
-          "change": 0
-        },
-        {
           "rank": 35,
-          "id": "7819",
-          "name": "Sara Bejlek",
+          "id": "3840",
+          "name": "Liudmila Samsonova",
           "country": "",
           "headshot": "",
-          "points": 1369.0,
+          "points": 1405.0,
           "change": 0
         },
         {
           "rank": 36,
-          "id": "2248",
-          "name": "Katerina Siniakova",
+          "id": "2195",
+          "name": "Jelena Ostapenko",
           "country": "",
           "headshot": "",
-          "points": 1362.0,
+          "points": 1404.0,
           "change": 0
         },
         {
           "rank": 37,
-          "id": "7759",
-          "name": "Alexandra Eala",
+          "id": "3018",
+          "name": "Maria Sakkari",
           "country": "",
           "headshot": "",
-          "points": 1340.0,
+          "points": 1328.0,
           "change": 0
         },
         {
           "rank": 38,
-          "id": "3831",
-          "name": "Elisabetta Cocciaretto",
+          "id": "2737",
+          "name": "Jaqueline Cristian",
           "country": "",
           "headshot": "",
-          "points": 1320.0,
+          "points": 1294.0,
           "change": 0
         },
         {
           "rank": 39,
-          "id": "3398",
-          "name": "Emma Raducanu",
+          "id": "5528",
+          "name": "McCartney Kessler",
           "country": "",
           "headshot": "",
-          "points": 1301.0,
+          "points": 1289.0,
           "change": 0
         },
         {
@@ -27154,56 +27242,29 @@
           "name": "Janice Tjen",
           "country": "",
           "headshot": "",
-          "points": 1292.0,
+          "points": 1267.0,
           "change": 0
         },
         {
           "rank": 41,
-          "id": "2042",
-          "name": "Barbora Krejcikova",
+          "id": "3831",
+          "name": "Elisabetta Cocciaretto",
           "country": "",
           "headshot": "",
-          "points": 1271.0,
+          "points": 1260.0,
           "change": 0
         },
         {
           "rank": 42,
-          "id": "8419",
-          "name": "Tereza Valentova",
+          "id": "3398",
+          "name": "Emma Raducanu",
           "country": "",
           "headshot": "",
-          "points": 1265.0,
+          "points": 1241.0,
           "change": 0
         },
         {
           "rank": 43,
-          "id": "6403",
-          "name": "Lois Boisson",
-          "country": "",
-          "headshot": "",
-          "points": 1264.0,
-          "change": 0
-        },
-        {
-          "rank": 44,
-          "id": "2735",
-          "name": "Marketa Vondrousova",
-          "country": "",
-          "headshot": "",
-          "points": 1263.0,
-          "change": 0
-        },
-        {
-          "rank": 45,
-          "id": "3142",
-          "name": "Dayana Yastremska",
-          "country": "",
-          "headshot": "",
-          "points": 1246.0,
-          "change": 0
-        },
-        {
-          "rank": 46,
           "id": "2672",
           "name": "Magdalena Frech",
           "country": "",
@@ -27212,7 +27273,7 @@
           "change": 0
         },
         {
-          "rank": 47,
+          "rank": 44,
           "id": "1881",
           "name": "Laura Siegemund",
           "country": "",
@@ -27221,30 +27282,57 @@
           "change": 0
         },
         {
-          "rank": 48,
-          "id": "5528",
-          "name": "McCartney Kessler",
+          "rank": 45,
+          "id": "2042",
+          "name": "Barbora Krejcikova",
           "country": "",
           "headshot": "",
-          "points": 1229.0,
+          "points": 1211.0,
+          "change": 0
+        },
+        {
+          "rank": 46,
+          "id": "7819",
+          "name": "Sara Bejlek",
+          "country": "",
+          "headshot": "",
+          "points": 1205.0,
+          "change": 0
+        },
+        {
+          "rank": 47,
+          "id": "8419",
+          "name": "Tereza Valentova",
+          "country": "",
+          "headshot": "",
+          "points": 1165.0,
+          "change": 0
+        },
+        {
+          "rank": 48,
+          "id": "2735",
+          "name": "Marketa Vondrousova",
+          "country": "",
+          "headshot": "",
+          "points": 1133.0,
           "change": 0
         },
         {
           "rank": 49,
-          "id": "3018",
-          "name": "Maria Sakkari",
+          "id": "3142",
+          "name": "Dayana Yastremska",
           "country": "",
           "headshot": "",
-          "points": 1208.0,
+          "points": 1126.0,
           "change": 0
         },
         {
           "rank": 50,
-          "id": "6059",
-          "name": "Jessica Bouzas Maneiro",
+          "id": "8404",
+          "name": "Petra Marcinko",
           "country": "",
           "headshot": "",
-          "points": 1200.0,
+          "points": 1123.0,
           "change": 0
         }
       ],
@@ -27278,25 +27366,33 @@
         "name": "Kyle Larson",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/3579.vresize.140.140.medium.2.png"
       },
-      "christopher_bell": {
-        "name": "Christopher Bell",
-        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4531.vresize.140.140.medium.2.png"
+      "carson_hocevar": {
+        "name": "Carson Hocevar",
+        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4735.vresize.140.140.medium.2.png"
       },
       "chris_buescher": {
         "name": "Chris Buescher",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/3598.vresize.140.140.medium.2.png"
       },
-      "carson_hocevar": {
-        "name": "Carson Hocevar",
-        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4735.vresize.140.140.medium.2.png"
-      },
       "daniel_su\u00e1rez": {
         "name": "Daniel Su\u00e1rez",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4216.vresize.140.140.medium.2.png"
       },
+      "christopher_bell": {
+        "name": "Christopher Bell",
+        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4531.vresize.140.140.medium.2.png"
+      },
+      "bubba_wallace": {
+        "name": "Bubba Wallace",
+        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/3645.vresize.140.140.medium.2.png"
+      },
       "william_byron": {
         "name": "William Byron",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4563.vresize.140.140.medium.2.png"
+      },
+      "chase_briscoe": {
+        "name": "Chase Briscoe",
+        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4618.vresize.140.140.medium.2.png"
       },
       "shane_van_gisbergen": {
         "name": "Shane Van Gisbergen",
@@ -27306,61 +27402,53 @@
         "name": "Brad Keselowski",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/2828.vresize.140.140.medium.2.png"
       },
-      "chase_briscoe": {
-        "name": "Chase Briscoe",
-        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4618.vresize.140.140.medium.2.png"
-      },
-      "bubba_wallace": {
-        "name": "Bubba Wallace",
-        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/3645.vresize.140.140.medium.2.png"
-      },
       "austin_cindric": {
         "name": "Austin Cindric",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4560.vresize.140.140.medium.2.png"
-      },
-      "ryan_preece": {
-        "name": "Ryan Preece",
-        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/3624.vresize.140.140.medium.2.png"
       },
       "joey_logano": {
         "name": "Joey Logano",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/2811.vresize.140.140.medium.2.png"
       },
-      "michael_mcdowell": {
-        "name": "Michael McDowell",
-        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/2850.vresize.140.140.medium.2.png"
-      },
-      "zane_smith": {
-        "name": "Zane Smith",
-        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4689.vresize.140.140.medium.1.png"
-      },
       "erik_jones": {
         "name": "Erik Jones",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/3774.vresize.140.140.medium.2.png"
+      },
+      "ryan_preece": {
+        "name": "Ryan Preece",
+        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/3624.vresize.140.140.medium.2.png"
+      },
+      "michael_mcdowell": {
+        "name": "Michael McDowell",
+        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/2850.vresize.140.140.medium.2.png"
       },
       "aj_allmendinger": {
         "name": "AJ Allmendinger",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/2854.vresize.140.140.medium.2.png"
       },
+      "zane_smith": {
+        "name": "Zane Smith",
+        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4689.vresize.140.140.medium.1.png"
+      },
       "ricky_stenhouse_jr": {
         "name": "Ricky Stenhouse Jr",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/2846.vresize.140.140.medium.2.png"
-      },
-      "austin_dillon": {
-        "name": "Austin Dillon",
-        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/2840.vresize.140.140.medium.2.png"
-      },
-      "todd_gilliland": {
-        "name": "Todd Gilliland",
-        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4619.vresize.140.140.medium.2.png"
       },
       "ross_chastain": {
         "name": "Ross Chastain",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/3766.vresize.140.140.medium.2.png"
       },
+      "todd_gilliland": {
+        "name": "Todd Gilliland",
+        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4619.vresize.140.140.medium.2.png"
+      },
       "riley_herbst": {
         "name": "Riley Herbst",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4667.vresize.140.140.medium.2.png"
+      },
+      "austin_dillon": {
+        "name": "Austin Dillon",
+        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/2840.vresize.140.140.medium.2.png"
       },
       "john_h._nemechek": {
         "name": "John H. Nemechek",
@@ -27370,13 +27458,13 @@
         "name": "Noah Gragson",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4612.vresize.140.140.medium.2.png"
       },
-      "ty_dillon": {
-        "name": "Ty Dillon",
-        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/3596.vresize.140.140.medium.2.png"
-      },
       "josh_berry": {
         "name": "Josh Berry",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4220.vresize.140.140.medium.2.png"
+      },
+      "ty_dillon": {
+        "name": "Ty Dillon",
+        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/3596.vresize.140.140.medium.2.png"
       },
       "alex_bowman": {
         "name": "Alex Bowman",
@@ -27418,6 +27506,10 @@
         "name": "Austin Hill",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4278.vresize.140.140.medium.1.png"
       },
+      "jj_yeley": {
+        "name": "JJ Yeley",
+        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/2851.vresize.140.140.medium.1.png"
+      },
       "justin_allgaier": {
         "name": "Justin Allgaier",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/2880.vresize.140.140.medium.2.png"
@@ -27433,10 +27525,6 @@
       "jimmie_johnson": {
         "name": "Jimmie Johnson",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/2822.vresize.140.140.medium.2.png"
-      },
-      "jj_yeley": {
-        "name": "JJ Yeley",
-        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/2851.vresize.140.140.medium.1.png"
       },
       "anthony_alfredo": {
         "name": "Anthony Alfredo",
