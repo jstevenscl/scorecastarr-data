@@ -11934,7 +11934,7 @@
         {
           "pos": 36,
           "driver": "Casey Mears",
-          "car": "#66",
+          "car": "#62",
           "manufacturer": "",
           "points": 9,
           "wins": 0,
@@ -12133,6 +12133,15 @@
           "players": [],
           "course": "TPC San Antonio",
           "tv": "ESPN"
+        },
+        {
+          "name": "RBC Canadian Open",
+          "date": "2026-06-11",
+          "is_complete": false,
+          "is_live": false,
+          "winner": null,
+          "winner_score": null,
+          "players": []
         },
         {
           "name": "Masters Tournament",
@@ -50389,7 +50398,7 @@
         {
           "pos": 7,
           "driver": "Carson Kvapil",
-          "car": "#1",
+          "car": "#9",
           "manufacturer": "",
           "points": 493,
           "wins": 0,
@@ -50623,7 +50632,7 @@
         {
           "pos": 33,
           "driver": "JJ Yeley",
-          "car": "#38",
+          "car": "#5",
           "manufacturer": "",
           "points": 79,
           "wins": 0,
@@ -50713,7 +50722,7 @@
         {
           "pos": 43,
           "driver": "Dawson Cram",
-          "car": "#35",
+          "car": "#74",
           "manufacturer": "",
           "points": 31,
           "wins": 0,
@@ -50740,7 +50749,7 @@
         {
           "pos": 46,
           "driver": "Carson Ware",
-          "car": "#30",
+          "car": "#35",
           "manufacturer": "",
           "points": 18,
           "wins": 0,
@@ -50785,7 +50794,7 @@
         {
           "pos": 52,
           "driver": "Natalie Decker",
-          "car": "#35",
+          "car": "#53",
           "manufacturer": "",
           "points": 8,
           "wins": 0,
