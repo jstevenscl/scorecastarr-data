@@ -3,7 +3,7 @@
     "data": {
       "run_name": "FireKeepers Casino 400",
       "track_name": "Michigan Int'l Speedway",
-      "race_date": "2026-06-08",
+      "race_date": "2026-06-09",
       "session_type": "race",
       "winner": "Denny Hamlin",
       "flag_state": 9,
@@ -498,7 +498,7 @@
         }
       ]
     },
-    "_updated": "2026-06-08"
+    "_updated": "2026-06-09"
   },
   "nascar-history": {
     "data": {
@@ -506,7 +506,7 @@
         {
           "run_name": "FireKeepers Casino 400",
           "track_name": "Michigan Int'l Speedway",
-          "race_date": "2026-06-08",
+          "race_date": "2026-06-09",
           "session_type": "race",
           "winner": "Denny Hamlin",
           "flag_state": 9,
@@ -11607,14 +11607,14 @@
           "session_type": "race"
         }
       ],
-      "updated": "2026-06-08"
+      "updated": "2026-06-09"
     },
-    "_updated": "2026-06-08"
+    "_updated": "2026-06-09"
   },
   "nascar-2026-season": {
     "data": {
       "series_name": "NASCAR Cup Series",
-      "updated": "2026-06-08",
+      "updated": "2026-06-09",
       "standings": [
         {
           "pos": 1,
@@ -12119,7 +12119,7 @@
         "tv": ""
       }
     },
-    "_updated": "2026-06-08"
+    "_updated": "2026-06-09"
   },
   "pga-2026-tournaments": {
     "data": {
@@ -18538,9 +18538,9 @@
           "players": []
         }
       ],
-      "updated": "2026-06-08"
+      "updated": "2026-06-09"
     },
-    "_updated": "2026-06-08"
+    "_updated": "2026-06-09"
   },
   "f1-history": {
     "data": {
@@ -19432,9 +19432,9 @@
           ]
         }
       ],
-      "updated": "2026-06-08"
+      "updated": "2026-06-09"
     },
-    "_updated": "2026-06-08"
+    "_updated": "2026-06-09"
   },
   "f1-2026-season": {
     "data": {
@@ -19654,9 +19654,9 @@
         "circuit": "Circuit de Barcelona-Catalunya",
         "country": "Spain"
       },
-      "updated": "2026-06-08"
+      "updated": "2026-06-09"
     },
-    "_updated": "2026-06-08"
+    "_updated": "2026-06-09"
   },
   "atp-players": {
     "data": {
@@ -20989,7 +20989,7 @@
         "country": ""
       }
     },
-    "_updated": "2026-06-08"
+    "_updated": "2026-06-09"
   },
   "wta-players": {
     "data": {
@@ -22322,7 +22322,7 @@
         "country": ""
       }
     },
-    "_updated": "2026-06-08"
+    "_updated": "2026-06-09"
   },
   "pga-players": {
     "data": {
@@ -26422,7 +26422,7 @@
         "country": "Sweden"
       }
     },
-    "_updated": "2026-06-08"
+    "_updated": "2026-06-09"
   },
   "atp-rankings": {
     "data": {
@@ -26878,9 +26878,9 @@
           "change": 0
         }
       ],
-      "updated": "2026-06-08"
+      "updated": "2026-06-09"
     },
-    "_updated": "2026-06-08"
+    "_updated": "2026-06-09"
   },
   "wta-rankings": {
     "data": {
@@ -27336,9 +27336,9 @@
           "change": 0
         }
       ],
-      "updated": "2026-06-08"
+      "updated": "2026-06-09"
     },
-    "_updated": "2026-06-08"
+    "_updated": "2026-06-09"
   },
   "nascar-drivers": {
     "data": {
@@ -27787,7 +27787,7 @@
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4136.vresize.140.140.medium.1.png"
       }
     },
-    "_updated": "2026-06-08"
+    "_updated": "2026-06-09"
   },
   "f1-drivers": {
     "data": {
@@ -27880,7 +27880,7 @@
         "headshot": "https://media.formula1.com/image/upload/c_fill,g_face,w_140,h_140/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/cadillac/valbot01/2026cadillacvalbot01right.webp"
       }
     },
-    "_updated": "2026-06-08"
+    "_updated": "2026-06-09"
   },
   "nascar-trucks-history": {
     "data": {
@@ -39247,7 +39247,7 @@
         }
       ],
       "series_name": "NASCAR Craftsman Truck Series",
-      "updated": "2026-06-08",
+      "updated": "2026-06-09",
       "next_race": {
         "name": "NASCAR CRAFTSMAN Truck Series Race at San Diego",
         "track": "San Diego Street Course",
@@ -39256,7 +39256,7 @@
         "tv": ""
       }
     },
-    "_updated": "2026-06-08"
+    "_updated": "2026-06-09"
   },
   "nascar-noaps-history": {
     "data": {
@@ -51054,7 +51054,7 @@
         }
       ],
       "series_name": "NASCAR O'Reilly Auto Parts Series",
-      "updated": "2026-06-08",
+      "updated": "2026-06-09",
       "next_race": {
         "name": "MillerTech Battery 250 presented by KOA",
         "track": "Pocono Raceway",
@@ -51063,6 +51063,6 @@
         "tv": ""
       }
     },
-    "_updated": "2026-06-08"
+    "_updated": "2026-06-09"
   }
 }
