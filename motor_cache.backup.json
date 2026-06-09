@@ -26429,6 +26429,111 @@
         "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/5353540.png",
         "flag": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png",
         "country": "Sweden"
+      },
+      "6090": {
+        "id": "6090",
+        "name": "Roger Sloan",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/6090.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/can.png",
+        "country": "Canada"
+      },
+      "5362017": {
+        "id": "5362017",
+        "name": "Laurent Desmarchais",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/5362017.png",
+        "flag": "",
+        "country": ""
+      },
+      "5362019": {
+        "id": "5362019",
+        "name": "Eric Zhao",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/5362019.png",
+        "flag": "",
+        "country": ""
+      },
+      "3778": {
+        "id": "3778",
+        "name": "Yohann Benson",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/3778.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/can.png",
+        "country": "Canada"
+      },
+      "4364735": {
+        "id": "4364735",
+        "name": "Joey Savoie",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/4364735.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+        "country": "USA"
+      },
+      "5214381": {
+        "id": "5214381",
+        "name": "Ashton McCulloch",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/5214381.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/can.png",
+        "country": "Canada"
+      },
+      "5362018": {
+        "id": "5362018",
+        "name": "Calen Sanderson",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/5362018.png",
+        "flag": "",
+        "country": ""
+      },
+      "5077389": {
+        "id": "5077389",
+        "name": "Ben James",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/5077389.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+        "country": "USA"
+      },
+      "5334768": {
+        "id": "5334768",
+        "name": "Declan O'Donovan",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/5334768.png",
+        "flag": "",
+        "country": ""
+      },
+      "5214384": {
+        "id": "5214384",
+        "name": "Justin Matthews",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/5214384.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/can.png",
+        "country": "Canada"
+      },
+      "5362020": {
+        "id": "5362020",
+        "name": "Dawson Lew",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/5362020.png",
+        "flag": "",
+        "country": ""
+      },
+      "4085": {
+        "id": "4085",
+        "name": "Vince Covello",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/4085.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+        "country": "USA"
+      },
+      "5362021": {
+        "id": "5362021",
+        "name": "Jeevan Sihota",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/5362021.png",
+        "flag": "",
+        "country": ""
+      },
+      "1359": {
+        "id": "1359",
+        "name": "Sean O'Hair",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/1359.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+        "country": "USA"
+      },
+      "11214": {
+        "id": "11214",
+        "name": "Drew Nesbitt",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/11214.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/can.png",
+        "country": "Canada"
       }
     },
     "_updated": "2026-06-09"
@@ -39258,7 +39363,7 @@
       "series_name": "NASCAR Craftsman Truck Series",
       "updated": "2026-06-09",
       "next_race": {
-        "name": "NASCAR CRAFTSMAN Truck Series Race at San Diego",
+        "name": "Navy 250",
         "track": "San Diego Street Course",
         "date": "2026-06-19",
         "time": "",
