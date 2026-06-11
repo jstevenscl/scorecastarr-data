@@ -12138,7 +12138,7 @@
           "name": "RBC Canadian Open",
           "date": "2026-06-11",
           "is_complete": false,
-          "is_live": false,
+          "is_live": true,
           "winner": null,
           "winner_score": null,
           "players": []
