@@ -11381,13 +11381,13 @@
   "nascar-2026-season": {
     "data": {
       "series_name": "NASCAR Cup Series",
-      "updated": "2026-06-17",
+      "updated": "2026-06-18",
       "standings": [
         {
           "pos": 1,
           "driver": "Tyler Reddick",
           "car": "#45",
-          "manufacturer": "Toyota",
+          "manufacturer": "",
           "points": 704,
           "wins": 5,
           "races": 0
@@ -11396,7 +11396,7 @@
           "pos": 2,
           "driver": "Denny Hamlin",
           "car": "#11",
-          "manufacturer": "Toyota",
+          "manufacturer": "",
           "points": 685,
           "wins": 4,
           "races": 0
@@ -11405,7 +11405,7 @@
           "pos": 3,
           "driver": "Ryan Blaney",
           "car": "#12",
-          "manufacturer": "Ford",
+          "manufacturer": "",
           "points": 539,
           "wins": 1,
           "races": 0
@@ -11414,7 +11414,7 @@
           "pos": 4,
           "driver": "Chase Elliott",
           "car": "#9",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 509,
           "wins": 2,
           "races": 0
@@ -11423,7 +11423,7 @@
           "pos": 5,
           "driver": "Ty Gibbs",
           "car": "#54",
-          "manufacturer": "Toyota",
+          "manufacturer": "",
           "points": 506,
           "wins": 1,
           "races": 0
@@ -11432,7 +11432,7 @@
           "pos": 6,
           "driver": "Kyle Larson",
           "car": "#5",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 494,
           "wins": 0,
           "races": 0
@@ -11441,7 +11441,7 @@
           "pos": 7,
           "driver": "Chris Buescher",
           "car": "#17",
-          "manufacturer": "Ford",
+          "manufacturer": "",
           "points": 461,
           "wins": 0,
           "races": 0
@@ -11459,7 +11459,7 @@
           "pos": 9,
           "driver": "Carson Hocevar",
           "car": "#77",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 449,
           "wins": 1,
           "races": 0
@@ -11468,7 +11468,7 @@
           "pos": 10,
           "driver": "Christopher Bell",
           "car": "#20",
-          "manufacturer": "Toyota",
+          "manufacturer": "",
           "points": 421,
           "wins": 0,
           "races": 0
@@ -11477,7 +11477,7 @@
           "pos": 11,
           "driver": "William Byron",
           "car": "#24",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 415,
           "wins": 0,
           "races": 0
@@ -11486,7 +11486,7 @@
           "pos": 12,
           "driver": "Chase Briscoe",
           "car": "#19",
-          "manufacturer": "Toyota",
+          "manufacturer": "",
           "points": 411,
           "wins": 0,
           "races": 0
@@ -11495,7 +11495,7 @@
           "pos": 13,
           "driver": "Bubba Wallace",
           "car": "#23",
-          "manufacturer": "Toyota",
+          "manufacturer": "",
           "points": 394,
           "wins": 0,
           "races": 0
@@ -11504,7 +11504,7 @@
           "pos": 14,
           "driver": "Shane Van Gisbergen",
           "car": "#97",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 361,
           "wins": 1,
           "races": 0
@@ -11513,7 +11513,7 @@
           "pos": 15,
           "driver": "Erik Jones",
           "car": "#43",
-          "manufacturer": "Toyota",
+          "manufacturer": "",
           "points": 355,
           "wins": 0,
           "races": 0
@@ -11522,7 +11522,7 @@
           "pos": 16,
           "driver": "Austin Cindric",
           "car": "#2",
-          "manufacturer": "Ford",
+          "manufacturer": "",
           "points": 355,
           "wins": 0,
           "races": 0
@@ -11531,7 +11531,7 @@
           "pos": 17,
           "driver": "Brad Keselowski",
           "car": "#6",
-          "manufacturer": "Ford",
+          "manufacturer": "",
           "points": 351,
           "wins": 0,
           "races": 0
@@ -11540,7 +11540,7 @@
           "pos": 18,
           "driver": "Joey Logano",
           "car": "#22",
-          "manufacturer": "Ford",
+          "manufacturer": "",
           "points": 334,
           "wins": 0,
           "races": 0
@@ -11549,7 +11549,7 @@
           "pos": 19,
           "driver": "Ryan Preece",
           "car": "#60",
-          "manufacturer": "Ford",
+          "manufacturer": "",
           "points": 322,
           "wins": 0,
           "races": 0
@@ -11558,7 +11558,7 @@
           "pos": 20,
           "driver": "Michael McDowell",
           "car": "#71",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 306,
           "wins": 0,
           "races": 0
@@ -11567,7 +11567,7 @@
           "pos": 21,
           "driver": "AJ Allmendinger",
           "car": "#16",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 301,
           "wins": 0,
           "races": 0
@@ -11585,7 +11585,7 @@
           "pos": 23,
           "driver": "Ross Chastain",
           "car": "#1",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 294,
           "wins": 0,
           "races": 0
@@ -11594,7 +11594,7 @@
           "pos": 24,
           "driver": "Zane Smith",
           "car": "#38",
-          "manufacturer": "Ford",
+          "manufacturer": "",
           "points": 283,
           "wins": 0,
           "races": 0
@@ -11603,7 +11603,7 @@
           "pos": 25,
           "driver": "Todd Gilliland",
           "car": "#34",
-          "manufacturer": "Ford",
+          "manufacturer": "",
           "points": 283,
           "wins": 0,
           "races": 0
@@ -11621,7 +11621,7 @@
           "pos": 27,
           "driver": "Riley Herbst",
           "car": "#35",
-          "manufacturer": "Toyota",
+          "manufacturer": "",
           "points": 271,
           "wins": 0,
           "races": 0
@@ -11630,7 +11630,7 @@
           "pos": 28,
           "driver": "Austin Dillon",
           "car": "#3",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 257,
           "wins": 0,
           "races": 0
@@ -11639,7 +11639,7 @@
           "pos": 29,
           "driver": "Noah Gragson",
           "car": "#4",
-          "manufacturer": "Ford",
+          "manufacturer": "",
           "points": 214,
           "wins": 0,
           "races": 0
@@ -11648,7 +11648,7 @@
           "pos": 30,
           "driver": "Josh Berry",
           "car": "#21",
-          "manufacturer": "Ford",
+          "manufacturer": "",
           "points": 200,
           "wins": 0,
           "races": 0
@@ -11657,7 +11657,7 @@
           "pos": 31,
           "driver": "Ty Dillon",
           "car": "#10",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 195,
           "wins": 0,
           "races": 0
@@ -11666,7 +11666,7 @@
           "pos": 32,
           "driver": "Alex Bowman",
           "car": "#48",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 188,
           "wins": 0,
           "races": 0
@@ -11675,7 +11675,7 @@
           "pos": 33,
           "driver": "Cole Custer",
           "car": "#41",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 188,
           "wins": 0,
           "races": 0
@@ -11684,7 +11684,7 @@
           "pos": 34,
           "driver": "Connor Zilisch",
           "car": "#88",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 162,
           "wins": 0,
           "races": 0
@@ -11693,7 +11693,7 @@
           "pos": 35,
           "driver": "Cody Ware",
           "car": "#51",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 138,
           "wins": 0,
           "races": 0
@@ -11886,7 +11886,7 @@
         "tv": ""
       }
     },
-    "_updated": "2026-06-17"
+    "_updated": "2026-06-18"
   },
   "pga-2026-tournaments": {
     "data": {
@@ -18311,9 +18311,9 @@
           "players": []
         }
       ],
-      "updated": "2026-06-17"
+      "updated": "2026-06-18"
     },
-    "_updated": "2026-06-17"
+    "_updated": "2026-06-18"
   },
   "f1-history": {
     "data": {
@@ -19205,9 +19205,9 @@
           ]
         }
       ],
-      "updated": "2026-06-17"
+      "updated": "2026-06-18"
     },
-    "_updated": "2026-06-17"
+    "_updated": "2026-06-18"
   },
   "f1-2026-season": {
     "data": {
@@ -19427,9 +19427,9 @@
         "circuit": "Red Bull Ring",
         "country": "Austria"
       },
-      "updated": "2026-06-17"
+      "updated": "2026-06-18"
     },
-    "_updated": "2026-06-17"
+    "_updated": "2026-06-18"
   },
   "atp-players": {
     "data": {
@@ -20762,7 +20762,7 @@
         "country": ""
       }
     },
-    "_updated": "2026-06-17"
+    "_updated": "2026-06-18"
   },
   "wta-players": {
     "data": {
@@ -22095,7 +22095,7 @@
         "country": ""
       }
     },
-    "_updated": "2026-06-17"
+    "_updated": "2026-06-18"
   },
   "pga-players": {
     "data": {
@@ -26615,7 +26615,7 @@
         "country": "USA"
       }
     },
-    "_updated": "2026-06-17"
+    "_updated": "2026-06-18"
   },
   "atp-rankings": {
     "data": {
@@ -27071,9 +27071,9 @@
           "change": 0
         }
       ],
-      "updated": "2026-06-17"
+      "updated": "2026-06-18"
     },
-    "_updated": "2026-06-17"
+    "_updated": "2026-06-18"
   },
   "wta-rankings": {
     "data": {
@@ -27529,9 +27529,9 @@
           "change": 0
         }
       ],
-      "updated": "2026-06-17"
+      "updated": "2026-06-18"
     },
-    "_updated": "2026-06-17"
+    "_updated": "2026-06-18"
   },
   "nascar-drivers": {
     "data": {
@@ -27984,7 +27984,7 @@
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4136.vresize.140.140.medium.1.png"
       }
     },
-    "_updated": "2026-06-17"
+    "_updated": "2026-06-18"
   },
   "f1-drivers": {
     "data": {
@@ -28077,7 +28077,7 @@
         "headshot": "https://media.formula1.com/image/upload/c_fill,g_face,w_140,h_140/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/cadillac/valbot01/2026cadillacvalbot01right.webp"
       }
     },
-    "_updated": "2026-06-17"
+    "_updated": "2026-06-18"
   },
   "nascar-trucks-history": {
     "data": {
@@ -39248,7 +39248,7 @@
           "pos": 70,
           "driver": "Carson Hocevar",
           "car": "#77",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 0,
           "wins": 1,
           "races": 0
@@ -39257,7 +39257,7 @@
           "pos": 71,
           "driver": "Christopher Bell",
           "car": "#62",
-          "manufacturer": "Toyota",
+          "manufacturer": "",
           "points": 0,
           "wins": 1,
           "races": 0
@@ -39266,7 +39266,7 @@
           "pos": 72,
           "driver": "Connor Zilisch",
           "car": "#71",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -39275,7 +39275,7 @@
           "pos": 73,
           "driver": "Ross Chastain",
           "car": "#45",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -39293,7 +39293,7 @@
           "pos": 75,
           "driver": "Shane Van Gisbergen",
           "car": "#71",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -39329,7 +39329,7 @@
           "pos": 79,
           "driver": "AJ Allmendinger",
           "car": "#10",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -39356,7 +39356,7 @@
           "pos": 82,
           "driver": "Ty Dillon",
           "car": "#25",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -39383,7 +39383,7 @@
           "pos": 85,
           "driver": "Chase Briscoe",
           "car": "#5",
-          "manufacturer": "Toyota",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -39401,7 +39401,7 @@
           "pos": 87,
           "driver": "Michael McDowell",
           "car": "#7",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -39444,7 +39444,7 @@
         }
       ],
       "series_name": "NASCAR Craftsman Truck Series",
-      "updated": "2026-06-17",
+      "updated": "2026-06-18",
       "next_race": {
         "name": "Navy 250",
         "track": "San Diego Street Course",
@@ -39453,7 +39453,7 @@
         "tv": ""
       }
     },
-    "_updated": "2026-06-17"
+    "_updated": "2026-06-18"
   },
   "nascar-noaps-history": {
     "data": {
@@ -52086,7 +52086,7 @@
           "pos": 61,
           "driver": "Kyle Larson",
           "car": "#88",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 0,
           "wins": 2,
           "races": 0
@@ -52095,7 +52095,7 @@
           "pos": 62,
           "driver": "Connor Zilisch",
           "car": "#1",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 0,
           "wins": 2,
           "races": 0
@@ -52104,7 +52104,7 @@
           "pos": 63,
           "driver": "Ross Chastain",
           "car": "#9",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 0,
           "wins": 1,
           "races": 0
@@ -52113,7 +52113,7 @@
           "pos": 64,
           "driver": "Shane Van Gisbergen",
           "car": "#9",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 0,
           "wins": 1,
           "races": 0
@@ -52122,7 +52122,7 @@
           "pos": 65,
           "driver": "Chase Briscoe",
           "car": "#19",
-          "manufacturer": "Toyota",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -52131,7 +52131,7 @@
           "pos": 66,
           "driver": "William Byron",
           "car": "#88",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -52140,7 +52140,7 @@
           "pos": 67,
           "driver": "Christopher Bell",
           "car": "#19",
-          "manufacturer": "Toyota",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -52149,7 +52149,7 @@
           "pos": 68,
           "driver": "Cole Custer",
           "car": "#0",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -52203,7 +52203,7 @@
           "pos": 74,
           "driver": "Carson Hocevar",
           "car": "#42",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -52221,7 +52221,7 @@
           "pos": 76,
           "driver": "Austin Dillon",
           "car": "#3",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -52248,7 +52248,7 @@
           "pos": 79,
           "driver": "Cody Ware",
           "car": "#30",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -52282,7 +52282,7 @@
         }
       ],
       "series_name": "NASCAR O'Reilly Auto Parts Series",
-      "updated": "2026-06-17",
+      "updated": "2026-06-18",
       "next_race": {
         "name": "United Rentals Driven to Serve 250",
         "track": "San Diego Street Course",
@@ -52291,6 +52291,6 @@
         "tv": ""
       }
     },
-    "_updated": "2026-06-17"
+    "_updated": "2026-06-18"
   }
 }
