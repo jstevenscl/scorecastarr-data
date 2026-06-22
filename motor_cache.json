@@ -3,20 +3,475 @@
     "data": {
       "run_name": "Anduril 250",
       "track_name": "San Diego Street Course",
-      "race_date": "2026-06-21",
+      "race_date": "2026-06-22",
       "session_type": "race",
-      "winner": "Austin Hill(i)",
-      "flag_state": 3,
+      "winner": "* Corey Heim(i)",
+      "flag_state": 1,
       "laps_in_race": 75,
-      "cautions": 4,
-      "caution_laps": 5,
-      "lead_changes": 8,
-      "leaders": 6,
+      "cautions": 7,
+      "caution_laps": 11,
+      "lead_changes": 20,
+      "leaders": 13,
       "series_id": 1,
       "race_id": 5613,
       "drivers": [
         {
           "pos": 1,
+          "start": 13,
+          "car": "#67",
+          "driver": "* Corey Heim(i)",
+          "team": "Mobil 1/O'Reilly Auto Parts",
+          "manufacturer": "Toyota",
+          "laps": 73,
+          "laps_led": 1,
+          "times_led": 1,
+          "status": "Running",
+          "points": 0
+        },
+        {
+          "pos": 2,
+          "start": 17,
+          "car": "#45",
+          "driver": "Tyler Reddick",
+          "team": "Pala Casino",
+          "manufacturer": "Toyota",
+          "laps": 73,
+          "laps_led": 9,
+          "times_led": 1,
+          "status": "Running",
+          "points": 0
+        },
+        {
+          "pos": 3,
+          "start": 14,
+          "car": "#5",
+          "driver": "Kyle Larson",
+          "team": "HendrickCars.com",
+          "manufacturer": "Chevy",
+          "laps": 73,
+          "laps_led": 11,
+          "times_led": 2,
+          "status": "Running",
+          "points": 0
+        },
+        {
+          "pos": 4,
+          "start": 12,
+          "car": "#23",
+          "driver": "Bubba Wallace",
+          "team": "Xfinity",
+          "manufacturer": "Toyota",
+          "laps": 73,
+          "laps_led": 2,
+          "times_led": 1,
+          "status": "Running",
+          "points": 0
+        },
+        {
+          "pos": 5,
+          "start": 15,
+          "car": "#16",
+          "driver": "AJ Allmendinger",
+          "team": "Celsius",
+          "manufacturer": "Chevy",
+          "laps": 73,
+          "laps_led": 0,
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
+        },
+        {
+          "pos": 6,
+          "start": 24,
+          "car": "#35",
+          "driver": "Riley Herbst",
+          "team": "Monster Energy",
+          "manufacturer": "Toyota",
+          "laps": 73,
+          "laps_led": 3,
+          "times_led": 2,
+          "status": "Running",
+          "points": 0
+        },
+        {
+          "pos": 7,
+          "start": 4,
+          "car": "#38",
+          "driver": "Zane Smith",
+          "team": "Hard Rock Casino Tejon/Hard Rock Caf\u00c3\u0192\u00c2\u00a9",
+          "manufacturer": "Ford",
+          "laps": 73,
+          "laps_led": 3,
+          "times_led": 1,
+          "status": "Running",
+          "points": 0
+        },
+        {
+          "pos": 8,
+          "start": 16,
+          "car": "#17",
+          "driver": "Chris Buescher",
+          "team": "Body Guard",
+          "manufacturer": "Ford",
+          "laps": 73,
+          "laps_led": 7,
+          "times_led": 2,
+          "status": "Running",
+          "points": 0
+        },
+        {
+          "pos": 9,
+          "start": 3,
+          "car": "#12",
+          "driver": "Ryan Blaney",
+          "team": "Wurth",
+          "manufacturer": "Ford",
+          "laps": 73,
+          "laps_led": 12,
+          "times_led": 3,
+          "status": "Running",
+          "points": 0
+        },
+        {
+          "pos": 10,
+          "start": 23,
+          "car": "#1",
+          "driver": "Ross Chastain",
+          "team": "Kubota Veterans Honor",
+          "manufacturer": "Chevy",
+          "laps": 73,
+          "laps_led": 0,
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
+        },
+        {
+          "pos": 11,
+          "start": 9,
+          "car": "#71",
+          "driver": "Michael McDowell",
+          "team": "Defense Unicorns",
+          "manufacturer": "Chevy",
+          "laps": 73,
+          "laps_led": 0,
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
+        },
+        {
+          "pos": 12,
+          "start": 11,
+          "car": "#54",
+          "driver": "Ty Gibbs",
+          "team": "Monster Energy",
+          "manufacturer": "Toyota",
+          "laps": 73,
+          "laps_led": 0,
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
+        },
+        {
+          "pos": 13,
+          "start": 30,
+          "car": "#9",
+          "driver": "Chase Elliott",
+          "team": "NAPA Gold Filters",
+          "manufacturer": "Chevy",
+          "laps": 73,
+          "laps_led": 0,
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
+        },
+        {
+          "pos": 14,
+          "start": 7,
+          "car": "#60",
+          "driver": "Ryan Preece",
+          "team": "Ralphs/Scott 1000",
+          "manufacturer": "Ford",
+          "laps": 73,
+          "laps_led": 5,
+          "times_led": 2,
+          "status": "Running",
+          "points": 0
+        },
+        {
+          "pos": 15,
+          "start": 28,
+          "car": "#42",
+          "driver": "John Hunter Nemechek",
+          "team": "DriveValue.com",
+          "manufacturer": "Toyota",
+          "laps": 73,
+          "laps_led": 0,
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
+        },
+        {
+          "pos": 16,
+          "start": 6,
+          "car": "#7",
+          "driver": "Daniel Suarez",
+          "team": "Freeway Insurance",
+          "manufacturer": "Chevy",
+          "laps": 73,
+          "laps_led": 0,
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
+        },
+        {
+          "pos": 17,
+          "start": 26,
+          "car": "#11",
+          "driver": "Denny Hamlin",
+          "team": "Bob's Discount Furniture",
+          "manufacturer": "Toyota",
+          "laps": 73,
+          "laps_led": 0,
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
+        },
+        {
+          "pos": 18,
+          "start": 22,
+          "car": "#19",
+          "driver": "Chase Briscoe",
+          "team": "Bass Pro Shops",
+          "manufacturer": "Toyota",
+          "laps": 73,
+          "laps_led": 0,
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
+        },
+        {
+          "pos": 19,
+          "start": 19,
+          "car": "#22",
+          "driver": "Joey Logano",
+          "team": "Shell Pennzoil",
+          "manufacturer": "Ford",
+          "laps": 73,
+          "laps_led": 0,
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
+        },
+        {
+          "pos": 20,
+          "start": 2,
+          "car": "#77",
+          "driver": "Carson Hocevar",
+          "team": "Spectrum",
+          "manufacturer": "Chevy",
+          "laps": 73,
+          "laps_led": 4,
+          "times_led": 2,
+          "status": "Running",
+          "points": 0
+        },
+        {
+          "pos": 21,
+          "start": 38,
+          "car": "#43",
+          "driver": "Erik Jones",
+          "team": "Dollar Tree",
+          "manufacturer": "Toyota",
+          "laps": 73,
+          "laps_led": 0,
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
+        },
+        {
+          "pos": 22,
+          "start": 5,
+          "car": "#34",
+          "driver": "Todd Gilliland",
+          "team": "Grillo's Pickles",
+          "manufacturer": "Ford",
+          "laps": 73,
+          "laps_led": 0,
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
+        },
+        {
+          "pos": 23,
+          "start": 18,
+          "car": "#3",
+          "driver": "Austin Dillon",
+          "team": "Boot Barn",
+          "manufacturer": "Chevy",
+          "laps": 73,
+          "laps_led": 0,
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
+        },
+        {
+          "pos": 24,
+          "start": 31,
+          "car": "#2",
+          "driver": "Austin Cindric",
+          "team": "Menards/Cardell Cabinetry",
+          "manufacturer": "Ford",
+          "laps": 73,
+          "laps_led": 0,
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
+        },
+        {
+          "pos": 25,
+          "start": 39,
+          "car": "#51",
+          "driver": "Cody Ware",
+          "team": "Rocket Doctor",
+          "manufacturer": "Chevy",
+          "laps": 73,
+          "laps_led": 0,
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
+        },
+        {
+          "pos": 26,
+          "start": 20,
+          "car": "#48",
+          "driver": "Alex Bowman",
+          "team": "Ally",
+          "manufacturer": "Chevy",
+          "laps": 73,
+          "laps_led": 0,
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
+        },
+        {
+          "pos": 27,
+          "start": 21,
+          "car": "#91",
+          "driver": "* Kevin Magnussen",
+          "team": "Qualcomm",
+          "manufacturer": "Chevy",
+          "laps": 73,
+          "laps_led": 0,
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
+        },
+        {
+          "pos": 28,
+          "start": 36,
+          "car": "#84",
+          "driver": "* Jimmie Johnson",
+          "team": "Carvana",
+          "manufacturer": "Toyota",
+          "laps": 73,
+          "laps_led": 0,
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
+        },
+        {
+          "pos": 29,
+          "start": 35,
+          "car": "#21",
+          "driver": "Josh Berry",
+          "team": "Motorcraft/Quick Lane",
+          "manufacturer": "Ford",
+          "laps": 73,
+          "laps_led": 0,
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
+        },
+        {
+          "pos": 30,
+          "start": 34,
+          "car": "#10",
+          "driver": "Ty Dillon",
+          "team": "The Fallen Outdoors",
+          "manufacturer": "Chevy",
+          "laps": 72,
+          "laps_led": 0,
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
+        },
+        {
+          "pos": 31,
+          "start": 25,
+          "car": "#41",
+          "driver": "Cole Custer",
+          "team": "Texas A&M",
+          "manufacturer": "Chevy",
+          "laps": 70,
+          "laps_led": 0,
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
+        },
+        {
+          "pos": 32,
+          "start": 27,
+          "car": "#24",
+          "driver": "William Byron",
+          "team": "Anduril",
+          "manufacturer": "Chevy",
+          "laps": 66,
+          "laps_led": 0,
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
+        },
+        {
+          "pos": 33,
+          "start": 33,
+          "car": "#47",
+          "driver": "Ricky Stenhouse Jr.",
+          "team": "Sycuan Casino and Resort",
+          "manufacturer": "Chevy",
+          "laps": 59,
+          "laps_led": 0,
+          "times_led": 0,
+          "status": "6",
+          "points": 0
+        },
+        {
+          "pos": 34,
+          "start": 29,
+          "car": "#6",
+          "driver": "Brad Keselowski",
+          "team": "BuildSubmarines.com",
+          "manufacturer": "Ford",
+          "laps": 57,
+          "laps_led": 0,
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
+        },
+        {
+          "pos": 35,
+          "start": 32,
+          "car": "#4",
+          "driver": "Noah Gragson",
+          "team": "Rush Truck Centers/Cummins",
+          "manufacturer": "Ford",
+          "laps": 37,
+          "laps_led": 0,
+          "times_led": 0,
+          "status": "Out",
+          "points": 0
+        },
+        {
+          "pos": 36,
           "start": 10,
           "car": "#33",
           "driver": "Austin Hill(i)",
@@ -25,11 +480,11 @@
           "laps": 31,
           "laps_led": 1,
           "times_led": 1,
-          "status": "Running",
+          "status": "Out",
           "points": 0
         },
         {
-          "pos": 2,
+          "pos": 37,
           "start": 8,
           "car": "#88",
           "driver": "Connor Zilisch",
@@ -38,475 +493,20 @@
           "laps": 31,
           "laps_led": 8,
           "times_led": 1,
-          "status": "6",
+          "status": "Out",
           "points": 0
         },
         {
-          "pos": 3,
+          "pos": 38,
           "start": 1,
           "car": "#97",
           "driver": "Shane Van Gisbergen",
           "team": "Red Bull",
           "manufacturer": "Chevy",
           "laps": 31,
-          "laps_led": 9,
-          "times_led": 3,
-          "status": "6",
-          "points": 0
-        },
-        {
-          "pos": 4,
-          "start": 24,
-          "car": "#35",
-          "driver": "Riley Herbst",
-          "team": "Monster Energy",
-          "manufacturer": "Toyota",
-          "laps": 31,
-          "laps_led": 0,
-          "times_led": 0,
-          "status": "Running",
-          "points": 0
-        },
-        {
-          "pos": 5,
-          "start": 11,
-          "car": "#54",
-          "driver": "Ty Gibbs",
-          "team": "Monster Energy",
-          "manufacturer": "Toyota",
-          "laps": 31,
-          "laps_led": 0,
-          "times_led": 0,
-          "status": "Running",
-          "points": 0
-        },
-        {
-          "pos": 6,
-          "start": 14,
-          "car": "#5",
-          "driver": "Kyle Larson",
-          "team": "HendrickCars.com",
-          "manufacturer": "Chevy",
-          "laps": 31,
-          "laps_led": 0,
-          "times_led": 0,
-          "status": "Running",
-          "points": 0
-        },
-        {
-          "pos": 7,
-          "start": 6,
-          "car": "#7",
-          "driver": "Daniel Suarez",
-          "team": "Freeway Insurance",
-          "manufacturer": "Chevy",
-          "laps": 31,
-          "laps_led": 0,
-          "times_led": 0,
-          "status": "Running",
-          "points": 0
-        },
-        {
-          "pos": 8,
-          "start": 4,
-          "car": "#38",
-          "driver": "Zane Smith",
-          "team": "Hard Rock Casino Tejon/Hard Rock Caf\u00c3\u0192\u00c2\u00a9",
-          "manufacturer": "Ford",
-          "laps": 31,
-          "laps_led": 0,
-          "times_led": 0,
-          "status": "Running",
-          "points": 0
-        },
-        {
-          "pos": 9,
-          "start": 9,
-          "car": "#71",
-          "driver": "Michael McDowell",
-          "team": "Defense Unicorns",
-          "manufacturer": "Chevy",
-          "laps": 31,
-          "laps_led": 0,
-          "times_led": 0,
-          "status": "Running",
-          "points": 0
-        },
-        {
-          "pos": 10,
-          "start": 19,
-          "car": "#22",
-          "driver": "Joey Logano",
-          "team": "Shell Pennzoil",
-          "manufacturer": "Ford",
-          "laps": 31,
-          "laps_led": 0,
-          "times_led": 0,
-          "status": "Running",
-          "points": 0
-        },
-        {
-          "pos": 11,
-          "start": 17,
-          "car": "#45",
-          "driver": "Tyler Reddick",
-          "team": "Pala Casino",
-          "manufacturer": "Toyota",
-          "laps": 31,
-          "laps_led": 0,
-          "times_led": 0,
-          "status": "Running",
-          "points": 0
-        },
-        {
-          "pos": 12,
-          "start": 13,
-          "car": "#67",
-          "driver": "* Corey Heim(i)",
-          "team": "Mobil 1/O'Reilly Auto Parts",
-          "manufacturer": "Toyota",
-          "laps": 31,
-          "laps_led": 0,
-          "times_led": 0,
-          "status": "Running",
-          "points": 0
-        },
-        {
-          "pos": 13,
-          "start": 27,
-          "car": "#24",
-          "driver": "William Byron",
-          "team": "Anduril",
-          "manufacturer": "Chevy",
-          "laps": 31,
-          "laps_led": 0,
-          "times_led": 0,
-          "status": "Running",
-          "points": 0
-        },
-        {
-          "pos": 14,
-          "start": 28,
-          "car": "#42",
-          "driver": "John Hunter Nemechek",
-          "team": "DriveValue.com",
-          "manufacturer": "Toyota",
-          "laps": 31,
-          "laps_led": 0,
-          "times_led": 0,
-          "status": "Running",
-          "points": 0
-        },
-        {
-          "pos": 15,
-          "start": 2,
-          "car": "#77",
-          "driver": "Carson Hocevar",
-          "team": "Spectrum",
-          "manufacturer": "Chevy",
-          "laps": 31,
-          "laps_led": 0,
-          "times_led": 0,
-          "status": "Running",
-          "points": 0
-        },
-        {
-          "pos": 16,
-          "start": 25,
-          "car": "#41",
-          "driver": "Cole Custer",
-          "team": "Texas A&M",
-          "manufacturer": "Chevy",
-          "laps": 31,
-          "laps_led": 0,
-          "times_led": 0,
-          "status": "Running",
-          "points": 0
-        },
-        {
-          "pos": 17,
-          "start": 39,
-          "car": "#51",
-          "driver": "Cody Ware",
-          "team": "Rocket Doctor",
-          "manufacturer": "Chevy",
-          "laps": 31,
-          "laps_led": 0,
-          "times_led": 0,
-          "status": "Running",
-          "points": 0
-        },
-        {
-          "pos": 18,
-          "start": 35,
-          "car": "#21",
-          "driver": "Josh Berry",
-          "team": "Motorcraft/Quick Lane",
-          "manufacturer": "Ford",
-          "laps": 31,
-          "laps_led": 0,
-          "times_led": 0,
-          "status": "Running",
-          "points": 0
-        },
-        {
-          "pos": 19,
-          "start": 7,
-          "car": "#60",
-          "driver": "Ryan Preece",
-          "team": "Ralphs/Scott 1000",
-          "manufacturer": "Ford",
-          "laps": 31,
-          "laps_led": 2,
-          "times_led": 1,
-          "status": "Running",
-          "points": 0
-        },
-        {
-          "pos": 20,
-          "start": 16,
-          "car": "#17",
-          "driver": "Chris Buescher",
-          "team": "Body Guard",
-          "manufacturer": "Ford",
-          "laps": 31,
-          "laps_led": 0,
-          "times_led": 0,
-          "status": "Running",
-          "points": 0
-        },
-        {
-          "pos": 21,
-          "start": 23,
-          "car": "#1",
-          "driver": "Ross Chastain",
-          "team": "Kubota Veterans Honor",
-          "manufacturer": "Chevy",
-          "laps": 31,
-          "laps_led": 0,
-          "times_led": 0,
-          "status": "Running",
-          "points": 0
-        },
-        {
-          "pos": 22,
-          "start": 22,
-          "car": "#19",
-          "driver": "Chase Briscoe",
-          "team": "Bass Pro Shops",
-          "manufacturer": "Toyota",
-          "laps": 31,
-          "laps_led": 0,
-          "times_led": 0,
-          "status": "Running",
-          "points": 0
-        },
-        {
-          "pos": 23,
-          "start": 15,
-          "car": "#16",
-          "driver": "AJ Allmendinger",
-          "team": "Celsius",
-          "manufacturer": "Chevy",
-          "laps": 31,
-          "laps_led": 0,
-          "times_led": 0,
-          "status": "Running",
-          "points": 0
-        },
-        {
-          "pos": 24,
-          "start": 3,
-          "car": "#12",
-          "driver": "Ryan Blaney",
-          "team": "Wurth",
-          "manufacturer": "Ford",
-          "laps": 31,
-          "laps_led": 11,
+          "laps_led": 8,
           "times_led": 2,
-          "status": "Running",
-          "points": 0
-        },
-        {
-          "pos": 25,
-          "start": 5,
-          "car": "#34",
-          "driver": "Todd Gilliland",
-          "team": "Grillo's Pickles",
-          "manufacturer": "Ford",
-          "laps": 31,
-          "laps_led": 0,
-          "times_led": 0,
-          "status": "Running",
-          "points": 0
-        },
-        {
-          "pos": 26,
-          "start": 26,
-          "car": "#11",
-          "driver": "Denny Hamlin",
-          "team": "Bob's Discount Furniture",
-          "manufacturer": "Toyota",
-          "laps": 31,
-          "laps_led": 0,
-          "times_led": 0,
-          "status": "Running",
-          "points": 0
-        },
-        {
-          "pos": 27,
-          "start": 20,
-          "car": "#48",
-          "driver": "Alex Bowman",
-          "team": "Ally",
-          "manufacturer": "Chevy",
-          "laps": 31,
-          "laps_led": 0,
-          "times_led": 0,
-          "status": "Running",
-          "points": 0
-        },
-        {
-          "pos": 28,
-          "start": 30,
-          "car": "#9",
-          "driver": "Chase Elliott",
-          "team": "NAPA Gold Filters",
-          "manufacturer": "Chevy",
-          "laps": 31,
-          "laps_led": 0,
-          "times_led": 0,
-          "status": "Running",
-          "points": 0
-        },
-        {
-          "pos": 29,
-          "start": 18,
-          "car": "#3",
-          "driver": "Austin Dillon",
-          "team": "Boot Barn",
-          "manufacturer": "Chevy",
-          "laps": 31,
-          "laps_led": 0,
-          "times_led": 0,
-          "status": "Running",
-          "points": 0
-        },
-        {
-          "pos": 30,
-          "start": 38,
-          "car": "#43",
-          "driver": "Erik Jones",
-          "team": "Dollar Tree",
-          "manufacturer": "Toyota",
-          "laps": 31,
-          "laps_led": 0,
-          "times_led": 0,
-          "status": "Running",
-          "points": 0
-        },
-        {
-          "pos": 31,
-          "start": 21,
-          "car": "#91",
-          "driver": "* Kevin Magnussen",
-          "team": "Qualcomm",
-          "manufacturer": "Chevy",
-          "laps": 31,
-          "laps_led": 0,
-          "times_led": 0,
-          "status": "Running",
-          "points": 0
-        },
-        {
-          "pos": 32,
-          "start": 32,
-          "car": "#4",
-          "driver": "Noah Gragson",
-          "team": "Rush Truck Centers/Cummins",
-          "manufacturer": "Ford",
-          "laps": 31,
-          "laps_led": 0,
-          "times_led": 0,
-          "status": "Running",
-          "points": 0
-        },
-        {
-          "pos": 33,
-          "start": 36,
-          "car": "#84",
-          "driver": "* Jimmie Johnson",
-          "team": "Carvana",
-          "manufacturer": "Toyota",
-          "laps": 31,
-          "laps_led": 0,
-          "times_led": 0,
-          "status": "Running",
-          "points": 0
-        },
-        {
-          "pos": 34,
-          "start": 33,
-          "car": "#47",
-          "driver": "Ricky Stenhouse Jr.",
-          "team": "Sycuan Casino and Resort",
-          "manufacturer": "Chevy",
-          "laps": 31,
-          "laps_led": 0,
-          "times_led": 0,
-          "status": "Running",
-          "points": 0
-        },
-        {
-          "pos": 35,
-          "start": 29,
-          "car": "#6",
-          "driver": "Brad Keselowski",
-          "team": "BuildSubmarines.com",
-          "manufacturer": "Ford",
-          "laps": 31,
-          "laps_led": 0,
-          "times_led": 0,
-          "status": "Running",
-          "points": 0
-        },
-        {
-          "pos": 36,
-          "start": 34,
-          "car": "#10",
-          "driver": "Ty Dillon",
-          "team": "The Fallen Outdoors",
-          "manufacturer": "Chevy",
-          "laps": 31,
-          "laps_led": 0,
-          "times_led": 0,
-          "status": "Running",
-          "points": 0
-        },
-        {
-          "pos": 37,
-          "start": 31,
-          "car": "#2",
-          "driver": "Austin Cindric",
-          "team": "Menards/Cardell Cabinetry",
-          "manufacturer": "Ford",
-          "laps": 31,
-          "laps_led": 0,
-          "times_led": 0,
-          "status": "Running",
-          "points": 0
-        },
-        {
-          "pos": 38,
-          "start": 12,
-          "car": "#23",
-          "driver": "Bubba Wallace",
-          "team": "Xfinity",
-          "manufacturer": "Toyota",
-          "laps": 30,
-          "laps_led": 2,
-          "times_led": 1,
-          "status": "Running",
+          "status": "Out",
           "points": 0
         },
         {
@@ -519,12 +519,12 @@
           "laps": 28,
           "laps_led": 0,
           "times_led": 0,
-          "status": "6",
+          "status": "Out",
           "points": 0
         }
       ]
     },
-    "_updated": "2026-06-21"
+    "_updated": "2026-06-22"
   },
   "nascar-history": {
     "data": {
@@ -532,20 +532,475 @@
         {
           "run_name": "Anduril 250",
           "track_name": "San Diego Street Course",
-          "race_date": "2026-06-21",
+          "race_date": "2026-06-22",
           "session_type": "race",
-          "winner": "Austin Hill(i)",
-          "flag_state": 3,
+          "winner": "* Corey Heim(i)",
+          "flag_state": 1,
           "laps_in_race": 75,
-          "cautions": 4,
-          "caution_laps": 5,
-          "lead_changes": 8,
-          "leaders": 6,
+          "cautions": 7,
+          "caution_laps": 11,
+          "lead_changes": 20,
+          "leaders": 13,
           "series_id": 1,
           "race_id": 5613,
           "drivers": [
             {
               "pos": 1,
+              "start": 13,
+              "car": "#67",
+              "driver": "* Corey Heim(i)",
+              "team": "Mobil 1/O'Reilly Auto Parts",
+              "manufacturer": "Toyota",
+              "laps": 73,
+              "laps_led": 1,
+              "times_led": 1,
+              "status": "Running",
+              "points": 0
+            },
+            {
+              "pos": 2,
+              "start": 17,
+              "car": "#45",
+              "driver": "Tyler Reddick",
+              "team": "Pala Casino",
+              "manufacturer": "Toyota",
+              "laps": 73,
+              "laps_led": 9,
+              "times_led": 1,
+              "status": "Running",
+              "points": 0
+            },
+            {
+              "pos": 3,
+              "start": 14,
+              "car": "#5",
+              "driver": "Kyle Larson",
+              "team": "HendrickCars.com",
+              "manufacturer": "Chevy",
+              "laps": 73,
+              "laps_led": 11,
+              "times_led": 2,
+              "status": "Running",
+              "points": 0
+            },
+            {
+              "pos": 4,
+              "start": 12,
+              "car": "#23",
+              "driver": "Bubba Wallace",
+              "team": "Xfinity",
+              "manufacturer": "Toyota",
+              "laps": 73,
+              "laps_led": 2,
+              "times_led": 1,
+              "status": "Running",
+              "points": 0
+            },
+            {
+              "pos": 5,
+              "start": 15,
+              "car": "#16",
+              "driver": "AJ Allmendinger",
+              "team": "Celsius",
+              "manufacturer": "Chevy",
+              "laps": 73,
+              "laps_led": 0,
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
+            },
+            {
+              "pos": 6,
+              "start": 24,
+              "car": "#35",
+              "driver": "Riley Herbst",
+              "team": "Monster Energy",
+              "manufacturer": "Toyota",
+              "laps": 73,
+              "laps_led": 3,
+              "times_led": 2,
+              "status": "Running",
+              "points": 0
+            },
+            {
+              "pos": 7,
+              "start": 4,
+              "car": "#38",
+              "driver": "Zane Smith",
+              "team": "Hard Rock Casino Tejon/Hard Rock Caf\u00c3\u0192\u00c2\u00a9",
+              "manufacturer": "Ford",
+              "laps": 73,
+              "laps_led": 3,
+              "times_led": 1,
+              "status": "Running",
+              "points": 0
+            },
+            {
+              "pos": 8,
+              "start": 16,
+              "car": "#17",
+              "driver": "Chris Buescher",
+              "team": "Body Guard",
+              "manufacturer": "Ford",
+              "laps": 73,
+              "laps_led": 7,
+              "times_led": 2,
+              "status": "Running",
+              "points": 0
+            },
+            {
+              "pos": 9,
+              "start": 3,
+              "car": "#12",
+              "driver": "Ryan Blaney",
+              "team": "Wurth",
+              "manufacturer": "Ford",
+              "laps": 73,
+              "laps_led": 12,
+              "times_led": 3,
+              "status": "Running",
+              "points": 0
+            },
+            {
+              "pos": 10,
+              "start": 23,
+              "car": "#1",
+              "driver": "Ross Chastain",
+              "team": "Kubota Veterans Honor",
+              "manufacturer": "Chevy",
+              "laps": 73,
+              "laps_led": 0,
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
+            },
+            {
+              "pos": 11,
+              "start": 9,
+              "car": "#71",
+              "driver": "Michael McDowell",
+              "team": "Defense Unicorns",
+              "manufacturer": "Chevy",
+              "laps": 73,
+              "laps_led": 0,
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
+            },
+            {
+              "pos": 12,
+              "start": 11,
+              "car": "#54",
+              "driver": "Ty Gibbs",
+              "team": "Monster Energy",
+              "manufacturer": "Toyota",
+              "laps": 73,
+              "laps_led": 0,
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
+            },
+            {
+              "pos": 13,
+              "start": 30,
+              "car": "#9",
+              "driver": "Chase Elliott",
+              "team": "NAPA Gold Filters",
+              "manufacturer": "Chevy",
+              "laps": 73,
+              "laps_led": 0,
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
+            },
+            {
+              "pos": 14,
+              "start": 7,
+              "car": "#60",
+              "driver": "Ryan Preece",
+              "team": "Ralphs/Scott 1000",
+              "manufacturer": "Ford",
+              "laps": 73,
+              "laps_led": 5,
+              "times_led": 2,
+              "status": "Running",
+              "points": 0
+            },
+            {
+              "pos": 15,
+              "start": 28,
+              "car": "#42",
+              "driver": "John Hunter Nemechek",
+              "team": "DriveValue.com",
+              "manufacturer": "Toyota",
+              "laps": 73,
+              "laps_led": 0,
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
+            },
+            {
+              "pos": 16,
+              "start": 6,
+              "car": "#7",
+              "driver": "Daniel Suarez",
+              "team": "Freeway Insurance",
+              "manufacturer": "Chevy",
+              "laps": 73,
+              "laps_led": 0,
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
+            },
+            {
+              "pos": 17,
+              "start": 26,
+              "car": "#11",
+              "driver": "Denny Hamlin",
+              "team": "Bob's Discount Furniture",
+              "manufacturer": "Toyota",
+              "laps": 73,
+              "laps_led": 0,
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
+            },
+            {
+              "pos": 18,
+              "start": 22,
+              "car": "#19",
+              "driver": "Chase Briscoe",
+              "team": "Bass Pro Shops",
+              "manufacturer": "Toyota",
+              "laps": 73,
+              "laps_led": 0,
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
+            },
+            {
+              "pos": 19,
+              "start": 19,
+              "car": "#22",
+              "driver": "Joey Logano",
+              "team": "Shell Pennzoil",
+              "manufacturer": "Ford",
+              "laps": 73,
+              "laps_led": 0,
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
+            },
+            {
+              "pos": 20,
+              "start": 2,
+              "car": "#77",
+              "driver": "Carson Hocevar",
+              "team": "Spectrum",
+              "manufacturer": "Chevy",
+              "laps": 73,
+              "laps_led": 4,
+              "times_led": 2,
+              "status": "Running",
+              "points": 0
+            },
+            {
+              "pos": 21,
+              "start": 38,
+              "car": "#43",
+              "driver": "Erik Jones",
+              "team": "Dollar Tree",
+              "manufacturer": "Toyota",
+              "laps": 73,
+              "laps_led": 0,
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
+            },
+            {
+              "pos": 22,
+              "start": 5,
+              "car": "#34",
+              "driver": "Todd Gilliland",
+              "team": "Grillo's Pickles",
+              "manufacturer": "Ford",
+              "laps": 73,
+              "laps_led": 0,
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
+            },
+            {
+              "pos": 23,
+              "start": 18,
+              "car": "#3",
+              "driver": "Austin Dillon",
+              "team": "Boot Barn",
+              "manufacturer": "Chevy",
+              "laps": 73,
+              "laps_led": 0,
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
+            },
+            {
+              "pos": 24,
+              "start": 31,
+              "car": "#2",
+              "driver": "Austin Cindric",
+              "team": "Menards/Cardell Cabinetry",
+              "manufacturer": "Ford",
+              "laps": 73,
+              "laps_led": 0,
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
+            },
+            {
+              "pos": 25,
+              "start": 39,
+              "car": "#51",
+              "driver": "Cody Ware",
+              "team": "Rocket Doctor",
+              "manufacturer": "Chevy",
+              "laps": 73,
+              "laps_led": 0,
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
+            },
+            {
+              "pos": 26,
+              "start": 20,
+              "car": "#48",
+              "driver": "Alex Bowman",
+              "team": "Ally",
+              "manufacturer": "Chevy",
+              "laps": 73,
+              "laps_led": 0,
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
+            },
+            {
+              "pos": 27,
+              "start": 21,
+              "car": "#91",
+              "driver": "* Kevin Magnussen",
+              "team": "Qualcomm",
+              "manufacturer": "Chevy",
+              "laps": 73,
+              "laps_led": 0,
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
+            },
+            {
+              "pos": 28,
+              "start": 36,
+              "car": "#84",
+              "driver": "* Jimmie Johnson",
+              "team": "Carvana",
+              "manufacturer": "Toyota",
+              "laps": 73,
+              "laps_led": 0,
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
+            },
+            {
+              "pos": 29,
+              "start": 35,
+              "car": "#21",
+              "driver": "Josh Berry",
+              "team": "Motorcraft/Quick Lane",
+              "manufacturer": "Ford",
+              "laps": 73,
+              "laps_led": 0,
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
+            },
+            {
+              "pos": 30,
+              "start": 34,
+              "car": "#10",
+              "driver": "Ty Dillon",
+              "team": "The Fallen Outdoors",
+              "manufacturer": "Chevy",
+              "laps": 72,
+              "laps_led": 0,
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
+            },
+            {
+              "pos": 31,
+              "start": 25,
+              "car": "#41",
+              "driver": "Cole Custer",
+              "team": "Texas A&M",
+              "manufacturer": "Chevy",
+              "laps": 70,
+              "laps_led": 0,
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
+            },
+            {
+              "pos": 32,
+              "start": 27,
+              "car": "#24",
+              "driver": "William Byron",
+              "team": "Anduril",
+              "manufacturer": "Chevy",
+              "laps": 66,
+              "laps_led": 0,
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
+            },
+            {
+              "pos": 33,
+              "start": 33,
+              "car": "#47",
+              "driver": "Ricky Stenhouse Jr.",
+              "team": "Sycuan Casino and Resort",
+              "manufacturer": "Chevy",
+              "laps": 59,
+              "laps_led": 0,
+              "times_led": 0,
+              "status": "6",
+              "points": 0
+            },
+            {
+              "pos": 34,
+              "start": 29,
+              "car": "#6",
+              "driver": "Brad Keselowski",
+              "team": "BuildSubmarines.com",
+              "manufacturer": "Ford",
+              "laps": 57,
+              "laps_led": 0,
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
+            },
+            {
+              "pos": 35,
+              "start": 32,
+              "car": "#4",
+              "driver": "Noah Gragson",
+              "team": "Rush Truck Centers/Cummins",
+              "manufacturer": "Ford",
+              "laps": 37,
+              "laps_led": 0,
+              "times_led": 0,
+              "status": "Out",
+              "points": 0
+            },
+            {
+              "pos": 36,
               "start": 10,
               "car": "#33",
               "driver": "Austin Hill(i)",
@@ -554,11 +1009,11 @@
               "laps": 31,
               "laps_led": 1,
               "times_led": 1,
-              "status": "Running",
+              "status": "Out",
               "points": 0
             },
             {
-              "pos": 2,
+              "pos": 37,
               "start": 8,
               "car": "#88",
               "driver": "Connor Zilisch",
@@ -567,475 +1022,20 @@
               "laps": 31,
               "laps_led": 8,
               "times_led": 1,
-              "status": "6",
+              "status": "Out",
               "points": 0
             },
             {
-              "pos": 3,
+              "pos": 38,
               "start": 1,
               "car": "#97",
               "driver": "Shane Van Gisbergen",
               "team": "Red Bull",
               "manufacturer": "Chevy",
               "laps": 31,
-              "laps_led": 9,
-              "times_led": 3,
-              "status": "6",
-              "points": 0
-            },
-            {
-              "pos": 4,
-              "start": 24,
-              "car": "#35",
-              "driver": "Riley Herbst",
-              "team": "Monster Energy",
-              "manufacturer": "Toyota",
-              "laps": 31,
-              "laps_led": 0,
-              "times_led": 0,
-              "status": "Running",
-              "points": 0
-            },
-            {
-              "pos": 5,
-              "start": 11,
-              "car": "#54",
-              "driver": "Ty Gibbs",
-              "team": "Monster Energy",
-              "manufacturer": "Toyota",
-              "laps": 31,
-              "laps_led": 0,
-              "times_led": 0,
-              "status": "Running",
-              "points": 0
-            },
-            {
-              "pos": 6,
-              "start": 14,
-              "car": "#5",
-              "driver": "Kyle Larson",
-              "team": "HendrickCars.com",
-              "manufacturer": "Chevy",
-              "laps": 31,
-              "laps_led": 0,
-              "times_led": 0,
-              "status": "Running",
-              "points": 0
-            },
-            {
-              "pos": 7,
-              "start": 6,
-              "car": "#7",
-              "driver": "Daniel Suarez",
-              "team": "Freeway Insurance",
-              "manufacturer": "Chevy",
-              "laps": 31,
-              "laps_led": 0,
-              "times_led": 0,
-              "status": "Running",
-              "points": 0
-            },
-            {
-              "pos": 8,
-              "start": 4,
-              "car": "#38",
-              "driver": "Zane Smith",
-              "team": "Hard Rock Casino Tejon/Hard Rock Caf\u00c3\u0192\u00c2\u00a9",
-              "manufacturer": "Ford",
-              "laps": 31,
-              "laps_led": 0,
-              "times_led": 0,
-              "status": "Running",
-              "points": 0
-            },
-            {
-              "pos": 9,
-              "start": 9,
-              "car": "#71",
-              "driver": "Michael McDowell",
-              "team": "Defense Unicorns",
-              "manufacturer": "Chevy",
-              "laps": 31,
-              "laps_led": 0,
-              "times_led": 0,
-              "status": "Running",
-              "points": 0
-            },
-            {
-              "pos": 10,
-              "start": 19,
-              "car": "#22",
-              "driver": "Joey Logano",
-              "team": "Shell Pennzoil",
-              "manufacturer": "Ford",
-              "laps": 31,
-              "laps_led": 0,
-              "times_led": 0,
-              "status": "Running",
-              "points": 0
-            },
-            {
-              "pos": 11,
-              "start": 17,
-              "car": "#45",
-              "driver": "Tyler Reddick",
-              "team": "Pala Casino",
-              "manufacturer": "Toyota",
-              "laps": 31,
-              "laps_led": 0,
-              "times_led": 0,
-              "status": "Running",
-              "points": 0
-            },
-            {
-              "pos": 12,
-              "start": 13,
-              "car": "#67",
-              "driver": "* Corey Heim(i)",
-              "team": "Mobil 1/O'Reilly Auto Parts",
-              "manufacturer": "Toyota",
-              "laps": 31,
-              "laps_led": 0,
-              "times_led": 0,
-              "status": "Running",
-              "points": 0
-            },
-            {
-              "pos": 13,
-              "start": 27,
-              "car": "#24",
-              "driver": "William Byron",
-              "team": "Anduril",
-              "manufacturer": "Chevy",
-              "laps": 31,
-              "laps_led": 0,
-              "times_led": 0,
-              "status": "Running",
-              "points": 0
-            },
-            {
-              "pos": 14,
-              "start": 28,
-              "car": "#42",
-              "driver": "John Hunter Nemechek",
-              "team": "DriveValue.com",
-              "manufacturer": "Toyota",
-              "laps": 31,
-              "laps_led": 0,
-              "times_led": 0,
-              "status": "Running",
-              "points": 0
-            },
-            {
-              "pos": 15,
-              "start": 2,
-              "car": "#77",
-              "driver": "Carson Hocevar",
-              "team": "Spectrum",
-              "manufacturer": "Chevy",
-              "laps": 31,
-              "laps_led": 0,
-              "times_led": 0,
-              "status": "Running",
-              "points": 0
-            },
-            {
-              "pos": 16,
-              "start": 25,
-              "car": "#41",
-              "driver": "Cole Custer",
-              "team": "Texas A&M",
-              "manufacturer": "Chevy",
-              "laps": 31,
-              "laps_led": 0,
-              "times_led": 0,
-              "status": "Running",
-              "points": 0
-            },
-            {
-              "pos": 17,
-              "start": 39,
-              "car": "#51",
-              "driver": "Cody Ware",
-              "team": "Rocket Doctor",
-              "manufacturer": "Chevy",
-              "laps": 31,
-              "laps_led": 0,
-              "times_led": 0,
-              "status": "Running",
-              "points": 0
-            },
-            {
-              "pos": 18,
-              "start": 35,
-              "car": "#21",
-              "driver": "Josh Berry",
-              "team": "Motorcraft/Quick Lane",
-              "manufacturer": "Ford",
-              "laps": 31,
-              "laps_led": 0,
-              "times_led": 0,
-              "status": "Running",
-              "points": 0
-            },
-            {
-              "pos": 19,
-              "start": 7,
-              "car": "#60",
-              "driver": "Ryan Preece",
-              "team": "Ralphs/Scott 1000",
-              "manufacturer": "Ford",
-              "laps": 31,
-              "laps_led": 2,
-              "times_led": 1,
-              "status": "Running",
-              "points": 0
-            },
-            {
-              "pos": 20,
-              "start": 16,
-              "car": "#17",
-              "driver": "Chris Buescher",
-              "team": "Body Guard",
-              "manufacturer": "Ford",
-              "laps": 31,
-              "laps_led": 0,
-              "times_led": 0,
-              "status": "Running",
-              "points": 0
-            },
-            {
-              "pos": 21,
-              "start": 23,
-              "car": "#1",
-              "driver": "Ross Chastain",
-              "team": "Kubota Veterans Honor",
-              "manufacturer": "Chevy",
-              "laps": 31,
-              "laps_led": 0,
-              "times_led": 0,
-              "status": "Running",
-              "points": 0
-            },
-            {
-              "pos": 22,
-              "start": 22,
-              "car": "#19",
-              "driver": "Chase Briscoe",
-              "team": "Bass Pro Shops",
-              "manufacturer": "Toyota",
-              "laps": 31,
-              "laps_led": 0,
-              "times_led": 0,
-              "status": "Running",
-              "points": 0
-            },
-            {
-              "pos": 23,
-              "start": 15,
-              "car": "#16",
-              "driver": "AJ Allmendinger",
-              "team": "Celsius",
-              "manufacturer": "Chevy",
-              "laps": 31,
-              "laps_led": 0,
-              "times_led": 0,
-              "status": "Running",
-              "points": 0
-            },
-            {
-              "pos": 24,
-              "start": 3,
-              "car": "#12",
-              "driver": "Ryan Blaney",
-              "team": "Wurth",
-              "manufacturer": "Ford",
-              "laps": 31,
-              "laps_led": 11,
+              "laps_led": 8,
               "times_led": 2,
-              "status": "Running",
-              "points": 0
-            },
-            {
-              "pos": 25,
-              "start": 5,
-              "car": "#34",
-              "driver": "Todd Gilliland",
-              "team": "Grillo's Pickles",
-              "manufacturer": "Ford",
-              "laps": 31,
-              "laps_led": 0,
-              "times_led": 0,
-              "status": "Running",
-              "points": 0
-            },
-            {
-              "pos": 26,
-              "start": 26,
-              "car": "#11",
-              "driver": "Denny Hamlin",
-              "team": "Bob's Discount Furniture",
-              "manufacturer": "Toyota",
-              "laps": 31,
-              "laps_led": 0,
-              "times_led": 0,
-              "status": "Running",
-              "points": 0
-            },
-            {
-              "pos": 27,
-              "start": 20,
-              "car": "#48",
-              "driver": "Alex Bowman",
-              "team": "Ally",
-              "manufacturer": "Chevy",
-              "laps": 31,
-              "laps_led": 0,
-              "times_led": 0,
-              "status": "Running",
-              "points": 0
-            },
-            {
-              "pos": 28,
-              "start": 30,
-              "car": "#9",
-              "driver": "Chase Elliott",
-              "team": "NAPA Gold Filters",
-              "manufacturer": "Chevy",
-              "laps": 31,
-              "laps_led": 0,
-              "times_led": 0,
-              "status": "Running",
-              "points": 0
-            },
-            {
-              "pos": 29,
-              "start": 18,
-              "car": "#3",
-              "driver": "Austin Dillon",
-              "team": "Boot Barn",
-              "manufacturer": "Chevy",
-              "laps": 31,
-              "laps_led": 0,
-              "times_led": 0,
-              "status": "Running",
-              "points": 0
-            },
-            {
-              "pos": 30,
-              "start": 38,
-              "car": "#43",
-              "driver": "Erik Jones",
-              "team": "Dollar Tree",
-              "manufacturer": "Toyota",
-              "laps": 31,
-              "laps_led": 0,
-              "times_led": 0,
-              "status": "Running",
-              "points": 0
-            },
-            {
-              "pos": 31,
-              "start": 21,
-              "car": "#91",
-              "driver": "* Kevin Magnussen",
-              "team": "Qualcomm",
-              "manufacturer": "Chevy",
-              "laps": 31,
-              "laps_led": 0,
-              "times_led": 0,
-              "status": "Running",
-              "points": 0
-            },
-            {
-              "pos": 32,
-              "start": 32,
-              "car": "#4",
-              "driver": "Noah Gragson",
-              "team": "Rush Truck Centers/Cummins",
-              "manufacturer": "Ford",
-              "laps": 31,
-              "laps_led": 0,
-              "times_led": 0,
-              "status": "Running",
-              "points": 0
-            },
-            {
-              "pos": 33,
-              "start": 36,
-              "car": "#84",
-              "driver": "* Jimmie Johnson",
-              "team": "Carvana",
-              "manufacturer": "Toyota",
-              "laps": 31,
-              "laps_led": 0,
-              "times_led": 0,
-              "status": "Running",
-              "points": 0
-            },
-            {
-              "pos": 34,
-              "start": 33,
-              "car": "#47",
-              "driver": "Ricky Stenhouse Jr.",
-              "team": "Sycuan Casino and Resort",
-              "manufacturer": "Chevy",
-              "laps": 31,
-              "laps_led": 0,
-              "times_led": 0,
-              "status": "Running",
-              "points": 0
-            },
-            {
-              "pos": 35,
-              "start": 29,
-              "car": "#6",
-              "driver": "Brad Keselowski",
-              "team": "BuildSubmarines.com",
-              "manufacturer": "Ford",
-              "laps": 31,
-              "laps_led": 0,
-              "times_led": 0,
-              "status": "Running",
-              "points": 0
-            },
-            {
-              "pos": 36,
-              "start": 34,
-              "car": "#10",
-              "driver": "Ty Dillon",
-              "team": "The Fallen Outdoors",
-              "manufacturer": "Chevy",
-              "laps": 31,
-              "laps_led": 0,
-              "times_led": 0,
-              "status": "Running",
-              "points": 0
-            },
-            {
-              "pos": 37,
-              "start": 31,
-              "car": "#2",
-              "driver": "Austin Cindric",
-              "team": "Menards/Cardell Cabinetry",
-              "manufacturer": "Ford",
-              "laps": 31,
-              "laps_led": 0,
-              "times_led": 0,
-              "status": "Running",
-              "points": 0
-            },
-            {
-              "pos": 38,
-              "start": 12,
-              "car": "#23",
-              "driver": "Bubba Wallace",
-              "team": "Xfinity",
-              "manufacturer": "Toyota",
-              "laps": 30,
-              "laps_led": 2,
-              "times_led": 1,
-              "status": "Running",
+              "status": "Out",
               "points": 0
             },
             {
@@ -1048,7 +1048,7 @@
               "laps": 28,
               "laps_led": 0,
               "times_led": 0,
-              "status": "6",
+              "status": "Out",
               "points": 0
             }
           ]
@@ -10933,14 +10933,14 @@
           "session_type": "race"
         }
       ],
-      "updated": "2026-06-21"
+      "updated": "2026-06-22"
     },
-    "_updated": "2026-06-21"
+    "_updated": "2026-06-22"
   },
   "nascar-2026-season": {
     "data": {
       "series_name": "NASCAR Cup Series",
-      "updated": "2026-06-21",
+      "updated": "2026-06-22",
       "standings": [
         {
           "pos": 1,
@@ -11438,14 +11438,14 @@
         }
       ],
       "next_race": {
-        "name": "Anduril 250",
-        "track": "San Diego Street Course",
-        "date": "2026-06-21",
+        "name": "Toyota / Save Mart 350",
+        "track": "Sonoma Raceway",
+        "date": "2026-06-28",
         "time": "",
         "tv": ""
       }
     },
-    "_updated": "2026-06-21"
+    "_updated": "2026-06-22"
   },
   "pga-2026-tournaments": {
     "data": {
@@ -11459,15 +11459,6 @@
           "players": [],
           "course": "TPC San Antonio",
           "tv": "ESPN"
-        },
-        {
-          "name": "U.S. Open",
-          "date": "2026-06-18",
-          "is_complete": false,
-          "is_live": true,
-          "winner": null,
-          "winner_score": null,
-          "players": []
         },
         {
           "name": "Texas Children's Houston Open",
@@ -17870,9 +17861,9 @@
           "players": []
         }
       ],
-      "updated": "2026-06-21"
+      "updated": "2026-06-22"
     },
-    "_updated": "2026-06-21"
+    "_updated": "2026-06-22"
   },
   "f1-history": {
     "data": {
@@ -18764,9 +18755,9 @@
           ]
         }
       ],
-      "updated": "2026-06-21"
+      "updated": "2026-06-22"
     },
-    "_updated": "2026-06-21"
+    "_updated": "2026-06-22"
   },
   "f1-2026-season": {
     "data": {
@@ -18986,9 +18977,9 @@
         "circuit": "Red Bull Ring",
         "country": "Austria"
       },
-      "updated": "2026-06-21"
+      "updated": "2026-06-22"
     },
-    "_updated": "2026-06-21"
+    "_updated": "2026-06-22"
   },
   "atp-players": {
     "data": {
@@ -20321,7 +20312,7 @@
         "country": ""
       }
     },
-    "_updated": "2026-06-21"
+    "_updated": "2026-06-22"
   },
   "wta-players": {
     "data": {
@@ -21654,7 +21645,7 @@
         "country": ""
       }
     },
-    "_updated": "2026-06-21"
+    "_updated": "2026-06-22"
   },
   "pga-players": {
     "data": {
@@ -26174,7 +26165,7 @@
         "country": "USA"
       }
     },
-    "_updated": "2026-06-21"
+    "_updated": "2026-06-22"
   },
   "atp-rankings": {
     "data": {
@@ -26630,9 +26621,9 @@
           "change": 0
         }
       ],
-      "updated": "2026-06-21"
+      "updated": "2026-06-22"
     },
-    "_updated": "2026-06-21"
+    "_updated": "2026-06-22"
   },
   "wta-rankings": {
     "data": {
@@ -27088,9 +27079,9 @@
           "change": 0
         }
       ],
-      "updated": "2026-06-21"
+      "updated": "2026-06-22"
     },
-    "_updated": "2026-06-21"
+    "_updated": "2026-06-22"
   },
   "nascar-drivers": {
     "data": {
@@ -27563,7 +27554,7 @@
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4136.vresize.140.140.medium.1.png"
       }
     },
-    "_updated": "2026-06-21"
+    "_updated": "2026-06-22"
   },
   "f1-drivers": {
     "data": {
@@ -27656,7 +27647,7 @@
         "headshot": "https://media.formula1.com/image/upload/c_fill,g_face,w_140,h_140/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/cadillac/valbot01/2026cadillacvalbot01right.webp"
       }
     },
-    "_updated": "2026-06-21"
+    "_updated": "2026-06-22"
   },
   "nascar-trucks-history": {
     "data": {
@@ -38708,7 +38699,7 @@
         }
       ],
       "series_name": "NASCAR Craftsman Truck Series",
-      "updated": "2026-06-21",
+      "updated": "2026-06-22",
       "next_race": {
         "name": "LiUNA 150",
         "track": "Lime Rock Park",
@@ -38717,7 +38708,7 @@
         "tv": ""
       }
     },
-    "_updated": "2026-06-21"
+    "_updated": "2026-06-22"
   },
   "nascar-noaps-history": {
     "data": {
@@ -51010,7 +51001,7 @@
         }
       ],
       "series_name": "NASCAR O'Reilly Auto Parts Series",
-      "updated": "2026-06-21",
+      "updated": "2026-06-22",
       "next_race": {
         "name": "Pit Boss/FoodMaxx 250",
         "track": "Sonoma Raceway",
@@ -51019,6 +51010,6 @@
         "tv": ""
       }
     },
-    "_updated": "2026-06-21"
+    "_updated": "2026-06-22"
   }
 }
