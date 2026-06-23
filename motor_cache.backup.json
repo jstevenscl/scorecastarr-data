@@ -11470,6 +11470,15 @@
           "tv": "ESPN"
         },
         {
+          "name": "",
+          "date": "",
+          "is_complete": false,
+          "is_live": false,
+          "winner": null,
+          "winner_score": null,
+          "players": []
+        },
+        {
           "name": "Valspar Championship",
           "date": "2026-03-21",
           "is_complete": true,
@@ -49449,7 +49458,7 @@
         {
           "pos": 7,
           "driver": "Carson Kvapil",
-          "car": "#9",
+          "car": "#91",
           "manufacturer": "",
           "points": 567,
           "wins": 0,
@@ -49953,7 +49962,7 @@
         {
           "pos": 64,
           "driver": "Ross Chastain",
-          "car": "#9",
+          "car": "#32",
           "manufacturer": "Chevy",
           "points": 0,
           "wins": 1,
@@ -50025,7 +50034,7 @@
         {
           "pos": 72,
           "driver": "Leland Honeyman",
-          "car": "#92",
+          "car": "#71",
           "manufacturer": "",
           "points": 0,
           "wins": 0,
