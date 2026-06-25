@@ -11482,7 +11482,7 @@
           "name": "Travelers Championship",
           "date": "2026-06-25",
           "is_complete": false,
-          "is_live": false,
+          "is_live": true,
           "winner": null,
           "winner_score": null,
           "players": []
