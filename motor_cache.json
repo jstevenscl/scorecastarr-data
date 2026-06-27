@@ -10940,7 +10940,7 @@
   "nascar-2026-season": {
     "data": {
       "series_name": "NASCAR Cup Series",
-      "updated": "2026-06-26",
+      "updated": "2026-06-27",
       "standings": [
         {
           "pos": 1,
@@ -11324,7 +11324,7 @@
           "pos": 43,
           "driver": "Austin Hill",
           "car": "#33",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -11360,7 +11360,7 @@
           "pos": 47,
           "driver": "Jesse Love",
           "car": "#33",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -11387,7 +11387,7 @@
           "pos": 51,
           "driver": "Josh Bilicki",
           "car": "#66",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -11454,7 +11454,7 @@
         "tv": ""
       }
     },
-    "_updated": "2026-06-26"
+    "_updated": "2026-06-27"
   },
   "pga-2026-tournaments": {
     "data": {
@@ -16986,9 +16986,9 @@
           "players": []
         }
       ],
-      "updated": "2026-06-26"
+      "updated": "2026-06-27"
     },
-    "_updated": "2026-06-26"
+    "_updated": "2026-06-27"
   },
   "f1-history": {
     "data": {
@@ -17880,9 +17880,9 @@
           ]
         }
       ],
-      "updated": "2026-06-26"
+      "updated": "2026-06-27"
     },
-    "_updated": "2026-06-26"
+    "_updated": "2026-06-27"
   },
   "f1-2026-season": {
     "data": {
@@ -18102,9 +18102,9 @@
         "circuit": "Red Bull Ring",
         "country": "Austria"
       },
-      "updated": "2026-06-26"
+      "updated": "2026-06-27"
     },
-    "_updated": "2026-06-26"
+    "_updated": "2026-06-27"
   },
   "atp-players": {
     "data": {
@@ -19461,7 +19461,7 @@
         "country": ""
       }
     },
-    "_updated": "2026-06-26"
+    "_updated": "2026-06-27"
   },
   "wta-players": {
     "data": {
@@ -20794,7 +20794,7 @@
         "country": ""
       }
     },
-    "_updated": "2026-06-26"
+    "_updated": "2026-06-27"
   },
   "pga-players": {
     "data": {
@@ -25314,7 +25314,7 @@
         "country": "USA"
       }
     },
-    "_updated": "2026-06-26"
+    "_updated": "2026-06-27"
   },
   "atp-rankings": {
     "data": {
@@ -25770,9 +25770,9 @@
           "change": 0
         }
       ],
-      "updated": "2026-06-26"
+      "updated": "2026-06-27"
     },
-    "_updated": "2026-06-26"
+    "_updated": "2026-06-27"
   },
   "wta-rankings": {
     "data": {
@@ -26228,9 +26228,9 @@
           "change": 0
         }
       ],
-      "updated": "2026-06-26"
+      "updated": "2026-06-27"
     },
-    "_updated": "2026-06-26"
+    "_updated": "2026-06-27"
   },
   "nascar-drivers": {
     "data": {
@@ -26703,7 +26703,7 @@
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4136.vresize.140.140.medium.1.png"
       }
     },
-    "_updated": "2026-06-26"
+    "_updated": "2026-06-27"
   },
   "f1-drivers": {
     "data": {
@@ -26796,7 +26796,7 @@
         "headshot": "https://media.formula1.com/image/upload/c_fill,g_face,w_140,h_140/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/cadillac/valbot01/2026cadillacvalbot01right.webp"
       }
     },
-    "_updated": "2026-06-26"
+    "_updated": "2026-06-27"
   },
   "nascar-trucks-history": {
     "data": {
@@ -37544,7 +37544,7 @@
           "pos": 64,
           "driver": "Tyler Tomassi",
           "car": "#69",
-          "manufacturer": "",
+          "manufacturer": "Chevy",
           "points": 8,
           "wins": 0,
           "races": 0
@@ -37679,7 +37679,7 @@
           "pos": 79,
           "driver": "Rajah Caruth",
           "car": "#7",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -37697,7 +37697,7 @@
           "pos": 81,
           "driver": "Brandon Jones",
           "car": "#1",
-          "manufacturer": "Toyota",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -37760,7 +37760,7 @@
           "pos": 88,
           "driver": "Parker Retzlaff",
           "car": "#62",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -37769,7 +37769,7 @@
           "pos": 89,
           "driver": "Sammy Smith",
           "car": "#7",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -37814,7 +37814,7 @@
           "pos": 94,
           "driver": "Taylor Gray",
           "car": "#1",
-          "manufacturer": "Toyota",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -37832,7 +37832,7 @@
           "pos": 96,
           "driver": "Jesse Love",
           "car": "#77",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -37841,14 +37841,14 @@
           "pos": 97,
           "driver": "Corey Day",
           "car": "#7",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
         }
       ],
       "series_name": "NASCAR Craftsman Truck Series",
-      "updated": "2026-06-26",
+      "updated": "2026-06-27",
       "next_race": {
         "name": "LiUNA 150",
         "track": "Lime Rock Park",
@@ -37857,7 +37857,7 @@
         "tv": ""
       }
     },
-    "_updated": "2026-06-26"
+    "_updated": "2026-06-27"
   },
   "nascar-noaps-history": {
     "data": {
@@ -48832,7 +48832,7 @@
           "pos": 2,
           "driver": "Jesse Love",
           "car": "#2",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 623,
           "wins": 0,
           "races": 0
@@ -48841,7 +48841,7 @@
           "pos": 3,
           "driver": "Corey Day",
           "car": "#17",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 609,
           "wins": 2,
           "races": 0
@@ -48850,7 +48850,7 @@
           "pos": 4,
           "driver": "Sheldon Creed",
           "car": "#00",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 607,
           "wins": 1,
           "races": 0
@@ -48859,7 +48859,7 @@
           "pos": 5,
           "driver": "Austin Hill",
           "car": "#21",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 591,
           "wins": 2,
           "races": 0
@@ -48868,7 +48868,7 @@
           "pos": 6,
           "driver": "Brandon Jones",
           "car": "#20",
-          "manufacturer": "Toyota",
+          "manufacturer": "",
           "points": 572,
           "wins": 0,
           "races": 0
@@ -48886,7 +48886,7 @@
           "pos": 8,
           "driver": "Sammy Smith",
           "car": "#8",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 543,
           "wins": 0,
           "races": 0
@@ -48895,7 +48895,7 @@
           "pos": 9,
           "driver": "Parker Retzlaff",
           "car": "#99",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 494,
           "wins": 0,
           "races": 0
@@ -48904,7 +48904,7 @@
           "pos": 10,
           "driver": "Taylor Gray",
           "car": "#54",
-          "manufacturer": "Toyota",
+          "manufacturer": "",
           "points": 476,
           "wins": 1,
           "races": 0
@@ -48940,7 +48940,7 @@
           "pos": 14,
           "driver": "Rajah Caruth",
           "car": "#88",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 439,
           "wins": 0,
           "races": 0
@@ -48949,7 +48949,7 @@
           "pos": 15,
           "driver": "Ryan Sieg",
           "car": "#39",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 421,
           "wins": 0,
           "races": 0
@@ -48985,7 +48985,7 @@
           "pos": 19,
           "driver": "Jeremy Clements",
           "car": "#51",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 306,
           "wins": 0,
           "races": 0
@@ -48994,7 +48994,7 @@
           "pos": 20,
           "driver": "Jeb Burton",
           "car": "#27",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 282,
           "wins": 0,
           "races": 0
@@ -49003,7 +49003,7 @@
           "pos": 21,
           "driver": "Blaine Perkins",
           "car": "#31",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 278,
           "wins": 0,
           "races": 0
@@ -49012,7 +49012,7 @@
           "pos": 22,
           "driver": "Harrison Burton",
           "car": "#24",
-          "manufacturer": "Toyota",
+          "manufacturer": "",
           "points": 275,
           "wins": 0,
           "races": 0
@@ -49030,7 +49030,7 @@
           "pos": 24,
           "driver": "Austin Green",
           "car": "#87",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 237,
           "wins": 0,
           "races": 0
@@ -49039,7 +49039,7 @@
           "pos": 25,
           "driver": "Josh Bilicki",
           "car": "#07",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 220,
           "wins": 0,
           "races": 0
@@ -49345,7 +49345,7 @@
           "pos": 60,
           "driver": "Sage Karam",
           "car": "#55",
-          "manufacturer": "",
+          "manufacturer": "Chevy",
           "points": 2,
           "wins": 0,
           "races": 0
@@ -49559,7 +49559,7 @@
         }
       ],
       "series_name": "NASCAR O'Reilly Auto Parts Series",
-      "updated": "2026-06-26",
+      "updated": "2026-06-27",
       "next_race": {
         "name": "Pit Boss/FoodMaxx 250",
         "track": "Sonoma Raceway",
@@ -49568,7 +49568,7 @@
         "tv": ""
       }
     },
-    "_updated": "2026-06-26"
+    "_updated": "2026-06-27"
   },
   "fifawc-2026-history": {
     "data": {
@@ -51248,9 +51248,9 @@
           "venue": "BMO Field"
         }
       ],
-      "updated": "2026-06-26",
+      "updated": "2026-06-27",
       "season": "2026"
     },
-    "_updated": "2026-06-26"
+    "_updated": "2026-06-27"
   }
 }
