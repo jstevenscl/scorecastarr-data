@@ -51327,6 +51327,33 @@
           "status": "final",
           "round": "",
           "venue": "BC Place"
+        },
+        {
+          "id": "760476",
+          "date": "2026-06-26",
+          "teams": [
+            {
+              "abbr": "EGY",
+              "name": "Egypt",
+              "score": "1",
+              "homeAway": "home",
+              "winner": false,
+              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/egy.png",
+              "color": "#D20300"
+            },
+            {
+              "abbr": "IRN",
+              "name": "Iran",
+              "score": "1",
+              "homeAway": "away",
+              "winner": false,
+              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/irn.png",
+              "color": "#FFFFFF"
+            }
+          ],
+          "status": "final",
+          "round": "",
+          "venue": "Lumen Field"
         }
       ],
       "updated": "2026-06-27",
