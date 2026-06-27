@@ -51246,6 +51246,87 @@
           "status": "final",
           "round": "",
           "venue": "BMO Field"
+        },
+        {
+          "id": "760478",
+          "date": "2026-06-26",
+          "teams": [
+            {
+              "abbr": "CPV",
+              "name": "Cape Verde",
+              "score": "0",
+              "homeAway": "home",
+              "winner": false,
+              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cpv.png",
+              "color": "#000080"
+            },
+            {
+              "abbr": "KSA",
+              "name": "Saudi Arabia",
+              "score": "0",
+              "homeAway": "away",
+              "winner": false,
+              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ksa.png",
+              "color": "#FFFFFF"
+            }
+          ],
+          "status": "final",
+          "round": "",
+          "venue": "NRG Stadium"
+        },
+        {
+          "id": "760479",
+          "date": "2026-06-26",
+          "teams": [
+            {
+              "abbr": "URU",
+              "name": "Uruguay",
+              "score": "0",
+              "homeAway": "home",
+              "winner": false,
+              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/uru.png",
+              "color": "#55B5E5"
+            },
+            {
+              "abbr": "ESP",
+              "name": "Spain",
+              "score": "1",
+              "homeAway": "away",
+              "winner": true,
+              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+              "color": "#c60b1e"
+            }
+          ],
+          "status": "final",
+          "round": "",
+          "venue": "Estadio Akron"
+        },
+        {
+          "id": "760477",
+          "date": "2026-06-26",
+          "teams": [
+            {
+              "abbr": "NZL",
+              "name": "New Zealand",
+              "score": "1",
+              "homeAway": "home",
+              "winner": false,
+              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nzl.png",
+              "color": "#000000"
+            },
+            {
+              "abbr": "BEL",
+              "name": "Belgium",
+              "score": "5",
+              "homeAway": "away",
+              "winner": true,
+              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png",
+              "color": "#E30613"
+            }
+          ],
+          "status": "final",
+          "round": "",
+          "venue": "BC Place"
         }
       ],
       "updated": "2026-06-27",
