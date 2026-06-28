@@ -48787,6 +48787,15 @@
           "races": 0
         },
         {
+          "pos": 60,
+          "driver": "Kyle Kelley",
+          "car": "#53",
+          "manufacturer": "Chevy",
+          "points": 3,
+          "wins": 0,
+          "races": 0
+        },
+        {
           "pos": 61,
           "driver": "Sage Karam",
           "car": "#55",
