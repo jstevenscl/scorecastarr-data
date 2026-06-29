@@ -24781,20 +24781,20 @@
         },
         {
           "rank": 7,
+          "id": "2946",
+          "name": "Taylor Fritz",
+          "country": "",
+          "headshot": "",
+          "points": 3765.0,
+          "change": 0
+        },
+        {
+          "rank": 8,
           "id": "296",
           "name": "Novak Djokovic",
           "country": "",
           "headshot": "",
           "points": 3760.0,
-          "change": 0
-        },
-        {
-          "rank": 8,
-          "id": "2946",
-          "name": "Taylor Fritz",
-          "country": "",
-          "headshot": "",
-          "points": 3715.0,
           "change": 0
         },
         {
@@ -24974,7 +24974,7 @@
           "name": "Arthur Rinderknech",
           "country": "",
           "headshot": "",
-          "points": 1673.0,
+          "points": 1683.0,
           "change": 0
         },
         {
@@ -25100,7 +25100,7 @@
           "name": "Juan Manuel Cerundolo",
           "country": "",
           "headshot": "",
-          "points": 1095.0,
+          "points": 1108.0,
           "change": 0
         },
         {
@@ -25109,7 +25109,7 @@
           "name": "Raphael Collignon",
           "country": "",
           "headshot": "",
-          "points": 1069.0,
+          "points": 1091.0,
           "change": 0
         },
         {
@@ -25118,7 +25118,7 @@
           "name": "Jaume Munar",
           "country": "",
           "headshot": "",
-          "points": 1065.0,
+          "points": 1075.0,
           "change": 0
         },
         {
