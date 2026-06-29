@@ -10885,15 +10885,6 @@
           "players": []
         },
         {
-          "name": "Travelers Championship",
-          "date": "2026-06-25",
-          "is_complete": false,
-          "is_live": true,
-          "winner": null,
-          "winner_score": null,
-          "players": []
-        },
-        {
           "name": "Valspar Championship",
           "date": "2026-03-21",
           "is_complete": true,
