@@ -23096,6 +23096,55 @@
         "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/5362523.png",
         "flag": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
         "country": "USA"
+      },
+      "4426180": {
+        "id": "4426180",
+        "name": "Michael Feagles",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/4426180.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+        "country": "USA"
+      },
+      "11170": {
+        "id": "11170",
+        "name": "Darin Fisher",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/11170.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+        "country": "USA"
+      },
+      "5223199": {
+        "id": "5223199",
+        "name": "Luke Gutschewski",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/5223199.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+        "country": "USA"
+      },
+      "5167": {
+        "id": "5167",
+        "name": "Dylan Frittelli",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/5167.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/rsa.png",
+        "country": "South Africa"
+      },
+      "5364556": {
+        "id": "5364556",
+        "name": "Patrick Adler",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/5364556.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+        "country": "USA"
+      },
+      "10940": {
+        "id": "10940",
+        "name": "Augusto N\u00fa\u00f1ez",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/10940.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
+        "country": "Argentina"
+      },
+      "5364557": {
+        "id": "5364557",
+        "name": "Ryan Voois",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/5364557.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+        "country": "USA"
       }
     },
     "_updated": "2026-06-30"
@@ -49487,6 +49536,33 @@
           "status": "final",
           "round": "",
           "venue": "NRG Stadium"
+        },
+        {
+          "id": "760490",
+          "date": "2026-06-30",
+          "teams": [
+            {
+              "abbr": "CIV",
+              "name": "Ivory Coast",
+              "score": "1",
+              "homeAway": "home",
+              "winner": false,
+              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/civ.png",
+              "color": "#FF8200"
+            },
+            {
+              "abbr": "NOR",
+              "name": "Norway",
+              "score": "2",
+              "homeAway": "away",
+              "winner": true,
+              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png",
+              "color": "#C8102E"
+            }
+          ],
+          "status": "final",
+          "round": "",
+          "venue": "AT&T Stadium"
         }
       ],
       "updated": "2026-06-30",
