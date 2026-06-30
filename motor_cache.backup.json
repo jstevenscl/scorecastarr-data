@@ -10885,6 +10885,15 @@
           "players": []
         },
         {
+          "name": "John Deere Classic",
+          "date": "2026-07-02",
+          "is_complete": false,
+          "is_live": false,
+          "winner": null,
+          "winner_score": null,
+          "players": []
+        },
+        {
           "name": "THE PLAYERS Championship",
           "date": "2026-03-14",
           "is_complete": true,
@@ -46982,7 +46991,7 @@
         {
           "pos": 30,
           "driver": "Joey Gase",
-          "car": "#53",
+          "car": "#55",
           "manufacturer": "",
           "points": 127,
           "wins": 0,
@@ -47009,7 +47018,7 @@
         {
           "pos": 33,
           "driver": "Garrett Smithley",
-          "car": "#0",
+          "car": "#42",
           "manufacturer": "",
           "points": 93,
           "wins": 0,
@@ -47054,7 +47063,7 @@
         {
           "pos": 38,
           "driver": "Dawson Cram",
-          "car": "#35",
+          "car": "#47",
           "manufacturer": "",
           "points": 51,
           "wins": 0,
