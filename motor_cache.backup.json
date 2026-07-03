@@ -10757,7 +10757,7 @@
           "pos": 46,
           "driver": "Daniel Dye",
           "car": "#78",
-          "manufacturer": "",
+          "manufacturer": "Chevy",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -35035,7 +35035,7 @@
           "pos": 25,
           "driver": "Daniel Dye",
           "car": "#20",
-          "manufacturer": "",
+          "manufacturer": "Chevy",
           "points": 117,
           "wins": 0,
           "races": 0
@@ -35359,7 +35359,7 @@
           "pos": 62,
           "driver": "Morgen Baird",
           "car": "#2",
-          "manufacturer": "",
+          "manufacturer": "Ford",
           "points": 11,
           "wins": 0,
           "races": 0
@@ -35386,7 +35386,7 @@
           "pos": 65,
           "driver": "Jason Kitzmiller",
           "car": "#97",
-          "manufacturer": "",
+          "manufacturer": "Chevy",
           "points": 7,
           "wins": 0,
           "races": 0
@@ -47410,7 +47410,7 @@
           "pos": 72,
           "driver": "Daniel Dye",
           "car": "#52",
-          "manufacturer": "",
+          "manufacturer": "Chevy",
           "points": 0,
           "wins": 0,
           "races": 0
