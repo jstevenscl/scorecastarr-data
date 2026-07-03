@@ -35026,7 +35026,7 @@
           "pos": 24,
           "driver": "Connor Mosack",
           "car": "#7",
-          "manufacturer": "",
+          "manufacturer": "Chevy",
           "points": 135,
           "wins": 0,
           "races": 0
@@ -35575,7 +35575,7 @@
           "pos": 86,
           "driver": "William Sawalich",
           "car": "#5",
-          "manufacturer": "",
+          "manufacturer": "Toyota",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -46888,7 +46888,7 @@
           "pos": 13,
           "driver": "William Sawalich",
           "car": "#18",
-          "manufacturer": "",
+          "manufacturer": "Toyota",
           "points": 472,
           "wins": 1,
           "races": 0
