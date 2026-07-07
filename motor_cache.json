@@ -10613,6 +10613,15 @@
           "players": []
         },
         {
+          "name": "Genesis Scottish Open",
+          "date": "2026-07-09",
+          "is_complete": false,
+          "is_live": false,
+          "winner": null,
+          "winner_score": null,
+          "players": []
+        },
+        {
           "name": "Arnold Palmer Invitational",
           "date": "2026-03-02",
           "is_complete": true,
@@ -21386,6 +21395,314 @@
         "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/5364557.png",
         "flag": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
         "country": "USA"
+      },
+      "4831": {
+        "id": "4831",
+        "name": "Joost Luiten",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/4831.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
+        "country": "Netherlands"
+      },
+      "4592246": {
+        "id": "4592246",
+        "name": "Frederic LaCroix",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/4592246.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+        "country": "France"
+      },
+      "5102625": {
+        "id": "5102625",
+        "name": "Martin Couvra",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/5102625.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+        "country": "France"
+      },
+      "5236241": {
+        "id": "5236241",
+        "name": "Ryggs Johnston",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/5236241.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+        "country": "USA"
+      },
+      "4456": {
+        "id": "4456",
+        "name": "Ashun Wu",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/4456.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/chn.png",
+        "country": "China"
+      },
+      "3729": {
+        "id": "3729",
+        "name": "Scott Jamieson",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/3729.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/sct.png",
+        "country": "Scotland"
+      },
+      "11312": {
+        "id": "11312",
+        "name": "Junghwan Lee",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/11312.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/sko.png",
+        "country": "South Korea"
+      },
+      "5057": {
+        "id": "5057",
+        "name": "Shaun Norris",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/5057.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/rsa.png",
+        "country": "South Africa"
+      },
+      "6958": {
+        "id": "6958",
+        "name": "Grant Forrest",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/6958.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/sct.png",
+        "country": "Scotland"
+      },
+      "1336": {
+        "id": "1336",
+        "name": "Marcel Siem",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/1336.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png",
+        "country": "Germany"
+      },
+      "10838": {
+        "id": "10838",
+        "name": "Ewen Ferguson",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/10838.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/sct.png",
+        "country": "Scotland"
+      },
+      "3829": {
+        "id": "3829",
+        "name": "Pablo Larraz\u00e1bal",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/3829.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+        "country": "Spain"
+      },
+      "4408402": {
+        "id": "4408402",
+        "name": "Yurav Premlall",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/4408402.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/rsa.png",
+        "country": "South Africa"
+      },
+      "1483": {
+        "id": "1483",
+        "name": "Francesco Molinari",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/1483.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png",
+        "country": "Italy"
+      },
+      "10770": {
+        "id": "10770",
+        "name": "Oliver Lindell",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/10770.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/fin.png",
+        "country": "Finland"
+      },
+      "11340": {
+        "id": "11340",
+        "name": "Victor Perez",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/11340.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+        "country": "France"
+      },
+      "6485": {
+        "id": "6485",
+        "name": "Ockie Strydom",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/6485.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/rsa.png",
+        "country": "South Africa"
+      },
+      "4699414": {
+        "id": "4699414",
+        "name": "Yuto Katsuragawa",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/4699414.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/jpn.png",
+        "country": "Japan"
+      },
+      "10839": {
+        "id": "10839",
+        "name": "Adrian Meronk",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/10839.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/pol.png",
+        "country": "Poland"
+      },
+      "4592244": {
+        "id": "4592244",
+        "name": "David Ravetto",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/4592244.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+        "country": "France"
+      },
+      "5147034": {
+        "id": "5147034",
+        "name": "Seungbin Choi",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/5147034.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/sko.png",
+        "country": "South Korea"
+      },
+      "9723": {
+        "id": "9723",
+        "name": "Darius Van Driel",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/9723.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
+        "country": "Netherlands"
+      },
+      "10186": {
+        "id": "10186",
+        "name": "Johannes Veerman",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/10186.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+        "country": "USA"
+      },
+      "11465": {
+        "id": "11465",
+        "name": "Alejandro Del Rey",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/11465.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+        "country": "Spain"
+      },
+      "1499": {
+        "id": "1499",
+        "name": "Richard Sterne",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/1499.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/rsa.png",
+        "country": "South Africa"
+      },
+      "5965": {
+        "id": "5965",
+        "name": "Adrian Otaegui",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/5965.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/uae.png",
+        "country": "United Arab Emirates"
+      },
+      "7169": {
+        "id": "7169",
+        "name": "Nacho Elvira",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/7169.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+        "country": "Spain"
+      },
+      "5081630": {
+        "id": "5081630",
+        "name": "Dan Bradbury",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/5081630.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+        "country": "England"
+      },
+      "4837224": {
+        "id": "4837224",
+        "name": "Freddy Schott",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/4837224.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png",
+        "country": "Germany"
+      },
+      "10983": {
+        "id": "10983",
+        "name": "Connor Syme",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/10983.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/sct.png",
+        "country": "Scotland"
+      },
+      "9474": {
+        "id": "9474",
+        "name": "Guido Migliozzi",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/9474.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png",
+        "country": "Italy"
+      },
+      "10102": {
+        "id": "10102",
+        "name": "Calum Hill",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/10102.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/sct.png",
+        "country": "Scotland"
+      },
+      "11113": {
+        "id": "11113",
+        "name": "Nicolai von Dellingshausen",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/11113.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png",
+        "country": "Germany"
+      },
+      "4407372": {
+        "id": "4407372",
+        "name": "Antoine Rozner",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/4407372.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+        "country": "France"
+      },
+      "4868795": {
+        "id": "4868795",
+        "name": "Taehoon Ok",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/4868795.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/sko.png",
+        "country": "South Korea"
+      },
+      "1694": {
+        "id": "1694",
+        "name": "Julien Guerrier",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/1694.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+        "country": "France"
+      },
+      "4684823": {
+        "id": "4684823",
+        "name": "Richard Mansell",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/4684823.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+        "country": "England"
+      },
+      "5727": {
+        "id": "5727",
+        "name": "Joakim Lagergren",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/5727.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png",
+        "country": "Sweden"
+      },
+      "7072": {
+        "id": "7072",
+        "name": "Jacques Kruyswijk",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/7072.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/rsa.png",
+        "country": "South Africa"
+      },
+      "4574": {
+        "id": "4574",
+        "name": "Matteo Manassero",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/4574.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png",
+        "country": "Italy"
+      },
+      "4350033": {
+        "id": "4350033",
+        "name": "Rikuya Hoshino",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/4350033.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/jpn.png",
+        "country": "Japan"
+      },
+      "5243999": {
+        "id": "5243999",
+        "name": "Baekjun Kim",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/5243999.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/sko.png",
+        "country": "South Korea"
+      },
+      "9894": {
+        "id": "9894",
+        "name": "Dylan Naidoo",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/9894.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/rsa.png",
+        "country": "South Africa"
+      },
+      "4594474": {
+        "id": "4594474",
+        "name": "Daniel Rodrigues",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/4594474.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
+        "country": "Portugal"
       }
     },
     "_updated": "2026-07-07"
@@ -33311,7 +33628,7 @@
         {
           "pos": 29,
           "driver": "Parker Kligerman",
-          "car": "#75",
+          "car": "#77",
           "manufacturer": "",
           "points": 76,
           "wins": 0,
@@ -33464,7 +33781,7 @@
         {
           "pos": 46,
           "driver": "Ben Maier",
-          "car": "#4",
+          "car": "#42",
           "manufacturer": "",
           "points": 26,
           "wins": 0,
