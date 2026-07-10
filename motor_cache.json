@@ -48812,6 +48812,33 @@
           "status": "final",
           "round": "",
           "venue": "Gillette Stadium"
+        },
+        {
+          "id": "760511",
+          "date": "2026-07-10",
+          "teams": [
+            {
+              "abbr": "ESP",
+              "name": "Spain",
+              "score": "2",
+              "homeAway": "home",
+              "winner": true,
+              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+              "color": "#c60b1e"
+            },
+            {
+              "abbr": "BEL",
+              "name": "Belgium",
+              "score": "1",
+              "homeAway": "away",
+              "winner": false,
+              "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png",
+              "color": "#E30613"
+            }
+          ],
+          "status": "final",
+          "round": "",
+          "venue": "SoFi Stadium"
         }
       ],
       "updated": "2026-07-10",
