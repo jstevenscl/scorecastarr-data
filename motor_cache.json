@@ -9766,8 +9766,8 @@
           "date": "2026-07-09",
           "is_complete": false,
           "is_live": true,
-          "winner": null,
-          "winner_score": null,
+          "winner": "Tom Kim",
+          "winner_score": "-17",
           "players": []
         },
         {
