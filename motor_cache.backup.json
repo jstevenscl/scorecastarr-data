@@ -10103,7 +10103,7 @@
           "name": "The Open",
           "date": "2026-07-16",
           "is_complete": false,
-          "is_live": false,
+          "is_live": true,
           "winner": null,
           "winner_score": null,
           "players": []
@@ -21034,6 +21034,13 @@
         "id": "5369691",
         "name": "Anthony Garcia",
         "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/5369691.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+        "country": "USA"
+      },
+      "1564": {
+        "id": "1564",
+        "name": "Jeff Overton",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/1564.png",
         "flag": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
         "country": "USA"
       }
