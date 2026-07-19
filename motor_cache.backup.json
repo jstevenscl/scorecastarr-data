@@ -10156,8 +10156,8 @@
           "date": "2026-07-16",
           "is_complete": false,
           "is_live": true,
-          "winner": null,
-          "winner_score": null,
+          "winner": "Ryan Fox",
+          "winner_score": "-10",
           "players": []
         },
         {
