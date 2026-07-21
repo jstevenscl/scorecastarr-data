@@ -10139,6 +10139,15 @@
           "players": []
         },
         {
+          "name": "3M Open",
+          "date": "2026-07-23",
+          "is_complete": false,
+          "is_live": false,
+          "winner": null,
+          "winner_score": null,
+          "players": []
+        },
+        {
           "name": "PGA Championship",
           "date": "2026-05-14",
           "is_complete": true,
@@ -19645,6 +19654,48 @@
         "id": "1564",
         "name": "Jeff Overton",
         "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/1564.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+        "country": "USA"
+      },
+      "5147208": {
+        "id": "5147208",
+        "name": "Cooper Schultz",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/5147208.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+        "country": "USA"
+      },
+      "5293612": {
+        "id": "5293612",
+        "name": "Brannon Fahrny",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/5293612.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+        "country": "USA"
+      },
+      "9434": {
+        "id": "9434",
+        "name": "Thomas Campbell",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/9434.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/nzl.png",
+        "country": "New Zealand"
+      },
+      "5210225": {
+        "id": "5210225",
+        "name": "Griffin Wood",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/5210225.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+        "country": "USA"
+      },
+      "5369915": {
+        "id": "5369915",
+        "name": "Muzzy Donohue",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/5369915.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+        "country": "USA"
+      },
+      "5369916": {
+        "id": "5369916",
+        "name": "Sihan Sandhu",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/5369916.png",
         "flag": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
         "country": "USA"
       }
