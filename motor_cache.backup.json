@@ -31608,6 +31608,15 @@
           "races": 0
         },
         {
+          "pos": 58,
+          "driver": "Derek Lemke",
+          "car": "#22",
+          "manufacturer": "",
+          "points": 16,
+          "wins": 0,
+          "races": 0
+        },
+        {
           "pos": 59,
           "driver": "Stephen Mallozzi",
           "car": "#33",
@@ -42498,7 +42507,7 @@
         {
           "pos": 13,
           "driver": "Rajah Caruth",
-          "car": "#88",
+          "car": "#32",
           "manufacturer": "",
           "points": 522,
           "wins": 0,
@@ -42741,7 +42750,7 @@
         {
           "pos": 40,
           "driver": "Preston Pardus",
-          "car": "#50",
+          "car": "#92",
           "manufacturer": "",
           "points": 45,
           "wins": 0,
@@ -42822,7 +42831,7 @@
         {
           "pos": 49,
           "driver": "Blake Lothian",
-          "car": "#55",
+          "car": "#53",
           "manufacturer": "",
           "points": 27,
           "wins": 0,
@@ -42984,7 +42993,7 @@
         {
           "pos": 68,
           "driver": "Ross Chastain",
-          "car": "#32",
+          "car": "#9",
           "manufacturer": "Chevy",
           "points": 0,
           "wins": 1,
