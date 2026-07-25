@@ -3,7 +3,7 @@
     "data": {
       "run_name": "NCS Final Practice",
       "track_name": "Indianapolis Motor Speedway",
-      "race_date": "2026-07-24",
+      "race_date": "2026-07-25",
       "session_type": "practice",
       "winner": null,
       "flag_state": 9,
@@ -524,7 +524,7 @@
         }
       ]
     },
-    "_updated": "2026-07-24"
+    "_updated": "2026-07-25"
   },
   "nascar-history": {
     "data": {
@@ -532,7 +532,7 @@
         {
           "run_name": "NCS Final Practice",
           "track_name": "Indianapolis Motor Speedway",
-          "race_date": "2026-07-24",
+          "race_date": "2026-07-25",
           "session_type": "practice",
           "winner": null,
           "flag_state": 9,
@@ -9645,14 +9645,14 @@
           ]
         }
       ],
-      "updated": "2026-07-24"
+      "updated": "2026-07-25"
     },
-    "_updated": "2026-07-24"
+    "_updated": "2026-07-25"
   },
   "nascar-2026-season": {
     "data": {
       "series_name": "NASCAR Cup Series",
-      "updated": "2026-07-24",
+      "updated": "2026-07-25",
       "standings": [
         {
           "pos": 1,
@@ -10166,7 +10166,7 @@
         "tv": ""
       }
     },
-    "_updated": "2026-07-24"
+    "_updated": "2026-07-25"
   },
   "pga-2026-tournaments": {
     "data": {
@@ -10290,9 +10290,9 @@
           "players": []
         }
       ],
-      "updated": "2026-07-24"
+      "updated": "2026-07-25"
     },
-    "_updated": "2026-07-24"
+    "_updated": "2026-07-25"
   },
   "f1-history": {
     "data": {
@@ -11184,9 +11184,9 @@
           ]
         }
       ],
-      "updated": "2026-07-24"
+      "updated": "2026-07-25"
     },
-    "_updated": "2026-07-24"
+    "_updated": "2026-07-25"
   },
   "f1-2026-season": {
     "data": {
@@ -11406,9 +11406,9 @@
         "circuit": "Hungaroring",
         "country": "Hungary"
       },
-      "updated": "2026-07-24"
+      "updated": "2026-07-25"
     },
-    "_updated": "2026-07-24"
+    "_updated": "2026-07-25"
   },
   "atp-players": {
     "data": {
@@ -12773,7 +12773,7 @@
         "country": ""
       }
     },
-    "_updated": "2026-07-24"
+    "_updated": "2026-07-25"
   },
   "wta-players": {
     "data": {
@@ -14154,7 +14154,7 @@
         "country": ""
       }
     },
-    "_updated": "2026-07-24"
+    "_updated": "2026-07-25"
   },
   "pga-players": {
     "data": {
@@ -19752,7 +19752,7 @@
         "country": "USA"
       }
     },
-    "_updated": "2026-07-24"
+    "_updated": "2026-07-25"
   },
   "atp-rankings": {
     "data": {
@@ -20208,9 +20208,9 @@
           "change": 0
         }
       ],
-      "updated": "2026-07-24"
+      "updated": "2026-07-25"
     },
-    "_updated": "2026-07-24"
+    "_updated": "2026-07-25"
   },
   "wta-rankings": {
     "data": {
@@ -20666,9 +20666,9 @@
           "change": 0
         }
       ],
-      "updated": "2026-07-24"
+      "updated": "2026-07-25"
     },
-    "_updated": "2026-07-24"
+    "_updated": "2026-07-25"
   },
   "nascar-drivers": {
     "data": {
@@ -21145,7 +21145,7 @@
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4136.vresize.140.140.medium.1.png"
       }
     },
-    "_updated": "2026-07-24"
+    "_updated": "2026-07-25"
   },
   "f1-drivers": {
     "data": {
@@ -21238,7 +21238,7 @@
         "headshot": "https://media.formula1.com/image/upload/c_fill,g_face,w_140,h_140/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/cadillac/valbot01/2026cadillacvalbot01right.webp"
       }
     },
-    "_updated": "2026-07-24"
+    "_updated": "2026-07-25"
   },
   "nascar-trucks-history": {
     "data": {
@@ -32135,16 +32135,16 @@
         }
       ],
       "series_name": "NASCAR Craftsman Truck Series",
-      "updated": "2026-07-24",
+      "updated": "2026-07-25",
       "next_race": {
-        "name": "TSport 200 presented by Warn Industries",
-        "track": "Lucas Oil Indianapolis Raceway Park",
-        "date": "2026-07-24",
+        "name": "eero 250",
+        "track": "Richmond Raceway",
+        "date": "2026-08-14",
         "time": "",
         "tv": ""
       }
     },
-    "_updated": "2026-07-24"
+    "_updated": "2026-07-25"
   },
   "nascar-noaps-history": {
     "data": {
@@ -43275,7 +43275,7 @@
         }
       ],
       "series_name": "NASCAR O'Reilly Auto Parts Series",
-      "updated": "2026-07-24",
+      "updated": "2026-07-25",
       "next_race": {
         "name": "Pennzoil 250 presented by Take 5 Oil Change",
         "track": "Indianapolis Motor Speedway",
@@ -43284,7 +43284,7 @@
         "tv": ""
       }
     },
-    "_updated": "2026-07-24"
+    "_updated": "2026-07-25"
   },
   "fifawc-2026-history": {
     "data": {
@@ -45855,9 +45855,9 @@
           "venue": "Hard Rock Stadium"
         }
       ],
-      "updated": "2026-07-24",
+      "updated": "2026-07-25",
       "season": "2026"
     },
-    "_updated": "2026-07-24"
+    "_updated": "2026-07-25"
   }
 }
