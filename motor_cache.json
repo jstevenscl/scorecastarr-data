@@ -9665,7 +9665,7 @@
   "nascar-2026-season": {
     "data": {
       "series_name": "NASCAR Cup Series",
-      "updated": "2026-07-25",
+      "updated": "2026-07-26",
       "standings": [
         {
           "pos": 1,
@@ -10179,7 +10179,7 @@
         "tv": ""
       }
     },
-    "_updated": "2026-07-25"
+    "_updated": "2026-07-26"
   },
   "pga-2026-tournaments": {
     "data": {
@@ -10303,9 +10303,9 @@
           "players": []
         }
       ],
-      "updated": "2026-07-25"
+      "updated": "2026-07-26"
     },
-    "_updated": "2026-07-25"
+    "_updated": "2026-07-26"
   },
   "f1-history": {
     "data": {
@@ -11197,9 +11197,9 @@
           ]
         }
       ],
-      "updated": "2026-07-25"
+      "updated": "2026-07-26"
     },
-    "_updated": "2026-07-25"
+    "_updated": "2026-07-26"
   },
   "f1-2026-season": {
     "data": {
@@ -11419,9 +11419,9 @@
         "circuit": "Hungaroring",
         "country": "Hungary"
       },
-      "updated": "2026-07-25"
+      "updated": "2026-07-26"
     },
-    "_updated": "2026-07-25"
+    "_updated": "2026-07-26"
   },
   "atp-players": {
     "data": {
@@ -12786,7 +12786,7 @@
         "country": ""
       }
     },
-    "_updated": "2026-07-25"
+    "_updated": "2026-07-26"
   },
   "wta-players": {
     "data": {
@@ -14167,7 +14167,7 @@
         "country": ""
       }
     },
-    "_updated": "2026-07-25"
+    "_updated": "2026-07-26"
   },
   "pga-players": {
     "data": {
@@ -19765,7 +19765,7 @@
         "country": "USA"
       }
     },
-    "_updated": "2026-07-25"
+    "_updated": "2026-07-26"
   },
   "atp-rankings": {
     "data": {
@@ -20221,9 +20221,9 @@
           "change": 0
         }
       ],
-      "updated": "2026-07-25"
+      "updated": "2026-07-26"
     },
-    "_updated": "2026-07-25"
+    "_updated": "2026-07-26"
   },
   "wta-rankings": {
     "data": {
@@ -20679,9 +20679,9 @@
           "change": 0
         }
       ],
-      "updated": "2026-07-25"
+      "updated": "2026-07-26"
     },
-    "_updated": "2026-07-25"
+    "_updated": "2026-07-26"
   },
   "nascar-drivers": {
     "data": {
@@ -20893,13 +20893,13 @@
         "name": "Taylor Gray",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4845.vresize.140.140.medium.1.png"
       },
-      "rajah_caruth": {
-        "name": "Rajah Caruth",
-        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4900.vresize.140.140.medium.1.png"
-      },
       "william_sawalich": {
         "name": "William Sawalich",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4954.vresize.140.140.medium.1.png"
+      },
+      "rajah_caruth": {
+        "name": "Rajah Caruth",
+        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4900.vresize.140.140.medium.1.png"
       },
       "ryan_sieg": {
         "name": "Ryan Sieg",
@@ -20917,13 +20917,13 @@
         "name": "Jeremy Clements",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/3586.vresize.140.140.medium.1.png"
       },
-      "harrison_burton": {
-        "name": "Harrison Burton",
-        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4576.vresize.140.140.medium.1.png"
-      },
       "jeb_burton": {
         "name": "Jeb Burton",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/3634.vresize.140.140.medium.1.png"
+      },
+      "harrison_burton": {
+        "name": "Harrison Burton",
+        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4576.vresize.140.140.medium.1.png"
       },
       "blaine_perkins": {
         "name": "Blaine Perkins",
@@ -20933,13 +20933,13 @@
         "name": "Ryan Ellis",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/3631.vresize.140.140.medium.1.png"
       },
-      "garrett_smithley": {
-        "name": "Garrett Smithley",
-        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4522.vresize.140.140.medium.1.png"
-      },
       "nicholas_sanchez": {
         "name": "Nicholas Sanchez",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4899.vresize.140.140.medium.1.png"
+      },
+      "garrett_smithley": {
+        "name": "Garrett Smithley",
+        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4522.vresize.140.140.medium.1.png"
       },
       "joey_gase": {
         "name": "Joey Gase",
@@ -20949,13 +20949,17 @@
         "name": "Josh Williams",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4187.vresize.140.140.medium.1.png"
       },
+      "mason_maggio": {
+        "name": "Mason Maggio",
+        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4929.vresize.140.140.medium.1.png"
+      },
       "alex_labbe": {
         "name": "Alex Labbe",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4611.vresize.140.140.medium.1.png"
       },
-      "mason_maggio": {
-        "name": "Mason Maggio",
-        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4929.vresize.140.140.medium.1.png"
+      "preston_pardus": {
+        "name": "Preston Pardus",
+        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4772.vresize.140.140.medium.1.png"
       },
       "dawson_cram": {
         "name": "Dawson Cram",
@@ -20964,10 +20968,6 @@
       "myatt_snider": {
         "name": "Myatt Snider",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4610.vresize.140.140.medium.1.png"
-      },
-      "preston_pardus": {
-        "name": "Preston Pardus",
-        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4772.vresize.140.140.medium.1.png"
       },
       "jordan_anderson": {
         "name": "Jordan Anderson",
@@ -21158,7 +21158,7 @@
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4136.vresize.140.140.medium.1.png"
       }
     },
-    "_updated": "2026-07-25"
+    "_updated": "2026-07-26"
   },
   "f1-drivers": {
     "data": {
@@ -21251,7 +21251,7 @@
         "headshot": "https://media.formula1.com/image/upload/c_fill,g_face,w_140,h_140/q_auto/d_common:f1:2026:fallback:driver:2026fallbackdriverright.webp/v1740000001/common/f1/2026/cadillac/valbot01/2026cadillacvalbot01right.webp"
       }
     },
-    "_updated": "2026-07-25"
+    "_updated": "2026-07-26"
   },
   "nascar-trucks-history": {
     "data": {
@@ -32202,7 +32202,7 @@
         }
       ],
       "series_name": "NASCAR Craftsman Truck Series",
-      "updated": "2026-07-25",
+      "updated": "2026-07-26",
       "next_race": {
         "name": "eero 250",
         "track": "Richmond Raceway",
@@ -32211,7 +32211,7 @@
         "tv": ""
       }
     },
-    "_updated": "2026-07-25"
+    "_updated": "2026-07-26"
   },
   "nascar-noaps-history": {
     "data": {
@@ -32219,91 +32219,91 @@
         {
           "run_name": "Pennzoil 250",
           "track_name": "Indianapolis Motor Speedway",
-          "race_date": "2026-07-25",
+          "race_date": "2026-07-26",
           "session_type": "race",
-          "winner": "Ross Chastain(i)",
-          "flag_state": 1,
+          "winner": "Carson Kvapil",
+          "flag_state": 9,
           "laps_in_race": 100,
           "cautions": 3,
           "caution_laps": 13,
-          "lead_changes": 9,
+          "lead_changes": 10,
           "leaders": 8,
           "series_id": 2,
           "race_id": 5654,
           "drivers": [
             {
               "pos": 1,
-              "start": 8,
-              "car": "#9",
-              "driver": "Ross Chastain(i)",
-              "team": "Roto-Rooter",
-              "manufacturer": "Chevy",
-              "laps": 77,
-              "laps_led": 30,
-              "times_led": 3,
-              "status": "Running",
-              "points": 0
-            },
-            {
-              "pos": 2,
               "start": 2,
               "car": "#1",
               "driver": "Carson Kvapil",
               "team": "Wilde Protein Crackers",
               "manufacturer": "Chevy",
-              "laps": 77,
-              "laps_led": 1,
-              "times_led": 1,
+              "laps": 100,
+              "laps_led": 23,
+              "times_led": 2,
               "status": "Running",
               "points": 0
             },
             {
-              "pos": 3,
-              "start": 1,
-              "car": "#00",
-              "driver": "Sheldon Creed",
-              "team": "Road Ranger",
-              "manufacturer": "Chevy",
-              "laps": 77,
-              "laps_led": 24,
-              "times_led": 1,
-              "status": "Running",
-              "points": 0
-            },
-            {
-              "pos": 4,
+              "pos": 2,
               "start": 13,
               "car": "#7",
               "driver": "Justin Allgaier",
               "team": "BRANDT Professional Agriculture",
               "manufacturer": "Chevy",
-              "laps": 77,
+              "laps": 100,
               "laps_led": 4,
               "times_led": 1,
               "status": "Running",
               "points": 0
             },
             {
-              "pos": 5,
-              "start": 19,
-              "car": "#21",
-              "driver": "Austin Hill",
-              "team": "Patriot Mobile",
+              "pos": 3,
+              "start": 8,
+              "car": "#9",
+              "driver": "Ross Chastain(i)",
+              "team": "Roto-Rooter",
               "manufacturer": "Chevy",
-              "laps": 77,
+              "laps": 100,
+              "laps_led": 31,
+              "times_led": 3,
+              "status": "Running",
+              "points": 0
+            },
+            {
+              "pos": 4,
+              "start": 7,
+              "car": "#88",
+              "driver": "Chase Elliott(i)",
+              "team": "HendrickCars.com",
+              "manufacturer": "Chevy",
+              "laps": 100,
               "laps_led": 0,
               "times_led": 0,
               "status": "Running",
               "points": 0
             },
             {
+              "pos": 5,
+              "start": 9,
+              "car": "#18",
+              "driver": "William Sawalich",
+              "team": "SoundGear",
+              "manufacturer": "Toyota",
+              "laps": 100,
+              "laps_led": 2,
+              "times_led": 1,
+              "status": "Running",
+              "points": 0
+            },
+            {
               "pos": 6,
-              "start": 3,
-              "car": "#41",
-              "driver": "Sam Mayer",
-              "team": "Audibel",
-              "manufacturer": "Chevy",
-              "laps": 77,
+              "start": 15,
+              "car": "#19",
+              "driver": "Brent Crews",
+              "team": "YoungLife",
+              "manufacturer": "Toyota",
+              "laps": 100,
               "laps_led": 0,
               "times_led": 0,
               "status": "Running",
@@ -32311,12 +32311,12 @@
             },
             {
               "pos": 7,
-              "start": 7,
-              "car": "#88",
-              "driver": "Chase Elliott(i)",
+              "start": 11,
+              "car": "#17",
+              "driver": "Corey Day",
               "team": "HendrickCars.com",
               "manufacturer": "Chevy",
-              "laps": 77,
+              "laps": 100,
               "laps_led": 0,
               "times_led": 0,
               "status": "Running",
@@ -32324,38 +32324,38 @@
             },
             {
               "pos": 8,
-              "start": 11,
-              "car": "#17",
-              "driver": "Corey Day",
-              "team": "HendrickCars.com",
+              "start": 1,
+              "car": "#00",
+              "driver": "Sheldon Creed",
+              "team": "Road Ranger",
               "manufacturer": "Chevy",
-              "laps": 77,
+              "laps": 100,
+              "laps_led": 24,
+              "times_led": 1,
+              "status": "Running",
+              "points": 0
+            },
+            {
+              "pos": 9,
+              "start": 6,
+              "car": "#20",
+              "driver": "Brandon Jones",
+              "team": "Menards/Owens Corning",
+              "manufacturer": "Toyota",
+              "laps": 100,
               "laps_led": 0,
               "times_led": 0,
               "status": "Running",
               "points": 0
             },
             {
-              "pos": 9,
-              "start": 9,
-              "car": "#18",
-              "driver": "William Sawalich",
-              "team": "SoundGear",
-              "manufacturer": "Toyota",
-              "laps": 77,
-              "laps_led": 2,
-              "times_led": 1,
-              "status": "Running",
-              "points": 0
-            },
-            {
               "pos": 10,
-              "start": 6,
-              "car": "#20",
-              "driver": "Brandon Jones",
-              "team": "Menards/Owens Corning",
-              "manufacturer": "Toyota",
-              "laps": 77,
+              "start": 19,
+              "car": "#21",
+              "driver": "Austin Hill",
+              "team": "Patriot Mobile",
+              "manufacturer": "Chevy",
+              "laps": 100,
               "laps_led": 0,
               "times_led": 0,
               "status": "Running",
@@ -32363,12 +32363,12 @@
             },
             {
               "pos": 11,
-              "start": 5,
-              "car": "#54",
-              "driver": "Taylor Gray",
-              "team": "Operation 300",
-              "manufacturer": "Toyota",
-              "laps": 77,
+              "start": 17,
+              "car": "#99",
+              "driver": "Parker Retzlaff",
+              "team": "FUNKAWAY",
+              "manufacturer": "Chevy",
+              "laps": 100,
               "laps_led": 0,
               "times_led": 0,
               "status": "Running",
@@ -32376,12 +32376,12 @@
             },
             {
               "pos": 12,
-              "start": 15,
-              "car": "#19",
-              "driver": "Brent Crews",
-              "team": "YoungLife",
+              "start": 5,
+              "car": "#54",
+              "driver": "Taylor Gray",
+              "team": "Operation 300",
               "manufacturer": "Toyota",
-              "laps": 77,
+              "laps": 100,
               "laps_led": 0,
               "times_led": 0,
               "status": "Running",
@@ -32389,12 +32389,12 @@
             },
             {
               "pos": 13,
-              "start": 17,
-              "car": "#99",
-              "driver": "Parker Retzlaff",
-              "team": "FUNKAWAY",
+              "start": 3,
+              "car": "#41",
+              "driver": "Sam Mayer",
+              "team": "Audibel",
               "manufacturer": "Chevy",
-              "laps": 77,
+              "laps": 100,
               "laps_led": 0,
               "times_led": 0,
               "status": "Running",
@@ -32402,12 +32402,12 @@
             },
             {
               "pos": 14,
-              "start": 12,
-              "car": "#27",
-              "driver": "Jeb Burton",
-              "team": "Sprayway/AO Smith",
+              "start": 20,
+              "car": "#96",
+              "driver": "Anthony Alfredo",
+              "team": "Ohio Logistics",
               "manufacturer": "Chevy",
-              "laps": 77,
+              "laps": 100,
               "laps_led": 0,
               "times_led": 0,
               "status": "Running",
@@ -32415,12 +32415,12 @@
             },
             {
               "pos": 15,
-              "start": 26,
-              "car": "#2",
-              "driver": "Jesse Love",
-              "team": "Whelen",
+              "start": 12,
+              "car": "#27",
+              "driver": "Jeb Burton",
+              "team": "Sprayway/AO Smith",
               "manufacturer": "Chevy",
-              "laps": 77,
+              "laps": 100,
               "laps_led": 0,
               "times_led": 0,
               "status": "Running",
@@ -32428,12 +32428,12 @@
             },
             {
               "pos": 16,
-              "start": 14,
-              "car": "#39",
-              "driver": "Ryan Sieg",
-              "team": "SciAps",
+              "start": 26,
+              "car": "#2",
+              "driver": "Jesse Love",
+              "team": "Whelen",
               "manufacturer": "Chevy",
-              "laps": 77,
+              "laps": 100,
               "laps_led": 0,
               "times_led": 0,
               "status": "Running",
@@ -32441,12 +32441,12 @@
             },
             {
               "pos": 17,
-              "start": 20,
-              "car": "#96",
-              "driver": "Anthony Alfredo",
-              "team": "Ohio Logistics",
+              "start": 14,
+              "car": "#39",
+              "driver": "Ryan Sieg",
+              "team": "SciAps",
               "manufacturer": "Chevy",
-              "laps": 77,
+              "laps": 100,
               "laps_led": 0,
               "times_led": 0,
               "status": "Running",
@@ -32459,7 +32459,7 @@
               "driver": "Harrison Burton",
               "team": "Dead On Tools",
               "manufacturer": "Toyota",
-              "laps": 77,
+              "laps": 100,
               "laps_led": 0,
               "times_led": 0,
               "status": "Running",
@@ -32467,12 +32467,12 @@
             },
             {
               "pos": 19,
-              "start": 23,
-              "car": "#87",
-              "driver": "Nick Sanchez",
-              "team": "Peterson Racing Group",
+              "start": 10,
+              "car": "#8",
+              "driver": "Sammy Smith",
+              "team": "Communication Data Link",
               "manufacturer": "Chevy",
-              "laps": 77,
+              "laps": 100,
               "laps_led": 0,
               "times_led": 0,
               "status": "Running",
@@ -32480,77 +32480,77 @@
             },
             {
               "pos": 20,
-              "start": 4,
-              "car": "#51",
-              "driver": "Jeremy Clements",
-              "team": "Sky Fund Aviation",
+              "start": 23,
+              "car": "#87",
+              "driver": "Nick Sanchez",
+              "team": "Peterson Racing Group",
               "manufacturer": "Chevy",
-              "laps": 77,
-              "laps_led": 9,
-              "times_led": 1,
+              "laps": 100,
+              "laps_led": 0,
+              "times_led": 0,
               "status": "Running",
               "points": 0
             },
             {
               "pos": 21,
-              "start": 10,
-              "car": "#8",
-              "driver": "Sammy Smith",
-              "team": "Communication Data Link",
-              "manufacturer": "Chevy",
-              "laps": 77,
-              "laps_led": 0,
-              "times_led": 0,
-              "status": "Running",
-              "points": 0
-            },
-            {
-              "pos": 22,
-              "start": 22,
-              "car": "#28",
-              "driver": "Kyle Sieg",
-              "team": "Sustainchem",
-              "manufacturer": "Chevy",
-              "laps": 77,
-              "laps_led": 0,
-              "times_led": 0,
-              "status": "Running",
-              "points": 0
-            },
-            {
-              "pos": 23,
               "start": 25,
               "car": "#26",
               "driver": "Dean Thompson",
               "team": "Boot Campaign",
               "manufacturer": "Toyota",
-              "laps": 77,
+              "laps": 100,
               "laps_led": 2,
               "times_led": 1,
               "status": "Running",
               "points": 0
             },
             {
-              "pos": 24,
+              "pos": 22,
               "start": 16,
               "car": "#32",
               "driver": "Rajah Caruth",
               "team": "HendrickCars.com",
               "manufacturer": "Chevy",
-              "laps": 77,
+              "laps": 100,
               "laps_led": 6,
               "times_led": 1,
               "status": "Running",
               "points": 0
             },
             {
-              "pos": 25,
+              "pos": 23,
               "start": 18,
               "car": "#48",
               "driver": "Patrick Staropoli",
               "team": "Syfovre",
               "manufacturer": "Chevy",
-              "laps": 77,
+              "laps": 100,
+              "laps_led": 0,
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
+            },
+            {
+              "pos": 24,
+              "start": 22,
+              "car": "#28",
+              "driver": "Kyle Sieg",
+              "team": "Sustainchem",
+              "manufacturer": "Chevy",
+              "laps": 100,
+              "laps_led": 0,
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
+            },
+            {
+              "pos": 25,
+              "start": 30,
+              "car": "#0",
+              "driver": "Garrett Smithley",
+              "team": "",
+              "manufacturer": "Chevy",
+              "laps": 100,
               "laps_led": 0,
               "times_led": 0,
               "status": "Running",
@@ -32558,12 +32558,12 @@
             },
             {
               "pos": 26,
-              "start": 31,
-              "car": "#45",
-              "driver": "Lavar Scott",
-              "team": "Urban Affairs Coalition",
+              "start": 21,
+              "car": "#91",
+              "driver": "Mason Maggio",
+              "team": "BaseballBBQ.com",
               "manufacturer": "Chevy",
-              "laps": 77,
+              "laps": 100,
               "laps_led": 0,
               "times_led": 0,
               "status": "Running",
@@ -32571,12 +32571,12 @@
             },
             {
               "pos": 27,
-              "start": 21,
-              "car": "#91",
-              "driver": "Mason Maggio",
-              "team": "BaseballBBQ.com",
+              "start": 31,
+              "car": "#45",
+              "driver": "Lavar Scott",
+              "team": "Urban Affairs Coalition",
               "manufacturer": "Chevy",
-              "laps": 77,
+              "laps": 100,
               "laps_led": 0,
               "times_led": 0,
               "status": "Running",
@@ -32584,12 +32584,12 @@
             },
             {
               "pos": 28,
-              "start": 32,
-              "car": "#07",
-              "driver": "Josh Bilicki",
-              "team": "Zeigler",
+              "start": 27,
+              "car": "#31",
+              "driver": "Blaine Perkins",
+              "team": "iHeart Q95 Rocks",
               "manufacturer": "Chevy",
-              "laps": 77,
+              "laps": 100,
               "laps_led": 0,
               "times_led": 0,
               "status": "Running",
@@ -32597,12 +32597,12 @@
             },
             {
               "pos": 29,
-              "start": 30,
-              "car": "#0",
-              "driver": "Garrett Smithley",
-              "team": "",
+              "start": 28,
+              "car": "#44",
+              "driver": "Brennan Poole",
+              "team": "The Samantha and Kyle Busch Bundle of Joy Fund",
               "manufacturer": "Chevy",
-              "laps": 77,
+              "laps": 100,
               "laps_led": 0,
               "times_led": 0,
               "status": "Running",
@@ -32610,12 +32610,12 @@
             },
             {
               "pos": 30,
-              "start": 27,
-              "car": "#31",
-              "driver": "Blaine Perkins",
-              "team": "iHeart Q95 Rocks",
+              "start": 29,
+              "car": "#92",
+              "driver": "Preston Pardus",
+              "team": "Chinchor Electric",
               "manufacturer": "Chevy",
-              "laps": 77,
+              "laps": 100,
               "laps_led": 0,
               "times_led": 0,
               "status": "Running",
@@ -32623,12 +32623,12 @@
             },
             {
               "pos": 31,
-              "start": 28,
-              "car": "#44",
-              "driver": "Brennan Poole",
-              "team": "The Samantha and Kyle Busch Bundle of Joy Fund",
+              "start": 36,
+              "car": "#42",
+              "driver": "Nathan Byrd",
+              "team": "Byrd Insurance Group",
               "manufacturer": "Chevy",
-              "laps": 77,
+              "laps": 100,
               "laps_led": 0,
               "times_led": 0,
               "status": "Running",
@@ -32636,12 +32636,12 @@
             },
             {
               "pos": 32,
-              "start": 29,
-              "car": "#92",
-              "driver": "Preston Pardus",
-              "team": "Chinchor Electric",
+              "start": 33,
+              "car": "#02",
+              "driver": "Ryan Ellis",
+              "team": "Tablo TV",
               "manufacturer": "Chevy",
-              "laps": 77,
+              "laps": 99,
               "laps_led": 0,
               "times_led": 0,
               "status": "Running",
@@ -32649,12 +32649,12 @@
             },
             {
               "pos": 33,
-              "start": 33,
-              "car": "#02",
-              "driver": "Ryan Ellis",
-              "team": "Tablo TV",
+              "start": 32,
+              "car": "#07",
+              "driver": "Josh Bilicki",
+              "team": "Zeigler",
               "manufacturer": "Chevy",
-              "laps": 77,
+              "laps": 99,
               "laps_led": 0,
               "times_led": 0,
               "status": "Running",
@@ -32662,12 +32662,12 @@
             },
             {
               "pos": 34,
-              "start": 36,
-              "car": "#42",
-              "driver": "Nathan Byrd",
-              "team": "Byrd Insurance Group",
+              "start": 37,
+              "car": "#53",
+              "driver": "Blake Lothian",
+              "team": "The Texas Lawbook",
               "manufacturer": "Chevy",
-              "laps": 77,
+              "laps": 99,
               "laps_led": 0,
               "times_led": 0,
               "status": "Running",
@@ -32675,12 +32675,12 @@
             },
             {
               "pos": 35,
-              "start": 37,
-              "car": "#53",
-              "driver": "Blake Lothian",
-              "team": "The Texas Lawbook",
+              "start": 38,
+              "car": "#47",
+              "driver": "David Starr",
+              "team": "Cell Phones For Soldiers",
               "manufacturer": "Chevy",
-              "laps": 77,
+              "laps": 99,
               "laps_led": 0,
               "times_led": 0,
               "status": "Running",
@@ -32688,12 +32688,12 @@
             },
             {
               "pos": 36,
-              "start": 38,
-              "car": "#47",
-              "driver": "David Starr",
-              "team": "Cell Phones For Soldiers",
+              "start": 35,
+              "car": "#55",
+              "driver": "Joey Gase",
+              "team": "Flex Power",
               "manufacturer": "Chevy",
-              "laps": 77,
+              "laps": 99,
               "laps_led": 0,
               "times_led": 0,
               "status": "Running",
@@ -32701,14 +32701,14 @@
             },
             {
               "pos": 37,
-              "start": 35,
-              "car": "#55",
-              "driver": "Joey Gase",
-              "team": "Flex Power",
+              "start": 4,
+              "car": "#51",
+              "driver": "Jeremy Clements",
+              "team": "Sky Fund Aviation",
               "manufacturer": "Chevy",
-              "laps": 76,
-              "laps_led": 0,
-              "times_led": 0,
+              "laps": 97,
+              "laps_led": 9,
+              "times_led": 1,
               "status": "Running",
               "points": 0
             },
@@ -41799,99 +41799,99 @@
           "session_type": "race"
         }
       ],
-      "updated": "2026-07-25"
+      "updated": "2026-07-26"
     },
-    "_updated": "2026-07-25"
+    "_updated": "2026-07-26"
   },
   "nascar-noaps-last": {
     "data": {
       "run_name": "Pennzoil 250",
       "track_name": "Indianapolis Motor Speedway",
-      "race_date": "2026-07-25",
+      "race_date": "2026-07-26",
       "session_type": "race",
-      "winner": "Ross Chastain(i)",
-      "flag_state": 1,
+      "winner": "Carson Kvapil",
+      "flag_state": 9,
       "laps_in_race": 100,
       "cautions": 3,
       "caution_laps": 13,
-      "lead_changes": 9,
+      "lead_changes": 10,
       "leaders": 8,
       "series_id": 2,
       "race_id": 5654,
       "drivers": [
         {
           "pos": 1,
-          "start": 8,
-          "car": "#9",
-          "driver": "Ross Chastain(i)",
-          "team": "Roto-Rooter",
-          "manufacturer": "Chevy",
-          "laps": 77,
-          "laps_led": 30,
-          "times_led": 3,
-          "status": "Running",
-          "points": 0
-        },
-        {
-          "pos": 2,
           "start": 2,
           "car": "#1",
           "driver": "Carson Kvapil",
           "team": "Wilde Protein Crackers",
           "manufacturer": "Chevy",
-          "laps": 77,
-          "laps_led": 1,
-          "times_led": 1,
+          "laps": 100,
+          "laps_led": 23,
+          "times_led": 2,
           "status": "Running",
           "points": 0
         },
         {
-          "pos": 3,
-          "start": 1,
-          "car": "#00",
-          "driver": "Sheldon Creed",
-          "team": "Road Ranger",
-          "manufacturer": "Chevy",
-          "laps": 77,
-          "laps_led": 24,
-          "times_led": 1,
-          "status": "Running",
-          "points": 0
-        },
-        {
-          "pos": 4,
+          "pos": 2,
           "start": 13,
           "car": "#7",
           "driver": "Justin Allgaier",
           "team": "BRANDT Professional Agriculture",
           "manufacturer": "Chevy",
-          "laps": 77,
+          "laps": 100,
           "laps_led": 4,
           "times_led": 1,
           "status": "Running",
           "points": 0
         },
         {
-          "pos": 5,
-          "start": 19,
-          "car": "#21",
-          "driver": "Austin Hill",
-          "team": "Patriot Mobile",
+          "pos": 3,
+          "start": 8,
+          "car": "#9",
+          "driver": "Ross Chastain(i)",
+          "team": "Roto-Rooter",
           "manufacturer": "Chevy",
-          "laps": 77,
+          "laps": 100,
+          "laps_led": 31,
+          "times_led": 3,
+          "status": "Running",
+          "points": 0
+        },
+        {
+          "pos": 4,
+          "start": 7,
+          "car": "#88",
+          "driver": "Chase Elliott(i)",
+          "team": "HendrickCars.com",
+          "manufacturer": "Chevy",
+          "laps": 100,
           "laps_led": 0,
           "times_led": 0,
           "status": "Running",
           "points": 0
         },
         {
+          "pos": 5,
+          "start": 9,
+          "car": "#18",
+          "driver": "William Sawalich",
+          "team": "SoundGear",
+          "manufacturer": "Toyota",
+          "laps": 100,
+          "laps_led": 2,
+          "times_led": 1,
+          "status": "Running",
+          "points": 0
+        },
+        {
           "pos": 6,
-          "start": 3,
-          "car": "#41",
-          "driver": "Sam Mayer",
-          "team": "Audibel",
-          "manufacturer": "Chevy",
-          "laps": 77,
+          "start": 15,
+          "car": "#19",
+          "driver": "Brent Crews",
+          "team": "YoungLife",
+          "manufacturer": "Toyota",
+          "laps": 100,
           "laps_led": 0,
           "times_led": 0,
           "status": "Running",
@@ -41899,12 +41899,12 @@
         },
         {
           "pos": 7,
-          "start": 7,
-          "car": "#88",
-          "driver": "Chase Elliott(i)",
+          "start": 11,
+          "car": "#17",
+          "driver": "Corey Day",
           "team": "HendrickCars.com",
           "manufacturer": "Chevy",
-          "laps": 77,
+          "laps": 100,
           "laps_led": 0,
           "times_led": 0,
           "status": "Running",
@@ -41912,38 +41912,38 @@
         },
         {
           "pos": 8,
-          "start": 11,
-          "car": "#17",
-          "driver": "Corey Day",
-          "team": "HendrickCars.com",
+          "start": 1,
+          "car": "#00",
+          "driver": "Sheldon Creed",
+          "team": "Road Ranger",
           "manufacturer": "Chevy",
-          "laps": 77,
+          "laps": 100,
+          "laps_led": 24,
+          "times_led": 1,
+          "status": "Running",
+          "points": 0
+        },
+        {
+          "pos": 9,
+          "start": 6,
+          "car": "#20",
+          "driver": "Brandon Jones",
+          "team": "Menards/Owens Corning",
+          "manufacturer": "Toyota",
+          "laps": 100,
           "laps_led": 0,
           "times_led": 0,
           "status": "Running",
           "points": 0
         },
         {
-          "pos": 9,
-          "start": 9,
-          "car": "#18",
-          "driver": "William Sawalich",
-          "team": "SoundGear",
-          "manufacturer": "Toyota",
-          "laps": 77,
-          "laps_led": 2,
-          "times_led": 1,
-          "status": "Running",
-          "points": 0
-        },
-        {
           "pos": 10,
-          "start": 6,
-          "car": "#20",
-          "driver": "Brandon Jones",
-          "team": "Menards/Owens Corning",
-          "manufacturer": "Toyota",
-          "laps": 77,
+          "start": 19,
+          "car": "#21",
+          "driver": "Austin Hill",
+          "team": "Patriot Mobile",
+          "manufacturer": "Chevy",
+          "laps": 100,
           "laps_led": 0,
           "times_led": 0,
           "status": "Running",
@@ -41951,12 +41951,12 @@
         },
         {
           "pos": 11,
-          "start": 5,
-          "car": "#54",
-          "driver": "Taylor Gray",
-          "team": "Operation 300",
-          "manufacturer": "Toyota",
-          "laps": 77,
+          "start": 17,
+          "car": "#99",
+          "driver": "Parker Retzlaff",
+          "team": "FUNKAWAY",
+          "manufacturer": "Chevy",
+          "laps": 100,
           "laps_led": 0,
           "times_led": 0,
           "status": "Running",
@@ -41964,12 +41964,12 @@
         },
         {
           "pos": 12,
-          "start": 15,
-          "car": "#19",
-          "driver": "Brent Crews",
-          "team": "YoungLife",
+          "start": 5,
+          "car": "#54",
+          "driver": "Taylor Gray",
+          "team": "Operation 300",
           "manufacturer": "Toyota",
-          "laps": 77,
+          "laps": 100,
           "laps_led": 0,
           "times_led": 0,
           "status": "Running",
@@ -41977,12 +41977,12 @@
         },
         {
           "pos": 13,
-          "start": 17,
-          "car": "#99",
-          "driver": "Parker Retzlaff",
-          "team": "FUNKAWAY",
+          "start": 3,
+          "car": "#41",
+          "driver": "Sam Mayer",
+          "team": "Audibel",
           "manufacturer": "Chevy",
-          "laps": 77,
+          "laps": 100,
           "laps_led": 0,
           "times_led": 0,
           "status": "Running",
@@ -41990,12 +41990,12 @@
         },
         {
           "pos": 14,
-          "start": 12,
-          "car": "#27",
-          "driver": "Jeb Burton",
-          "team": "Sprayway/AO Smith",
+          "start": 20,
+          "car": "#96",
+          "driver": "Anthony Alfredo",
+          "team": "Ohio Logistics",
           "manufacturer": "Chevy",
-          "laps": 77,
+          "laps": 100,
           "laps_led": 0,
           "times_led": 0,
           "status": "Running",
@@ -42003,12 +42003,12 @@
         },
         {
           "pos": 15,
-          "start": 26,
-          "car": "#2",
-          "driver": "Jesse Love",
-          "team": "Whelen",
+          "start": 12,
+          "car": "#27",
+          "driver": "Jeb Burton",
+          "team": "Sprayway/AO Smith",
           "manufacturer": "Chevy",
-          "laps": 77,
+          "laps": 100,
           "laps_led": 0,
           "times_led": 0,
           "status": "Running",
@@ -42016,12 +42016,12 @@
         },
         {
           "pos": 16,
-          "start": 14,
-          "car": "#39",
-          "driver": "Ryan Sieg",
-          "team": "SciAps",
+          "start": 26,
+          "car": "#2",
+          "driver": "Jesse Love",
+          "team": "Whelen",
           "manufacturer": "Chevy",
-          "laps": 77,
+          "laps": 100,
           "laps_led": 0,
           "times_led": 0,
           "status": "Running",
@@ -42029,12 +42029,12 @@
         },
         {
           "pos": 17,
-          "start": 20,
-          "car": "#96",
-          "driver": "Anthony Alfredo",
-          "team": "Ohio Logistics",
+          "start": 14,
+          "car": "#39",
+          "driver": "Ryan Sieg",
+          "team": "SciAps",
           "manufacturer": "Chevy",
-          "laps": 77,
+          "laps": 100,
           "laps_led": 0,
           "times_led": 0,
           "status": "Running",
@@ -42047,7 +42047,7 @@
           "driver": "Harrison Burton",
           "team": "Dead On Tools",
           "manufacturer": "Toyota",
-          "laps": 77,
+          "laps": 100,
           "laps_led": 0,
           "times_led": 0,
           "status": "Running",
@@ -42055,12 +42055,12 @@
         },
         {
           "pos": 19,
-          "start": 23,
-          "car": "#87",
-          "driver": "Nick Sanchez",
-          "team": "Peterson Racing Group",
+          "start": 10,
+          "car": "#8",
+          "driver": "Sammy Smith",
+          "team": "Communication Data Link",
           "manufacturer": "Chevy",
-          "laps": 77,
+          "laps": 100,
           "laps_led": 0,
           "times_led": 0,
           "status": "Running",
@@ -42068,77 +42068,77 @@
         },
         {
           "pos": 20,
-          "start": 4,
-          "car": "#51",
-          "driver": "Jeremy Clements",
-          "team": "Sky Fund Aviation",
+          "start": 23,
+          "car": "#87",
+          "driver": "Nick Sanchez",
+          "team": "Peterson Racing Group",
           "manufacturer": "Chevy",
-          "laps": 77,
-          "laps_led": 9,
-          "times_led": 1,
+          "laps": 100,
+          "laps_led": 0,
+          "times_led": 0,
           "status": "Running",
           "points": 0
         },
         {
           "pos": 21,
-          "start": 10,
-          "car": "#8",
-          "driver": "Sammy Smith",
-          "team": "Communication Data Link",
-          "manufacturer": "Chevy",
-          "laps": 77,
-          "laps_led": 0,
-          "times_led": 0,
-          "status": "Running",
-          "points": 0
-        },
-        {
-          "pos": 22,
-          "start": 22,
-          "car": "#28",
-          "driver": "Kyle Sieg",
-          "team": "Sustainchem",
-          "manufacturer": "Chevy",
-          "laps": 77,
-          "laps_led": 0,
-          "times_led": 0,
-          "status": "Running",
-          "points": 0
-        },
-        {
-          "pos": 23,
           "start": 25,
           "car": "#26",
           "driver": "Dean Thompson",
           "team": "Boot Campaign",
           "manufacturer": "Toyota",
-          "laps": 77,
+          "laps": 100,
           "laps_led": 2,
           "times_led": 1,
           "status": "Running",
           "points": 0
         },
         {
-          "pos": 24,
+          "pos": 22,
           "start": 16,
           "car": "#32",
           "driver": "Rajah Caruth",
           "team": "HendrickCars.com",
           "manufacturer": "Chevy",
-          "laps": 77,
+          "laps": 100,
           "laps_led": 6,
           "times_led": 1,
           "status": "Running",
           "points": 0
         },
         {
-          "pos": 25,
+          "pos": 23,
           "start": 18,
           "car": "#48",
           "driver": "Patrick Staropoli",
           "team": "Syfovre",
           "manufacturer": "Chevy",
-          "laps": 77,
+          "laps": 100,
+          "laps_led": 0,
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
+        },
+        {
+          "pos": 24,
+          "start": 22,
+          "car": "#28",
+          "driver": "Kyle Sieg",
+          "team": "Sustainchem",
+          "manufacturer": "Chevy",
+          "laps": 100,
+          "laps_led": 0,
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
+        },
+        {
+          "pos": 25,
+          "start": 30,
+          "car": "#0",
+          "driver": "Garrett Smithley",
+          "team": "",
+          "manufacturer": "Chevy",
+          "laps": 100,
           "laps_led": 0,
           "times_led": 0,
           "status": "Running",
@@ -42146,12 +42146,12 @@
         },
         {
           "pos": 26,
-          "start": 31,
-          "car": "#45",
-          "driver": "Lavar Scott",
-          "team": "Urban Affairs Coalition",
+          "start": 21,
+          "car": "#91",
+          "driver": "Mason Maggio",
+          "team": "BaseballBBQ.com",
           "manufacturer": "Chevy",
-          "laps": 77,
+          "laps": 100,
           "laps_led": 0,
           "times_led": 0,
           "status": "Running",
@@ -42159,12 +42159,12 @@
         },
         {
           "pos": 27,
-          "start": 21,
-          "car": "#91",
-          "driver": "Mason Maggio",
-          "team": "BaseballBBQ.com",
+          "start": 31,
+          "car": "#45",
+          "driver": "Lavar Scott",
+          "team": "Urban Affairs Coalition",
           "manufacturer": "Chevy",
-          "laps": 77,
+          "laps": 100,
           "laps_led": 0,
           "times_led": 0,
           "status": "Running",
@@ -42172,12 +42172,12 @@
         },
         {
           "pos": 28,
-          "start": 32,
-          "car": "#07",
-          "driver": "Josh Bilicki",
-          "team": "Zeigler",
+          "start": 27,
+          "car": "#31",
+          "driver": "Blaine Perkins",
+          "team": "iHeart Q95 Rocks",
           "manufacturer": "Chevy",
-          "laps": 77,
+          "laps": 100,
           "laps_led": 0,
           "times_led": 0,
           "status": "Running",
@@ -42185,12 +42185,12 @@
         },
         {
           "pos": 29,
-          "start": 30,
-          "car": "#0",
-          "driver": "Garrett Smithley",
-          "team": "",
+          "start": 28,
+          "car": "#44",
+          "driver": "Brennan Poole",
+          "team": "The Samantha and Kyle Busch Bundle of Joy Fund",
           "manufacturer": "Chevy",
-          "laps": 77,
+          "laps": 100,
           "laps_led": 0,
           "times_led": 0,
           "status": "Running",
@@ -42198,12 +42198,12 @@
         },
         {
           "pos": 30,
-          "start": 27,
-          "car": "#31",
-          "driver": "Blaine Perkins",
-          "team": "iHeart Q95 Rocks",
+          "start": 29,
+          "car": "#92",
+          "driver": "Preston Pardus",
+          "team": "Chinchor Electric",
           "manufacturer": "Chevy",
-          "laps": 77,
+          "laps": 100,
           "laps_led": 0,
           "times_led": 0,
           "status": "Running",
@@ -42211,12 +42211,12 @@
         },
         {
           "pos": 31,
-          "start": 28,
-          "car": "#44",
-          "driver": "Brennan Poole",
-          "team": "The Samantha and Kyle Busch Bundle of Joy Fund",
+          "start": 36,
+          "car": "#42",
+          "driver": "Nathan Byrd",
+          "team": "Byrd Insurance Group",
           "manufacturer": "Chevy",
-          "laps": 77,
+          "laps": 100,
           "laps_led": 0,
           "times_led": 0,
           "status": "Running",
@@ -42224,12 +42224,12 @@
         },
         {
           "pos": 32,
-          "start": 29,
-          "car": "#92",
-          "driver": "Preston Pardus",
-          "team": "Chinchor Electric",
+          "start": 33,
+          "car": "#02",
+          "driver": "Ryan Ellis",
+          "team": "Tablo TV",
           "manufacturer": "Chevy",
-          "laps": 77,
+          "laps": 99,
           "laps_led": 0,
           "times_led": 0,
           "status": "Running",
@@ -42237,12 +42237,12 @@
         },
         {
           "pos": 33,
-          "start": 33,
-          "car": "#02",
-          "driver": "Ryan Ellis",
-          "team": "Tablo TV",
+          "start": 32,
+          "car": "#07",
+          "driver": "Josh Bilicki",
+          "team": "Zeigler",
           "manufacturer": "Chevy",
-          "laps": 77,
+          "laps": 99,
           "laps_led": 0,
           "times_led": 0,
           "status": "Running",
@@ -42250,12 +42250,12 @@
         },
         {
           "pos": 34,
-          "start": 36,
-          "car": "#42",
-          "driver": "Nathan Byrd",
-          "team": "Byrd Insurance Group",
+          "start": 37,
+          "car": "#53",
+          "driver": "Blake Lothian",
+          "team": "The Texas Lawbook",
           "manufacturer": "Chevy",
-          "laps": 77,
+          "laps": 99,
           "laps_led": 0,
           "times_led": 0,
           "status": "Running",
@@ -42263,12 +42263,12 @@
         },
         {
           "pos": 35,
-          "start": 37,
-          "car": "#53",
-          "driver": "Blake Lothian",
-          "team": "The Texas Lawbook",
+          "start": 38,
+          "car": "#47",
+          "driver": "David Starr",
+          "team": "Cell Phones For Soldiers",
           "manufacturer": "Chevy",
-          "laps": 77,
+          "laps": 99,
           "laps_led": 0,
           "times_led": 0,
           "status": "Running",
@@ -42276,12 +42276,12 @@
         },
         {
           "pos": 36,
-          "start": 38,
-          "car": "#47",
-          "driver": "David Starr",
-          "team": "Cell Phones For Soldiers",
+          "start": 35,
+          "car": "#55",
+          "driver": "Joey Gase",
+          "team": "Flex Power",
           "manufacturer": "Chevy",
-          "laps": 77,
+          "laps": 99,
           "laps_led": 0,
           "times_led": 0,
           "status": "Running",
@@ -42289,14 +42289,14 @@
         },
         {
           "pos": 37,
-          "start": 35,
-          "car": "#55",
-          "driver": "Joey Gase",
-          "team": "Flex Power",
+          "start": 4,
+          "car": "#51",
+          "driver": "Jeremy Clements",
+          "team": "Sky Fund Aviation",
           "manufacturer": "Chevy",
-          "laps": 76,
-          "laps_led": 0,
-          "times_led": 0,
+          "laps": 97,
+          "laps_led": 9,
+          "times_led": 1,
           "status": "Running",
           "points": 0
         },
@@ -42315,7 +42315,7 @@
         }
       ]
     },
-    "_updated": "2026-07-25"
+    "_updated": "2026-07-26"
   },
   "nascar-noaps-season": {
     "data": {
@@ -42325,44 +42325,44 @@
           "driver": "Justin Allgaier",
           "car": "#7",
           "manufacturer": "Chevy",
-          "points": 966,
+          "points": 1016,
           "wins": 6,
           "races": 0
         },
         {
           "pos": 2,
-          "driver": "Jesse Love",
-          "car": "#2",
+          "driver": "Carson Kvapil",
+          "car": "#1",
           "manufacturer": "Chevy",
-          "points": 726,
-          "wins": 0,
-          "races": 0
-        },
-        {
-          "pos": 3,
-          "driver": "Sheldon Creed",
-          "car": "#00",
-          "manufacturer": "Chevy",
-          "points": 693,
+          "points": 751,
           "wins": 1,
           "races": 0
         },
         {
-          "pos": 4,
-          "driver": "Corey Day",
-          "car": "#17",
+          "pos": 3,
+          "driver": "Jesse Love",
+          "car": "#2",
           "manufacturer": "Chevy",
-          "points": 689,
-          "wins": 2,
+          "points": 747,
+          "wins": 0,
+          "races": 0
+        },
+        {
+          "pos": 4,
+          "driver": "Sheldon Creed",
+          "car": "#00",
+          "manufacturer": "Chevy",
+          "points": 733,
+          "wins": 1,
           "races": 0
         },
         {
           "pos": 5,
-          "driver": "Carson Kvapil",
-          "car": "#1",
+          "driver": "Corey Day",
+          "car": "#17",
           "manufacturer": "Chevy",
-          "points": 682,
-          "wins": 0,
+          "points": 719,
+          "wins": 2,
           "races": 0
         },
         {
@@ -42370,7 +42370,7 @@
           "driver": "Brandon Jones",
           "car": "#20",
           "manufacturer": "Toyota",
-          "points": 664,
+          "points": 692,
           "wins": 1,
           "races": 0
         },
@@ -42379,7 +42379,7 @@
           "driver": "Austin Hill",
           "car": "#21",
           "manufacturer": "Chevy",
-          "points": 659,
+          "points": 688,
           "wins": 2,
           "races": 0
         },
@@ -42388,7 +42388,7 @@
           "driver": "Sammy Smith",
           "car": "#8",
           "manufacturer": "Chevy",
-          "points": 639,
+          "points": 658,
           "wins": 0,
           "races": 0
         },
@@ -42397,7 +42397,7 @@
           "driver": "Parker Retzlaff",
           "car": "#99",
           "manufacturer": "Chevy",
-          "points": 593,
+          "points": 619,
           "wins": 0,
           "races": 0
         },
@@ -42406,7 +42406,7 @@
           "driver": "Sam Mayer",
           "car": "#41",
           "manufacturer": "Chevy",
-          "points": 555,
+          "points": 589,
           "wins": 0,
           "races": 0
         },
@@ -42415,7 +42415,7 @@
           "driver": "Brent Crews",
           "car": "#19",
           "manufacturer": "Toyota",
-          "points": 540,
+          "points": 573,
           "wins": 0,
           "races": 0
         },
@@ -42424,26 +42424,26 @@
           "driver": "Taylor Gray",
           "car": "#54",
           "manufacturer": "Toyota",
-          "points": 539,
+          "points": 567,
           "wins": 1,
           "races": 0
         },
         {
           "pos": 13,
-          "driver": "Rajah Caruth",
-          "car": "#32",
-          "manufacturer": "Chevy",
-          "points": 522,
-          "wins": 0,
+          "driver": "William Sawalich",
+          "car": "#18",
+          "manufacturer": "Toyota",
+          "points": 560,
+          "wins": 1,
           "races": 0
         },
         {
           "pos": 14,
-          "driver": "William Sawalich",
-          "car": "#18",
-          "manufacturer": "Toyota",
-          "points": 518,
-          "wins": 1,
+          "driver": "Rajah Caruth",
+          "car": "#32",
+          "manufacturer": "Chevy",
+          "points": 547,
+          "wins": 0,
           "races": 0
         },
         {
@@ -42451,7 +42451,7 @@
           "driver": "Ryan Sieg",
           "car": "#39",
           "manufacturer": "Chevy",
-          "points": 473,
+          "points": 493,
           "wins": 0,
           "races": 0
         },
@@ -42460,7 +42460,7 @@
           "driver": "Anthony Alfredo",
           "car": "#96",
           "manufacturer": "Chevy",
-          "points": 423,
+          "points": 446,
           "wins": 0,
           "races": 0
         },
@@ -42469,7 +42469,7 @@
           "driver": "Brennan Poole",
           "car": "#44",
           "manufacturer": "Chevy",
-          "points": 386,
+          "points": 394,
           "wins": 0,
           "races": 0
         },
@@ -42478,7 +42478,7 @@
           "driver": "Dean Thompson",
           "car": "#26",
           "manufacturer": "Toyota",
-          "points": 368,
+          "points": 389,
           "wins": 0,
           "races": 0
         },
@@ -42487,25 +42487,25 @@
           "driver": "Jeremy Clements",
           "car": "#51",
           "manufacturer": "Chevy",
-          "points": 362,
+          "points": 373,
           "wins": 0,
           "races": 0
         },
         {
           "pos": 20,
-          "driver": "Harrison Burton",
-          "car": "#24",
-          "manufacturer": "Toyota",
-          "points": 319,
+          "driver": "Jeb Burton",
+          "car": "#27",
+          "manufacturer": "Chevy",
+          "points": 338,
           "wins": 0,
           "races": 0
         },
         {
           "pos": 21,
-          "driver": "Jeb Burton",
-          "car": "#27",
-          "manufacturer": "Chevy",
-          "points": 316,
+          "driver": "Harrison Burton",
+          "car": "#24",
+          "manufacturer": "Toyota",
+          "points": 338,
           "wins": 0,
           "races": 0
         },
@@ -42514,7 +42514,7 @@
           "driver": "Blaine Perkins",
           "car": "#31",
           "manufacturer": "Chevy",
-          "points": 307,
+          "points": 316,
           "wins": 0,
           "races": 0
         },
@@ -42523,7 +42523,7 @@
           "driver": "Patrick Staropoli",
           "car": "#48",
           "manufacturer": "Chevy",
-          "points": 296,
+          "points": 310,
           "wins": 0,
           "races": 0
         },
@@ -42532,7 +42532,7 @@
           "driver": "Josh Bilicki",
           "car": "#07",
           "manufacturer": "Chevy",
-          "points": 269,
+          "points": 273,
           "wins": 0,
           "races": 0
         },
@@ -42550,7 +42550,7 @@
           "driver": "Lavar Scott",
           "car": "#45",
           "manufacturer": "Chevy",
-          "points": 236,
+          "points": 246,
           "wins": 0,
           "races": 0
         },
@@ -42559,7 +42559,7 @@
           "driver": "Kyle Sieg",
           "car": "#28",
           "manufacturer": "Chevy",
-          "points": 232,
+          "points": 245,
           "wins": 0,
           "races": 0
         },
@@ -42568,25 +42568,25 @@
           "driver": "Ryan Ellis",
           "car": "#02",
           "manufacturer": "Chevy",
-          "points": 216,
+          "points": 221,
           "wins": 0,
           "races": 0
         },
         {
           "pos": 29,
-          "driver": "Garrett Smithley",
-          "car": "#0",
-          "manufacturer": "Chevy",
-          "points": 143,
+          "driver": "Nicholas Sanchez",
+          "car": "#25",
+          "manufacturer": "",
+          "points": 155,
           "wins": 0,
           "races": 0
         },
         {
           "pos": 30,
-          "driver": "Nicholas Sanchez",
-          "car": "#25",
-          "manufacturer": "",
-          "points": 138,
+          "driver": "Garrett Smithley",
+          "car": "#0",
+          "manufacturer": "Chevy",
+          "points": 155,
           "wins": 0,
           "races": 0
         },
@@ -42595,7 +42595,7 @@
           "driver": "Joey Gase",
           "car": "#55",
           "manufacturer": "Chevy",
-          "points": 131,
+          "points": 132,
           "wins": 0,
           "races": 0
         },
@@ -42610,6 +42610,15 @@
         },
         {
           "pos": 33,
+          "driver": "Mason Maggio",
+          "car": "#91",
+          "manufacturer": "Chevy",
+          "points": 102,
+          "wins": 0,
+          "races": 0
+        },
+        {
+          "pos": 34,
           "driver": "Alex Labbe",
           "car": "#0",
           "manufacturer": "",
@@ -42618,20 +42627,11 @@
           "races": 0
         },
         {
-          "pos": 34,
-          "driver": "Mason Maggio",
-          "car": "#91",
-          "manufacturer": "Chevy",
-          "points": 91,
-          "wins": 0,
-          "races": 0
-        },
-        {
           "pos": 35,
           "driver": "JJ Yeley",
           "car": "#38",
           "manufacturer": "Ford",
-          "points": 80,
+          "points": 81,
           "wins": 0,
           "races": 0
         },
@@ -42649,12 +42649,21 @@
           "driver": "Nathan Byrd",
           "car": "#42",
           "manufacturer": "Chevy",
-          "points": 61,
+          "points": 67,
           "wins": 0,
           "races": 0
         },
         {
           "pos": 38,
+          "driver": "Preston Pardus",
+          "car": "#92",
+          "manufacturer": "Chevy",
+          "points": 52,
+          "wins": 0,
+          "races": 0
+        },
+        {
+          "pos": 39,
           "driver": "Dawson Cram",
           "car": "#47",
           "manufacturer": "",
@@ -42663,20 +42672,11 @@
           "races": 0
         },
         {
-          "pos": 39,
+          "pos": 40,
           "driver": "Myatt Snider",
           "car": "#30",
           "manufacturer": "",
           "points": 49,
-          "wins": 0,
-          "races": 0
-        },
-        {
-          "pos": 40,
-          "driver": "Preston Pardus",
-          "car": "#92",
-          "manufacturer": "Chevy",
-          "points": 45,
           "wins": 0,
           "races": 0
         },
@@ -42709,6 +42709,15 @@
         },
         {
           "pos": 44,
+          "driver": "David Starr",
+          "car": "#53",
+          "manufacturer": "Chevy",
+          "points": 33,
+          "wins": 0,
+          "races": 0
+        },
+        {
+          "pos": 45,
           "driver": "Lee Pulliam",
           "car": "#9",
           "manufacturer": "",
@@ -42717,7 +42726,7 @@
           "races": 0
         },
         {
-          "pos": 45,
+          "pos": 46,
           "driver": "Luke Fenhaus",
           "car": "#5",
           "manufacturer": "",
@@ -42726,16 +42735,16 @@
           "races": 0
         },
         {
-          "pos": 46,
-          "driver": "David Starr",
+          "pos": 47,
+          "driver": "Blake Lothian",
           "car": "#53",
           "manufacturer": "Chevy",
-          "points": 31,
+          "points": 30,
           "wins": 0,
           "races": 0
         },
         {
-          "pos": 47,
+          "pos": 48,
           "driver": "Glen Reen",
           "car": "#53",
           "manufacturer": "",
@@ -42744,20 +42753,11 @@
           "races": 0
         },
         {
-          "pos": 48,
+          "pos": 49,
           "driver": "Carson Ware",
           "car": "#35",
           "manufacturer": "",
           "points": 29,
-          "wins": 0,
-          "races": 0
-        },
-        {
-          "pos": 49,
-          "driver": "Blake Lothian",
-          "car": "#53",
-          "manufacturer": "Chevy",
-          "points": 27,
           "wins": 0,
           "races": 0
         },
@@ -42925,8 +42925,8 @@
         },
         {
           "pos": 69,
-          "driver": "Chase Briscoe",
-          "car": "#19",
+          "driver": "Chase Elliott",
+          "car": "#88",
           "manufacturer": "",
           "points": 0,
           "wins": 0,
@@ -42934,8 +42934,8 @@
         },
         {
           "pos": 70,
-          "driver": "Chase Elliott",
-          "car": "#88",
+          "driver": "Chase Briscoe",
+          "car": "#19",
           "manufacturer": "",
           "points": 0,
           "wins": 0,
@@ -43096,16 +43096,16 @@
         }
       ],
       "series_name": "NASCAR O'Reilly Auto Parts Series",
-      "updated": "2026-07-25",
+      "updated": "2026-07-26",
       "next_race": {
-        "name": "Pennzoil 250 presented by Take 5 Oil Change",
-        "track": "Indianapolis Motor Speedway",
-        "date": "2026-07-25",
+        "name": "NASCAR O'Reilly Auto Parts Series Race at Iowa",
+        "track": "Iowa Speedway",
+        "date": "2026-08-08",
         "time": "",
         "tv": ""
       }
     },
-    "_updated": "2026-07-25"
+    "_updated": "2026-07-26"
   },
   "fifawc-2026-history": {
     "data": {
@@ -45676,9 +45676,9 @@
           "venue": "Hard Rock Stadium"
         }
       ],
-      "updated": "2026-07-25",
+      "updated": "2026-07-26",
       "season": "2026"
     },
-    "_updated": "2026-07-25"
+    "_updated": "2026-07-26"
   }
 }
