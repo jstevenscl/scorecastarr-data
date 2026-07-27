@@ -12814,6 +12814,14 @@
         "headshot": "",
         "flag": "",
         "country": ""
+      },
+      "3818": {
+        "id": "3818",
+        "name": "Timofey Skatov",
+        "shortName": "T. Skatov",
+        "headshot": "",
+        "flag": "",
+        "country": ""
       }
     },
     "_updated": "2026-07-27"
@@ -19854,24 +19862,6 @@
         },
         {
           "rank": 5,
-          "id": "2651",
-          "name": "Alex de Minaur",
-          "country": "",
-          "headshot": "",
-          "points": 4110.0,
-          "change": 0
-        },
-        {
-          "rank": 6,
-          "id": "9250",
-          "name": "Ben Shelton",
-          "country": "",
-          "headshot": "",
-          "points": 3770.0,
-          "change": 0
-        },
-        {
-          "rank": 7,
           "id": "296",
           "name": "Novak Djokovic",
           "country": "",
@@ -19880,12 +19870,30 @@
           "change": 0
         },
         {
-          "rank": 8,
+          "rank": 6,
+          "id": "2651",
+          "name": "Alex de Minaur",
+          "country": "",
+          "headshot": "",
+          "points": 3660.0,
+          "change": 0
+        },
+        {
+          "rank": 7,
           "id": "2383",
           "name": "Daniil Medvedev",
           "country": "",
           "headshot": "",
-          "points": 3670.0,
+          "points": 3620.0,
+          "change": 0
+        },
+        {
+          "rank": 8,
+          "id": "9250",
+          "name": "Ben Shelton",
+          "country": "",
+          "headshot": "",
+          "points": 3580.0,
           "change": 0
         },
         {
@@ -19894,7 +19902,7 @@
           "name": "Flavio Cobolli",
           "country": "",
           "headshot": "",
-          "points": 3460.0,
+          "points": 3420.0,
           "change": 0
         },
         {
@@ -19903,7 +19911,7 @@
           "name": "Taylor Fritz",
           "country": "",
           "headshot": "",
-          "points": 3365.0,
+          "points": 3300.0,
           "change": 0
         },
         {
@@ -19912,7 +19920,7 @@
           "name": "Alexander Bublik",
           "country": "",
           "headshot": "",
-          "points": 2610.0,
+          "points": 2525.0,
           "change": 0
         },
         {
@@ -19921,7 +19929,7 @@
           "name": "Jiri Lehecka",
           "country": "",
           "headshot": "",
-          "points": 2510.0,
+          "points": 2470.0,
           "change": 0
         },
         {
@@ -19939,7 +19947,7 @@
           "name": "Andrey Rublev",
           "country": "",
           "headshot": "",
-          "points": 2380.0,
+          "points": 2420.0,
           "change": 0
         },
         {
@@ -19957,20 +19965,11 @@
           "name": "Learner Tien",
           "country": "",
           "headshot": "",
-          "points": 2270.0,
+          "points": 2245.0,
           "change": 0
         },
         {
           "rank": 17,
-          "id": "2708",
-          "name": "Frances Tiafoe",
-          "country": "",
-          "headshot": "",
-          "points": 2230.0,
-          "change": 0
-        },
-        {
-          "rank": 18,
           "id": "10319",
           "name": "Jakub Mensik",
           "country": "",
@@ -19979,7 +19978,7 @@
           "change": 0
         },
         {
-          "rank": 19,
+          "rank": 18,
           "id": "9376",
           "name": "Valentin Vacherot",
           "country": "",
@@ -19988,25 +19987,16 @@
           "change": 0
         },
         {
+          "rank": 19,
+          "id": "2708",
+          "name": "Frances Tiafoe",
+          "country": "",
+          "headshot": "",
+          "points": 2180.0,
+          "change": 0
+        },
+        {
           "rank": 20,
-          "id": "3212",
-          "name": "Alejandro Davidovich Fokina",
-          "country": "",
-          "headshot": "",
-          "points": 2160.0,
-          "change": 0
-        },
-        {
-          "rank": 21,
-          "id": "7833",
-          "name": "Luciano Darderi",
-          "country": "",
-          "headshot": "",
-          "points": 2125.0,
-          "change": 0
-        },
-        {
-          "rank": 22,
           "id": "3700",
           "name": "Francisco Cerundolo",
           "country": "",
@@ -20015,7 +20005,16 @@
           "change": 0
         },
         {
-          "rank": 23,
+          "rank": 21,
+          "id": "2964",
+          "name": "Tommy Paul",
+          "country": "",
+          "headshot": "",
+          "points": 2025.0,
+          "change": 0
+        },
+        {
+          "rank": 22,
           "id": "10052",
           "name": "Arthur Fils",
           "country": "",
@@ -20024,21 +20023,30 @@
           "change": 0
         },
         {
-          "rank": 24,
-          "id": "2964",
-          "name": "Tommy Paul",
+          "rank": 23,
+          "id": "7833",
+          "name": "Luciano Darderi",
           "country": "",
           "headshot": "",
           "points": 1975.0,
           "change": 0
         },
         {
-          "rank": 25,
+          "rank": 24,
           "id": "12657",
           "name": "Rafael Jodar",
           "country": "",
           "headshot": "",
           "points": 1927.0,
+          "change": 0
+        },
+        {
+          "rank": 25,
+          "id": "3212",
+          "name": "Alejandro Davidovich Fokina",
+          "country": "",
+          "headshot": "",
+          "points": 1880.0,
           "change": 0
         },
         {
@@ -20052,20 +20060,20 @@
         },
         {
           "rank": 27,
-          "id": "3511",
-          "name": "Arthur Rinderknech",
-          "country": "",
-          "headshot": "",
-          "points": 1723.0,
-          "change": 0
-        },
-        {
-          "rank": 28,
           "id": "11745",
           "name": "Joao Fonseca",
           "country": "",
           "headshot": "",
           "points": 1710.0,
+          "change": 0
+        },
+        {
+          "rank": 28,
+          "id": "3511",
+          "name": "Arthur Rinderknech",
+          "country": "",
+          "headshot": "",
+          "points": 1633.0,
           "change": 0
         },
         {
@@ -20083,7 +20091,7 @@
           "name": "Alejandro Tabilo",
           "country": "",
           "headshot": "",
-          "points": 1508.0,
+          "points": 1558.0,
           "change": 0
         },
         {
@@ -20092,29 +20100,47 @@
           "name": "Tomas Martin Etcheverry",
           "country": "",
           "headshot": "",
-          "points": 1460.0,
+          "points": 1510.0,
           "change": 0
         },
         {
           "rank": 32,
-          "id": "3774",
-          "name": "Brandon Nakashima",
+          "id": "11757",
+          "name": "Alexander Blockx",
           "country": "",
           "headshot": "",
-          "points": 1435.0,
+          "points": 1376.0,
           "change": 0
         },
         {
           "rank": 33,
-          "id": "3793",
-          "name": "Matteo Arnaldi",
+          "id": "3774",
+          "name": "Brandon Nakashima",
           "country": "",
           "headshot": "",
-          "points": 1399.0,
+          "points": 1360.0,
           "change": 0
         },
         {
           "rank": 34,
+          "id": "11226",
+          "name": "Ignacio Buse",
+          "country": "",
+          "headshot": "",
+          "points": 1350.0,
+          "change": 0
+        },
+        {
+          "rank": 35,
+          "id": "3793",
+          "name": "Matteo Arnaldi",
+          "country": "",
+          "headshot": "",
+          "points": 1349.0,
+          "change": 0
+        },
+        {
+          "rank": 36,
           "id": "3356",
           "name": "Zizou Bergs",
           "country": "",
@@ -20123,25 +20149,16 @@
           "change": 0
         },
         {
-          "rank": 35,
-          "id": "11226",
-          "name": "Ignacio Buse",
-          "country": "",
-          "headshot": "",
-          "points": 1312.0,
-          "change": 0
-        },
-        {
-          "rank": 36,
+          "rank": 37,
           "id": "8621",
           "name": "Arthur Fery",
           "country": "",
           "headshot": "",
-          "points": 1297.0,
+          "points": 1285.0,
           "change": 0
         },
         {
-          "rank": 37,
+          "rank": 38,
           "id": "11222",
           "name": "Raphael Collignon",
           "country": "",
@@ -20150,43 +20167,25 @@
           "change": 0
         },
         {
-          "rank": 38,
-          "id": "11757",
-          "name": "Alexander Blockx",
-          "country": "",
-          "headshot": "",
-          "points": 1218.0,
-          "change": 0
-        },
-        {
           "rank": 39,
           "id": "2366",
           "name": "Cameron Norrie",
           "country": "",
           "headshot": "",
-          "points": 1205.0,
+          "points": 1165.0,
           "change": 0
         },
         {
           "rank": 40,
-          "id": "2886",
-          "name": "Corentin Moutet",
+          "id": "11400",
+          "name": "Alex Michelsen",
           "country": "",
           "headshot": "",
-          "points": 1123.0,
+          "points": 1165.0,
           "change": 0
         },
         {
           "rank": 41,
-          "id": "2337",
-          "name": "Jan-Lennard Struff",
-          "country": "",
-          "headshot": "",
-          "points": 1104.0,
-          "change": 0
-        },
-        {
-          "rank": 42,
           "id": "2622",
           "name": "Matteo Berrettini",
           "country": "",
@@ -20195,34 +20194,52 @@
           "change": 0
         },
         {
-          "rank": 43,
-          "id": "2709",
-          "name": "Jaume Munar",
+          "rank": 42,
+          "id": "2337",
+          "name": "Jan-Lennard Struff",
           "country": "",
           "headshot": "",
-          "points": 1075.0,
+          "points": 1066.0,
           "change": 0
         },
         {
-          "rank": 44,
-          "id": "11400",
-          "name": "Alex Michelsen",
+          "rank": 43,
+          "id": "2709",
+          "name": "Jaume Munar",
           "country": "",
           "headshot": "",
           "points": 1050.0,
           "change": 0
         },
         {
-          "rank": 45,
-          "id": "11383",
-          "name": "Ethan Quinn",
+          "rank": 44,
+          "id": "9992",
+          "name": "Mariano Navone",
           "country": "",
           "headshot": "",
-          "points": 1021.0,
+          "points": 1030.0,
+          "change": 0
+        },
+        {
+          "rank": 45,
+          "id": "3322",
+          "name": "Yannick Hanfmann",
+          "country": "",
+          "headshot": "",
+          "points": 1011.0,
           "change": 0
         },
         {
           "rank": 46,
+          "id": "11383",
+          "name": "Ethan Quinn",
+          "country": "",
+          "headshot": "",
+          "points": 1009.0,
+          "change": 0
+        },
+        {
+          "rank": 47,
           "id": "1266",
           "name": "Adrian Mannarino",
           "country": "",
@@ -20231,30 +20248,21 @@
           "change": 0
         },
         {
-          "rank": 47,
-          "id": "9992",
-          "name": "Mariano Navone",
+          "rank": 48,
+          "id": "8814",
+          "name": "Luca Van Assche",
           "country": "",
           "headshot": "",
-          "points": 1005.0,
+          "points": 998.0,
           "change": 0
         },
         {
-          "rank": 48,
+          "rank": 49,
           "id": "4115",
           "name": "Nuno Borges",
           "country": "",
           "headshot": "",
           "points": 995.0,
-          "change": 0
-        },
-        {
-          "rank": 49,
-          "id": "10638",
-          "name": "Terence Atmane",
-          "country": "",
-          "headshot": "",
-          "points": 992.0,
           "change": 0
         },
         {
@@ -31288,7 +31296,7 @@
           "driver": "Christian Eckes",
           "car": "#91",
           "manufacturer": "",
-          "points": 496,
+          "points": 497,
           "wins": 0,
           "races": 0
         },
