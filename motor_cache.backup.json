@@ -10243,6 +10243,15 @@
           "players": []
         },
         {
+          "name": "Rocket Classic",
+          "date": "2026-07-30",
+          "is_complete": false,
+          "is_live": false,
+          "winner": null,
+          "winner_score": null,
+          "players": []
+        },
+        {
           "name": "THE CJ CUP Byron Nelson",
           "date": "2026-05-21",
           "is_complete": true,
