@@ -19826,6 +19826,48 @@
         "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/5369916.png",
         "flag": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
         "country": "USA"
+      },
+      "5075260": {
+        "id": "5075260",
+        "name": "Ryan Celano",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/5075260.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+        "country": "USA"
+      },
+      "5291807": {
+        "id": "5291807",
+        "name": "Joe Hooks",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/5291807.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+        "country": "USA"
+      },
+      "10488": {
+        "id": "10488",
+        "name": "Brad Dalke",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/10488.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+        "country": "USA"
+      },
+      "11409": {
+        "id": "11409",
+        "name": "Justin Quiban",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/11409.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/sam.png",
+        "country": "Samoa"
+      },
+      "5360550": {
+        "id": "5360550",
+        "name": "William Jennings",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/5360550.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+        "country": "USA"
+      },
+      "4683": {
+        "id": "4683",
+        "name": "Patrick Wilkes-Krier",
+        "headshot": "https://a.espncdn.com/i/headshots/golf/players/full/4683.png",
+        "flag": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+        "country": "USA"
       }
     },
     "_updated": "2026-07-28"
@@ -32267,7 +32309,7 @@
       "series_name": "NASCAR Craftsman Truck Series",
       "updated": "2026-07-28",
       "next_race": {
-        "name": "eero 250",
+        "name": "Black's Tire 250 presented by BTS Rewards at Richmond Raceway",
         "track": "Richmond Raceway",
         "date": "2026-08-14",
         "time": "",
