@@ -10246,7 +10246,7 @@
           "name": "Rocket Classic",
           "date": "2026-07-30",
           "is_complete": false,
-          "is_live": false,
+          "is_live": true,
           "winner": null,
           "winner_score": null,
           "players": []
