@@ -14219,6 +14219,22 @@
         "headshot": "",
         "flag": "",
         "country": ""
+      },
+      "18772": {
+        "id": "18772",
+        "name": "Kristina Liutova",
+        "shortName": "K. Liutova",
+        "headshot": "",
+        "flag": "",
+        "country": ""
+      },
+      "2387": {
+        "id": "2387",
+        "name": "Fiona Ferro",
+        "shortName": "F. Ferro",
+        "headshot": "",
+        "flag": "",
+        "country": ""
       }
     },
     "_updated": "2026-08-04"
@@ -20348,7 +20364,7 @@
           "name": "Jessica Pegula",
           "country": "",
           "headshot": "",
-          "points": 6300.0,
+          "points": 6625.0,
           "change": 0
         },
         {
@@ -20398,20 +20414,20 @@
         },
         {
           "rank": 9,
+          "id": "1797",
+          "name": "Elina Svitolina",
+          "country": "",
+          "headshot": "",
+          "points": 4459.0,
+          "change": 0
+        },
+        {
+          "rank": 10,
           "id": "3221",
           "name": "Amanda Anisimova",
           "country": "",
           "headshot": "",
           "points": 4353.0,
-          "change": 0
-        },
-        {
-          "rank": 10,
-          "id": "1797",
-          "name": "Elina Svitolina",
-          "country": "",
-          "headshot": "",
-          "points": 4351.0,
           "change": 0
         },
         {
@@ -20438,7 +20454,7 @@
           "name": "Naomi Osaka",
           "country": "",
           "headshot": "",
-          "points": 3086.0,
+          "points": 3281.0,
           "change": 0
         },
         {
@@ -20470,20 +20486,20 @@
         },
         {
           "rank": 17,
+          "id": "8017",
+          "name": "Diana Shnaider",
+          "country": "",
+          "headshot": "",
+          "points": 2593.0,
+          "change": 0
+        },
+        {
+          "rank": 18,
           "id": "1774",
           "name": "Sorana Cirstea",
           "country": "",
           "headshot": "",
           "points": 2502.0,
-          "change": 0
-        },
-        {
-          "rank": 18,
-          "id": "8017",
-          "name": "Diana Shnaider",
-          "country": "",
-          "headshot": "",
-          "points": 2458.0,
           "change": 0
         },
         {
@@ -20497,15 +20513,24 @@
         },
         {
           "rank": 20,
-          "id": "2977",
-          "name": "Anna Kalinskaya",
+          "id": "7759",
+          "name": "Alexandra Eala",
           "country": "",
           "headshot": "",
-          "points": 2007.0,
+          "points": 2106.0,
           "change": 0
         },
         {
           "rank": 21,
+          "id": "2977",
+          "name": "Anna Kalinskaya",
+          "country": "",
+          "headshot": "",
+          "points": 2083.0,
+          "change": 0
+        },
+        {
+          "rank": 22,
           "id": "3417",
           "name": "Maja Chwalinska",
           "country": "",
@@ -20514,7 +20539,7 @@
           "change": 0
         },
         {
-          "rank": 22,
+          "rank": 23,
           "id": "1556",
           "name": "Madison Keys",
           "country": "",
@@ -20523,7 +20548,7 @@
           "change": 0
         },
         {
-          "rank": 23,
+          "rank": 24,
           "id": "2221",
           "name": "Elise Mertens",
           "country": "",
@@ -20532,7 +20557,7 @@
           "change": 0
         },
         {
-          "rank": 24,
+          "rank": 25,
           "id": "2392",
           "name": "Marie Bouzkova",
           "country": "",
@@ -20541,7 +20566,7 @@
           "change": 0
         },
         {
-          "rank": 25,
+          "rank": 26,
           "id": "2042",
           "name": "Barbora Krejcikova",
           "country": "",
@@ -20550,30 +20575,21 @@
           "change": 0
         },
         {
-          "rank": 26,
-          "id": "3785",
-          "name": "Emma Navarro",
-          "country": "",
-          "headshot": "",
-          "points": 1674.0,
-          "change": 0
-        },
-        {
           "rank": 27,
           "id": "2971",
           "name": "Anastasia Potapova",
           "country": "",
           "headshot": "",
-          "points": 1667.0,
+          "points": 1726.0,
           "change": 0
         },
         {
           "rank": 28,
-          "id": "7759",
-          "name": "Alexandra Eala",
+          "id": "3785",
+          "name": "Emma Navarro",
           "country": "",
           "headshot": "",
-          "points": 1666.0,
+          "points": 1724.0,
           "change": 0
         },
         {
@@ -20641,20 +20657,20 @@
         },
         {
           "rank": 36,
+          "id": "6368",
+          "name": "Janice Tjen",
+          "country": "",
+          "headshot": "",
+          "points": 1312.0,
+          "change": 0
+        },
+        {
+          "rank": 37,
           "id": "2248",
           "name": "Katerina Siniakova",
           "country": "",
           "headshot": "",
           "points": 1285.0,
-          "change": 0
-        },
-        {
-          "rank": 37,
-          "id": "6368",
-          "name": "Janice Tjen",
-          "country": "",
-          "headshot": "",
-          "points": 1282.0,
           "change": 0
         },
         {
@@ -20686,20 +20702,20 @@
         },
         {
           "rank": 41,
+          "id": "3387",
+          "name": "Wang Xinyu",
+          "country": "",
+          "headshot": "",
+          "points": 1238.0,
+          "change": 0
+        },
+        {
+          "rank": 42,
           "id": "7804",
           "name": "Nikola Bartunkova",
           "country": "",
           "headshot": "",
           "points": 1231.0,
-          "change": 0
-        },
-        {
-          "rank": 42,
-          "id": "3387",
-          "name": "Wang Xinyu",
-          "country": "",
-          "headshot": "",
-          "points": 1193.0,
           "change": 0
         },
         {
@@ -20722,6 +20738,15 @@
         },
         {
           "rank": 45,
+          "id": "2672",
+          "name": "Magdalena Frech",
+          "country": "",
+          "headshot": "",
+          "points": 1160.0,
+          "change": 0
+        },
+        {
+          "rank": 46,
           "id": "10830",
           "name": "Lilli Tagger",
           "country": "",
@@ -20730,7 +20755,7 @@
           "change": 0
         },
         {
-          "rank": 46,
+          "rank": 47,
           "id": "3040",
           "name": "Tamara Korpatsch",
           "country": "",
@@ -20739,21 +20764,12 @@
           "change": 0
         },
         {
-          "rank": 47,
+          "rank": 48,
           "id": "5528",
           "name": "McCartney Kessler",
           "country": "",
           "headshot": "",
           "points": 1125.0,
-          "change": 0
-        },
-        {
-          "rank": 48,
-          "id": "2672",
-          "name": "Magdalena Frech",
-          "country": "",
-          "headshot": "",
-          "points": 1120.0,
           "change": 0
         },
         {
