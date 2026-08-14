@@ -17,6 +17,19 @@
       "drivers": [
         {
           "pos": 1,
+          "start": 29,
+          "car": "#21",
+          "driver": "Josh Berry",
+          "team": "Motorcraft/Quick Lane",
+          "manufacturer": "Ford",
+          "laps": 1,
+          "laps_led": 0,
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
+        },
+        {
+          "pos": 2,
           "start": 21,
           "car": "#60",
           "driver": "Ryan Preece",
@@ -29,7 +42,20 @@
           "points": 0
         },
         {
-          "pos": 2,
+          "pos": 3,
+          "start": 26,
+          "car": "#23",
+          "driver": "Bubba Wallace",
+          "team": "Xfinity",
+          "manufacturer": "Toyota",
+          "laps": 1,
+          "laps_led": 0,
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
+        },
+        {
+          "pos": 4,
           "start": 12,
           "car": "#6",
           "driver": "Brad Keselowski",
@@ -42,7 +68,20 @@
           "points": 0
         },
         {
-          "pos": 3,
+          "pos": 5,
+          "start": 25,
+          "car": "#22",
+          "driver": "Joey Logano",
+          "team": "Shell Pennzoil",
+          "manufacturer": "Ford",
+          "laps": 1,
+          "laps_led": 0,
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
+        },
+        {
+          "pos": 6,
           "start": 23,
           "car": "#88",
           "driver": "Connor Zilisch",
@@ -55,7 +94,7 @@
           "points": 0
         },
         {
-          "pos": 4,
+          "pos": 7,
           "start": 17,
           "car": "#42",
           "driver": "John Hunter Nemechek",
@@ -68,7 +107,33 @@
           "points": 0
         },
         {
-          "pos": 5,
+          "pos": 8,
+          "start": 27,
+          "car": "#9",
+          "driver": "Chase Elliott",
+          "team": "UniFirst",
+          "manufacturer": "Chevy",
+          "laps": 2,
+          "laps_led": 0,
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
+        },
+        {
+          "pos": 9,
+          "start": 28,
+          "car": "#16",
+          "driver": "AJ Allmendinger",
+          "team": "Black's Tire/Down East Heat & Air",
+          "manufacturer": "Chevy",
+          "laps": 1,
+          "laps_led": 0,
+          "times_led": 0,
+          "status": "Running",
+          "points": 0
+        },
+        {
+          "pos": 10,
           "start": 24,
           "car": "#3",
           "driver": "Austin Dillon",
@@ -81,7 +146,7 @@
           "points": 0
         },
         {
-          "pos": 6,
+          "pos": 11,
           "start": 16,
           "car": "#35",
           "driver": "Riley Herbst",
@@ -94,7 +159,7 @@
           "points": 0
         },
         {
-          "pos": 7,
+          "pos": 12,
           "start": 20,
           "car": "#7",
           "driver": "Daniel Suarez",
@@ -107,7 +172,7 @@
           "points": 0
         },
         {
-          "pos": 8,
+          "pos": 13,
           "start": 4,
           "car": "#43",
           "driver": "Erik Jones",
@@ -120,7 +185,7 @@
           "points": 0
         },
         {
-          "pos": 9,
+          "pos": 14,
           "start": 13,
           "car": "#77",
           "driver": "Carson Hocevar",
@@ -133,7 +198,7 @@
           "points": 0
         },
         {
-          "pos": 10,
+          "pos": 15,
           "start": 11,
           "car": "#2",
           "driver": "Austin Cindric",
@@ -146,7 +211,7 @@
           "points": 0
         },
         {
-          "pos": 11,
+          "pos": 16,
           "start": 22,
           "car": "#38",
           "driver": "Zane Smith",
@@ -159,7 +224,7 @@
           "points": 0
         },
         {
-          "pos": 12,
+          "pos": 17,
           "start": 3,
           "car": "#48",
           "driver": "Alex Bowman",
@@ -172,7 +237,7 @@
           "points": 0
         },
         {
-          "pos": 13,
+          "pos": 18,
           "start": 14,
           "car": "#71",
           "driver": "Michael McDowell",
@@ -185,7 +250,7 @@
           "points": 0
         },
         {
-          "pos": 14,
+          "pos": 19,
           "start": 15,
           "car": "#34",
           "driver": "Todd Gilliland",
@@ -198,7 +263,7 @@
           "points": 0
         },
         {
-          "pos": 15,
+          "pos": 20,
           "start": 19,
           "car": "#47",
           "driver": "Ricky Stenhouse Jr.",
@@ -211,7 +276,7 @@
           "points": 0
         },
         {
-          "pos": 16,
+          "pos": 21,
           "start": 5,
           "car": "#41",
           "driver": "Cole Custer",
@@ -224,7 +289,7 @@
           "points": 0
         },
         {
-          "pos": 17,
+          "pos": 22,
           "start": 9,
           "car": "#5",
           "driver": "Kyle Larson",
@@ -237,7 +302,7 @@
           "points": 0
         },
         {
-          "pos": 18,
+          "pos": 23,
           "start": 10,
           "car": "#97",
           "driver": "Shane Van Gisbergen",
@@ -250,7 +315,7 @@
           "points": 0
         },
         {
-          "pos": 19,
+          "pos": 24,
           "start": 8,
           "car": "#45",
           "driver": "Tyler Reddick",
@@ -263,7 +328,7 @@
           "points": 0
         },
         {
-          "pos": 20,
+          "pos": 25,
           "start": 6,
           "car": "#33",
           "driver": "Austin Hill(i)",
@@ -276,7 +341,7 @@
           "points": 0
         },
         {
-          "pos": 21,
+          "pos": 26,
           "start": 7,
           "car": "#10",
           "driver": "Ty Dillon",
@@ -289,7 +354,7 @@
           "points": 0
         },
         {
-          "pos": 22,
+          "pos": 27,
           "start": 18,
           "car": "#4",
           "driver": "Noah Gragson",
@@ -302,7 +367,7 @@
           "points": 0
         },
         {
-          "pos": 23,
+          "pos": 28,
           "start": 1,
           "car": "#66",
           "driver": "* Josh Bilicki(i)",
@@ -315,7 +380,7 @@
           "points": 0
         },
         {
-          "pos": 24,
+          "pos": 29,
           "start": 2,
           "car": "#51",
           "driver": "Cody Ware",
@@ -325,71 +390,6 @@
           "laps_led": 0,
           "times_led": 0,
           "status": "On Pit Road",
-          "points": 0
-        },
-        {
-          "pos": 25,
-          "start": 25,
-          "car": "#22",
-          "driver": "Joey Logano",
-          "team": "Shell Pennzoil",
-          "manufacturer": "Ford",
-          "laps": 0,
-          "laps_led": 0,
-          "times_led": 0,
-          "status": "Running",
-          "points": 0
-        },
-        {
-          "pos": 26,
-          "start": 26,
-          "car": "#23",
-          "driver": "Bubba Wallace",
-          "team": "Xfinity",
-          "manufacturer": "Toyota",
-          "laps": 0,
-          "laps_led": 0,
-          "times_led": 0,
-          "status": "Running",
-          "points": 0
-        },
-        {
-          "pos": 27,
-          "start": 27,
-          "car": "#9",
-          "driver": "Chase Elliott",
-          "team": "UniFirst",
-          "manufacturer": "Chevy",
-          "laps": 0,
-          "laps_led": 0,
-          "times_led": 0,
-          "status": "Running",
-          "points": 0
-        },
-        {
-          "pos": 28,
-          "start": 28,
-          "car": "#16",
-          "driver": "AJ Allmendinger",
-          "team": "Black's Tire/Down East Heat & Air",
-          "manufacturer": "Chevy",
-          "laps": 0,
-          "laps_led": 0,
-          "times_led": 0,
-          "status": "Running",
-          "points": 0
-        },
-        {
-          "pos": 29,
-          "start": 29,
-          "car": "#21",
-          "driver": "Josh Berry",
-          "team": "Motorcraft/Quick Lane",
-          "manufacturer": "Ford",
-          "laps": 0,
-          "laps_led": 0,
-          "times_led": 0,
-          "status": "Running",
           "points": 0
         },
         {
@@ -520,6 +520,19 @@
           "drivers": [
             {
               "pos": 1,
+              "start": 29,
+              "car": "#21",
+              "driver": "Josh Berry",
+              "team": "Motorcraft/Quick Lane",
+              "manufacturer": "Ford",
+              "laps": 1,
+              "laps_led": 0,
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
+            },
+            {
+              "pos": 2,
               "start": 21,
               "car": "#60",
               "driver": "Ryan Preece",
@@ -532,7 +545,20 @@
               "points": 0
             },
             {
-              "pos": 2,
+              "pos": 3,
+              "start": 26,
+              "car": "#23",
+              "driver": "Bubba Wallace",
+              "team": "Xfinity",
+              "manufacturer": "Toyota",
+              "laps": 1,
+              "laps_led": 0,
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
+            },
+            {
+              "pos": 4,
               "start": 12,
               "car": "#6",
               "driver": "Brad Keselowski",
@@ -545,7 +571,20 @@
               "points": 0
             },
             {
-              "pos": 3,
+              "pos": 5,
+              "start": 25,
+              "car": "#22",
+              "driver": "Joey Logano",
+              "team": "Shell Pennzoil",
+              "manufacturer": "Ford",
+              "laps": 1,
+              "laps_led": 0,
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
+            },
+            {
+              "pos": 6,
               "start": 23,
               "car": "#88",
               "driver": "Connor Zilisch",
@@ -558,7 +597,7 @@
               "points": 0
             },
             {
-              "pos": 4,
+              "pos": 7,
               "start": 17,
               "car": "#42",
               "driver": "John Hunter Nemechek",
@@ -571,7 +610,33 @@
               "points": 0
             },
             {
-              "pos": 5,
+              "pos": 8,
+              "start": 27,
+              "car": "#9",
+              "driver": "Chase Elliott",
+              "team": "UniFirst",
+              "manufacturer": "Chevy",
+              "laps": 2,
+              "laps_led": 0,
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
+            },
+            {
+              "pos": 9,
+              "start": 28,
+              "car": "#16",
+              "driver": "AJ Allmendinger",
+              "team": "Black's Tire/Down East Heat & Air",
+              "manufacturer": "Chevy",
+              "laps": 1,
+              "laps_led": 0,
+              "times_led": 0,
+              "status": "Running",
+              "points": 0
+            },
+            {
+              "pos": 10,
               "start": 24,
               "car": "#3",
               "driver": "Austin Dillon",
@@ -584,7 +649,7 @@
               "points": 0
             },
             {
-              "pos": 6,
+              "pos": 11,
               "start": 16,
               "car": "#35",
               "driver": "Riley Herbst",
@@ -597,7 +662,7 @@
               "points": 0
             },
             {
-              "pos": 7,
+              "pos": 12,
               "start": 20,
               "car": "#7",
               "driver": "Daniel Suarez",
@@ -610,7 +675,7 @@
               "points": 0
             },
             {
-              "pos": 8,
+              "pos": 13,
               "start": 4,
               "car": "#43",
               "driver": "Erik Jones",
@@ -623,7 +688,7 @@
               "points": 0
             },
             {
-              "pos": 9,
+              "pos": 14,
               "start": 13,
               "car": "#77",
               "driver": "Carson Hocevar",
@@ -636,7 +701,7 @@
               "points": 0
             },
             {
-              "pos": 10,
+              "pos": 15,
               "start": 11,
               "car": "#2",
               "driver": "Austin Cindric",
@@ -649,7 +714,7 @@
               "points": 0
             },
             {
-              "pos": 11,
+              "pos": 16,
               "start": 22,
               "car": "#38",
               "driver": "Zane Smith",
@@ -662,7 +727,7 @@
               "points": 0
             },
             {
-              "pos": 12,
+              "pos": 17,
               "start": 3,
               "car": "#48",
               "driver": "Alex Bowman",
@@ -675,7 +740,7 @@
               "points": 0
             },
             {
-              "pos": 13,
+              "pos": 18,
               "start": 14,
               "car": "#71",
               "driver": "Michael McDowell",
@@ -688,7 +753,7 @@
               "points": 0
             },
             {
-              "pos": 14,
+              "pos": 19,
               "start": 15,
               "car": "#34",
               "driver": "Todd Gilliland",
@@ -701,7 +766,7 @@
               "points": 0
             },
             {
-              "pos": 15,
+              "pos": 20,
               "start": 19,
               "car": "#47",
               "driver": "Ricky Stenhouse Jr.",
@@ -714,7 +779,7 @@
               "points": 0
             },
             {
-              "pos": 16,
+              "pos": 21,
               "start": 5,
               "car": "#41",
               "driver": "Cole Custer",
@@ -727,7 +792,7 @@
               "points": 0
             },
             {
-              "pos": 17,
+              "pos": 22,
               "start": 9,
               "car": "#5",
               "driver": "Kyle Larson",
@@ -740,7 +805,7 @@
               "points": 0
             },
             {
-              "pos": 18,
+              "pos": 23,
               "start": 10,
               "car": "#97",
               "driver": "Shane Van Gisbergen",
@@ -753,7 +818,7 @@
               "points": 0
             },
             {
-              "pos": 19,
+              "pos": 24,
               "start": 8,
               "car": "#45",
               "driver": "Tyler Reddick",
@@ -766,7 +831,7 @@
               "points": 0
             },
             {
-              "pos": 20,
+              "pos": 25,
               "start": 6,
               "car": "#33",
               "driver": "Austin Hill(i)",
@@ -779,7 +844,7 @@
               "points": 0
             },
             {
-              "pos": 21,
+              "pos": 26,
               "start": 7,
               "car": "#10",
               "driver": "Ty Dillon",
@@ -792,7 +857,7 @@
               "points": 0
             },
             {
-              "pos": 22,
+              "pos": 27,
               "start": 18,
               "car": "#4",
               "driver": "Noah Gragson",
@@ -805,7 +870,7 @@
               "points": 0
             },
             {
-              "pos": 23,
+              "pos": 28,
               "start": 1,
               "car": "#66",
               "driver": "* Josh Bilicki(i)",
@@ -818,7 +883,7 @@
               "points": 0
             },
             {
-              "pos": 24,
+              "pos": 29,
               "start": 2,
               "car": "#51",
               "driver": "Cody Ware",
@@ -828,71 +893,6 @@
               "laps_led": 0,
               "times_led": 0,
               "status": "On Pit Road",
-              "points": 0
-            },
-            {
-              "pos": 25,
-              "start": 25,
-              "car": "#22",
-              "driver": "Joey Logano",
-              "team": "Shell Pennzoil",
-              "manufacturer": "Ford",
-              "laps": 0,
-              "laps_led": 0,
-              "times_led": 0,
-              "status": "Running",
-              "points": 0
-            },
-            {
-              "pos": 26,
-              "start": 26,
-              "car": "#23",
-              "driver": "Bubba Wallace",
-              "team": "Xfinity",
-              "manufacturer": "Toyota",
-              "laps": 0,
-              "laps_led": 0,
-              "times_led": 0,
-              "status": "Running",
-              "points": 0
-            },
-            {
-              "pos": 27,
-              "start": 27,
-              "car": "#9",
-              "driver": "Chase Elliott",
-              "team": "UniFirst",
-              "manufacturer": "Chevy",
-              "laps": 0,
-              "laps_led": 0,
-              "times_led": 0,
-              "status": "Running",
-              "points": 0
-            },
-            {
-              "pos": 28,
-              "start": 28,
-              "car": "#16",
-              "driver": "AJ Allmendinger",
-              "team": "Black's Tire/Down East Heat & Air",
-              "manufacturer": "Chevy",
-              "laps": 0,
-              "laps_led": 0,
-              "times_led": 0,
-              "status": "Running",
-              "points": 0
-            },
-            {
-              "pos": 29,
-              "start": 29,
-              "car": "#21",
-              "driver": "Josh Berry",
-              "team": "Motorcraft/Quick Lane",
-              "manufacturer": "Ford",
-              "laps": 0,
-              "laps_led": 0,
-              "times_led": 0,
-              "status": "Running",
               "points": 0
             },
             {
