@@ -10173,7 +10173,7 @@
           "pos": 52,
           "driver": "Timmy Hill",
           "car": "#66",
-          "manufacturer": "Toyota",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -31485,7 +31485,7 @@
           "pos": 1,
           "driver": "Layne Riggs",
           "car": "#34",
-          "manufacturer": "Ford",
+          "manufacturer": "",
           "points": 753,
           "wins": 5,
           "races": 0
@@ -31494,7 +31494,7 @@
           "pos": 2,
           "driver": "Kaden Honeycutt",
           "car": "#11",
-          "manufacturer": "Toyota",
+          "manufacturer": "",
           "points": 692,
           "wins": 2,
           "races": 0
@@ -31503,7 +31503,7 @@
           "pos": 3,
           "driver": "Chandler Smith",
           "car": "#38",
-          "manufacturer": "Ford",
+          "manufacturer": "",
           "points": 603,
           "wins": 2,
           "races": 0
@@ -31512,7 +31512,7 @@
           "pos": 4,
           "driver": "Christian Eckes",
           "car": "#91",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 541,
           "wins": 0,
           "races": 0
@@ -31521,7 +31521,7 @@
           "pos": 5,
           "driver": "Giovanni Ruggiero",
           "car": "#17",
-          "manufacturer": "Toyota",
+          "manufacturer": "",
           "points": 519,
           "wins": 0,
           "races": 0
@@ -31530,7 +31530,7 @@
           "pos": 6,
           "driver": "Ty Majeski",
           "car": "#88",
-          "manufacturer": "Ford",
+          "manufacturer": "",
           "points": 471,
           "wins": 0,
           "races": 0
@@ -31539,7 +31539,7 @@
           "pos": 7,
           "driver": "Grant Enfinger",
           "car": "#9",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 439,
           "wins": 1,
           "races": 0
@@ -31548,7 +31548,7 @@
           "pos": 8,
           "driver": "Ben Rhodes",
           "car": "#99",
-          "manufacturer": "Ford",
+          "manufacturer": "",
           "points": 427,
           "wins": 0,
           "races": 0
@@ -31557,7 +31557,7 @@
           "pos": 9,
           "driver": "Daniel Hemric",
           "car": "#19",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 409,
           "wins": 0,
           "races": 0
@@ -31566,7 +31566,7 @@
           "pos": 10,
           "driver": "Tyler Ankrum",
           "car": "#18",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 394,
           "wins": 0,
           "races": 0
@@ -31575,7 +31575,7 @@
           "pos": 11,
           "driver": "Stewart Friesen",
           "car": "#52",
-          "manufacturer": "Toyota",
+          "manufacturer": "",
           "points": 374,
           "wins": 0,
           "races": 0
@@ -31584,7 +31584,7 @@
           "pos": 12,
           "driver": "Jake Garcia",
           "car": "#98",
-          "manufacturer": "Ford",
+          "manufacturer": "",
           "points": 373,
           "wins": 0,
           "races": 0
@@ -31593,7 +31593,7 @@
           "pos": 13,
           "driver": "Brenden Queen",
           "car": "#12",
-          "manufacturer": "RAM",
+          "manufacturer": "",
           "points": 347,
           "wins": 0,
           "races": 0
@@ -31611,7 +31611,7 @@
           "pos": 15,
           "driver": "Andres Perez De Lara",
           "car": "#44",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 345,
           "wins": 0,
           "races": 0
@@ -31620,7 +31620,7 @@
           "pos": 16,
           "driver": "Tanner Gray",
           "car": "#15",
-          "manufacturer": "Toyota",
+          "manufacturer": "",
           "points": 335,
           "wins": 0,
           "races": 0
@@ -31629,7 +31629,7 @@
           "pos": 17,
           "driver": "Justin Haley",
           "car": "#16",
-          "manufacturer": "RAM",
+          "manufacturer": "",
           "points": 324,
           "wins": 0,
           "races": 0
@@ -31638,7 +31638,7 @@
           "pos": 18,
           "driver": "Dawson Sutton",
           "car": "#27",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 271,
           "wins": 0,
           "races": 0
@@ -31647,7 +31647,7 @@
           "pos": 19,
           "driver": "Cole Butcher",
           "car": "#13",
-          "manufacturer": "Ford",
+          "manufacturer": "",
           "points": 248,
           "wins": 0,
           "races": 0
@@ -31656,7 +31656,7 @@
           "pos": 20,
           "driver": "Mini Tyrrell",
           "car": "#14",
-          "manufacturer": "RAM",
+          "manufacturer": "",
           "points": 241,
           "wins": 0,
           "races": 0
@@ -31665,7 +31665,7 @@
           "pos": 21,
           "driver": "Connor Mosack",
           "car": "#7",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 212,
           "wins": 0,
           "races": 0
@@ -31674,7 +31674,7 @@
           "pos": 22,
           "driver": "Landen Lewis",
           "car": "#45",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 206,
           "wins": 0,
           "races": 0
@@ -31683,7 +31683,7 @@
           "pos": 23,
           "driver": "Corey LaJoie",
           "car": "#10",
-          "manufacturer": "RAM",
+          "manufacturer": "",
           "points": 206,
           "wins": 0,
           "races": 0
@@ -31692,7 +31692,7 @@
           "pos": 24,
           "driver": "Kris Wright",
           "car": "#81",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 206,
           "wins": 0,
           "races": 0
@@ -31710,7 +31710,7 @@
           "pos": 26,
           "driver": "Spencer Boyd",
           "car": "#76",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 126,
           "wins": 0,
           "races": 0
@@ -31746,7 +31746,7 @@
           "pos": 30,
           "driver": "Timmy Hill",
           "car": "#56",
-          "manufacturer": "Toyota",
+          "manufacturer": "",
           "points": 90,
           "wins": 0,
           "races": 0
@@ -31764,7 +31764,7 @@
           "pos": 32,
           "driver": "Parker Eatmon",
           "car": "#42",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 77,
           "wins": 0,
           "races": 0
@@ -31800,7 +31800,7 @@
           "pos": 36,
           "driver": "Colin Braun",
           "car": "#25",
-          "manufacturer": "RAM",
+          "manufacturer": "",
           "points": 55,
           "wins": 0,
           "races": 0
@@ -31890,7 +31890,7 @@
           "pos": 46,
           "driver": "Tristan McKee",
           "car": "#77",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 31,
           "wins": 0,
           "races": 0
@@ -31899,7 +31899,7 @@
           "pos": 47,
           "driver": "Luke Baldwin",
           "car": "#2",
-          "manufacturer": "Ford",
+          "manufacturer": "",
           "points": 31,
           "wins": 0,
           "races": 0
@@ -31917,7 +31917,7 @@
           "pos": 49,
           "driver": "Gavan Boschele",
           "car": "#1",
-          "manufacturer": "Toyota",
+          "manufacturer": "",
           "points": 29,
           "wins": 0,
           "races": 0
@@ -31944,7 +31944,7 @@
           "pos": 52,
           "driver": "Connor Hall",
           "car": "#4",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 26,
           "wins": 0,
           "races": 0
@@ -42604,7 +42604,7 @@
           "pos": 75,
           "driver": "Patrick Emerling",
           "car": "#38",
-          "manufacturer": "Ford",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -42658,7 +42658,7 @@
           "pos": 81,
           "driver": "Chandler Smith",
           "car": "#5",
-          "manufacturer": "Ford",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -42676,7 +42676,7 @@
           "pos": 83,
           "driver": "Giovanni Ruggiero",
           "car": "#19",
-          "manufacturer": "Toyota",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -42712,7 +42712,7 @@
           "pos": 87,
           "driver": "Tyler Ankrum",
           "car": "#32",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -42730,7 +42730,7 @@
           "pos": 89,
           "driver": "Luke Baldwin",
           "car": "#5",
-          "manufacturer": "Ford",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
