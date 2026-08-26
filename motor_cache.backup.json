@@ -10139,6 +10139,15 @@
           "races": 0
         },
         {
+          "pos": 49,
+          "driver": "Joey Gase",
+          "car": "#44",
+          "manufacturer": "",
+          "points": 0,
+          "wins": 0,
+          "races": 0
+        },
+        {
           "pos": 50,
           "driver": "Anthony Alfredo",
           "car": "#62",
@@ -20981,6 +20990,10 @@
         "name": "Chad Finchum",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4634.vresize.140.140.medium.2.png"
       },
+      "joey_gase": {
+        "name": "Joey Gase",
+        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/3593.vresize.140.140.medium.1.png"
+      },
       "anthony_alfredo": {
         "name": "Anthony Alfredo",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4714.vresize.140.140.medium.1.png"
@@ -21052,10 +21065,6 @@
       "garrett_smithley": {
         "name": "Garrett Smithley",
         "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/4522.vresize.140.140.medium.1.png"
-      },
-      "joey_gase": {
-        "name": "Joey Gase",
-        "headshot": "https://b.fssta.com/uploads/application/nascar/headshots/3593.vresize.140.140.medium.1.png"
       },
       "josh_williams": {
         "name": "Josh Williams",
@@ -42230,7 +42239,7 @@
         {
           "pos": 33,
           "driver": "Mason Maggio",
-          "car": "#92",
+          "car": "#91",
           "manufacturer": "",
           "points": 105,
           "wins": 0,
@@ -42284,7 +42293,7 @@
         {
           "pos": 39,
           "driver": "Dawson Cram",
-          "car": "#35",
+          "car": "#47",
           "manufacturer": "",
           "points": 52,
           "wins": 0,
@@ -42356,7 +42365,7 @@
         {
           "pos": 47,
           "driver": "Carson Ware",
-          "car": "#47",
+          "car": "#53",
           "manufacturer": "",
           "points": 30,
           "wins": 0,
@@ -42608,7 +42617,7 @@
         {
           "pos": 76,
           "driver": "Daniel Dye",
-          "car": "#52",
+          "car": "#32",
           "manufacturer": "",
           "points": 0,
           "wins": 0,
