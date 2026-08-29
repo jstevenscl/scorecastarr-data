@@ -9147,7 +9147,7 @@
           "pos": 15,
           "driver": "Austin Cindric",
           "car": "#2",
-          "manufacturer": "",
+          "manufacturer": "Ford",
           "points": 599,
           "wins": 0,
           "races": 0
@@ -9201,7 +9201,7 @@
           "pos": 21,
           "driver": "Michael McDowell",
           "car": "#71",
-          "manufacturer": "",
+          "manufacturer": "Chevy",
           "points": 484,
           "wins": 0,
           "races": 0
@@ -31768,7 +31768,7 @@
           "pos": 110,
           "driver": "Michael McDowell",
           "car": "#7",
-          "manufacturer": "",
+          "manufacturer": "Chevy",
           "points": 0,
           "wins": 0,
           "races": 0
