@@ -9399,7 +9399,7 @@
           "pos": 43,
           "driver": "Austin Hill",
           "car": "#33",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -9417,7 +9417,7 @@
           "pos": 45,
           "driver": "Justin Allgaier",
           "car": "#40",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -9435,7 +9435,7 @@
           "pos": 47,
           "driver": "Jesse Love",
           "car": "#33",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -9453,7 +9453,7 @@
           "pos": 49,
           "driver": "Joey Gase",
           "car": "#44",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -9462,7 +9462,7 @@
           "pos": 50,
           "driver": "Anthony Alfredo",
           "car": "#62",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -9471,7 +9471,7 @@
           "pos": 51,
           "driver": "Josh Bilicki",
           "car": "#66",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -31624,7 +31624,7 @@
           "pos": 94,
           "driver": "Rajah Caruth",
           "car": "#7",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -31642,7 +31642,7 @@
           "pos": 96,
           "driver": "Brandon Jones",
           "car": "#1",
-          "manufacturer": "Toyota",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -31687,7 +31687,7 @@
           "pos": 101,
           "driver": "Brent Crews",
           "car": "#70",
-          "manufacturer": "Toyota",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -31705,7 +31705,7 @@
           "pos": 103,
           "driver": "William Sawalich",
           "car": "#5",
-          "manufacturer": "Toyota",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -31723,7 +31723,7 @@
           "pos": 105,
           "driver": "Parker Retzlaff",
           "car": "#62",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -31732,7 +31732,7 @@
           "pos": 106,
           "driver": "Sammy Smith",
           "car": "#7",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -31750,7 +31750,7 @@
           "pos": 108,
           "driver": "Harrison Burton",
           "car": "#5",
-          "manufacturer": "Toyota",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -31786,7 +31786,7 @@
           "pos": 112,
           "driver": "Taylor Gray",
           "car": "#1",
-          "manufacturer": "Toyota",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -31804,7 +31804,7 @@
           "pos": 114,
           "driver": "Jesse Love",
           "car": "#77",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -31813,7 +31813,7 @@
           "pos": 115,
           "driver": "Corey Day",
           "car": "#7",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 0,
           "wins": 0,
           "races": 0
@@ -41280,7 +41280,7 @@
           "pos": 1,
           "driver": "Justin Allgaier",
           "car": "#7",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 2100,
           "wins": 6,
           "races": 0
@@ -41289,7 +41289,7 @@
           "pos": 2,
           "driver": "Carson Kvapil",
           "car": "#1",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 2075,
           "wins": 2,
           "races": 0
@@ -41298,7 +41298,7 @@
           "pos": 3,
           "driver": "Sheldon Creed",
           "car": "#00",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 2065,
           "wins": 1,
           "races": 0
@@ -41307,7 +41307,7 @@
           "pos": 4,
           "driver": "Jesse Love",
           "car": "#2",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 2060,
           "wins": 0,
           "races": 0
@@ -41316,7 +41316,7 @@
           "pos": 5,
           "driver": "Austin Hill",
           "car": "#21",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 2055,
           "wins": 2,
           "races": 0
@@ -41325,7 +41325,7 @@
           "pos": 6,
           "driver": "Brandon Jones",
           "car": "#20",
-          "manufacturer": "Toyota",
+          "manufacturer": "",
           "points": 2050,
           "wins": 1,
           "races": 0
@@ -41334,7 +41334,7 @@
           "pos": 7,
           "driver": "Corey Day",
           "car": "#17",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 2045,
           "wins": 2,
           "races": 0
@@ -41343,7 +41343,7 @@
           "pos": 8,
           "driver": "Sammy Smith",
           "car": "#8",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 2040,
           "wins": 0,
           "races": 0
@@ -41352,7 +41352,7 @@
           "pos": 9,
           "driver": "Parker Retzlaff",
           "car": "#99",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 2035,
           "wins": 0,
           "races": 0
@@ -41361,7 +41361,7 @@
           "pos": 10,
           "driver": "Sam Mayer",
           "car": "#41",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 2030,
           "wins": 0,
           "races": 0
@@ -41370,7 +41370,7 @@
           "pos": 11,
           "driver": "Taylor Gray",
           "car": "#54",
-          "manufacturer": "Toyota",
+          "manufacturer": "",
           "points": 2025,
           "wins": 1,
           "races": 0
@@ -41379,7 +41379,7 @@
           "pos": 12,
           "driver": "Rajah Caruth",
           "car": "#88",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 2020,
           "wins": 0,
           "races": 0
@@ -41388,7 +41388,7 @@
           "pos": 13,
           "driver": "William Sawalich",
           "car": "#18",
-          "manufacturer": "Toyota",
+          "manufacturer": "",
           "points": 601,
           "wins": 1,
           "races": 0
@@ -41397,7 +41397,7 @@
           "pos": 14,
           "driver": "Brent Crews",
           "car": "#19",
-          "manufacturer": "Toyota",
+          "manufacturer": "",
           "points": 600,
           "wins": 0,
           "races": 0
@@ -41406,7 +41406,7 @@
           "pos": 15,
           "driver": "Ryan Sieg",
           "car": "#39",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 569,
           "wins": 1,
           "races": 0
@@ -41415,7 +41415,7 @@
           "pos": 16,
           "driver": "Anthony Alfredo",
           "car": "#96",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 513,
           "wins": 0,
           "races": 0
@@ -41424,7 +41424,7 @@
           "pos": 17,
           "driver": "Brennan Poole",
           "car": "#44",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 451,
           "wins": 0,
           "races": 0
@@ -41433,7 +41433,7 @@
           "pos": 18,
           "driver": "Dean Thompson",
           "car": "#26",
-          "manufacturer": "Toyota",
+          "manufacturer": "",
           "points": 428,
           "wins": 0,
           "races": 0
@@ -41442,7 +41442,7 @@
           "pos": 19,
           "driver": "Harrison Burton",
           "car": "#24",
-          "manufacturer": "Toyota",
+          "manufacturer": "",
           "points": 400,
           "wins": 0,
           "races": 0
@@ -41451,7 +41451,7 @@
           "pos": 20,
           "driver": "Jeremy Clements",
           "car": "#51",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 384,
           "wins": 0,
           "races": 0
@@ -41460,7 +41460,7 @@
           "pos": 21,
           "driver": "Jeb Burton",
           "car": "#27",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 382,
           "wins": 0,
           "races": 0
@@ -41469,7 +41469,7 @@
           "pos": 22,
           "driver": "Blaine Perkins",
           "car": "#31",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 357,
           "wins": 0,
           "races": 0
@@ -41478,7 +41478,7 @@
           "pos": 23,
           "driver": "Patrick Staropoli",
           "car": "#48",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 332,
           "wins": 0,
           "races": 0
@@ -41487,7 +41487,7 @@
           "pos": 24,
           "driver": "Josh Bilicki",
           "car": "#07",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 288,
           "wins": 0,
           "races": 0
@@ -41496,7 +41496,7 @@
           "pos": 25,
           "driver": "Kyle Sieg",
           "car": "#28",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 286,
           "wins": 0,
           "races": 0
@@ -41505,7 +41505,7 @@
           "pos": 26,
           "driver": "Lavar Scott",
           "car": "#45",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 274,
           "wins": 0,
           "races": 0
@@ -41523,7 +41523,7 @@
           "pos": 28,
           "driver": "Ryan Ellis",
           "car": "#02",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 255,
           "wins": 0,
           "races": 0
@@ -41541,7 +41541,7 @@
           "pos": 30,
           "driver": "Garrett Smithley",
           "car": "#0",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 188,
           "wins": 0,
           "races": 0
@@ -41550,7 +41550,7 @@
           "pos": 31,
           "driver": "Joey Gase",
           "car": "#55",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 161,
           "wins": 0,
           "races": 0
@@ -41559,7 +41559,7 @@
           "pos": 32,
           "driver": "Josh Williams",
           "car": "#92",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 155,
           "wins": 0,
           "races": 0
@@ -41568,7 +41568,7 @@
           "pos": 33,
           "driver": "Mason Maggio",
           "car": "#91",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 123,
           "wins": 0,
           "races": 0
@@ -41649,7 +41649,7 @@
           "pos": 42,
           "driver": "Carson Ware",
           "car": "#53",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 43,
           "wins": 0,
           "races": 0
@@ -41766,7 +41766,7 @@
           "pos": 56,
           "driver": "Andy Jankowiak",
           "car": "#39",
-          "manufacturer": "Ford",
+          "manufacturer": "",
           "points": 7,
           "wins": 0,
           "races": 0
@@ -41811,7 +41811,7 @@
           "pos": 61,
           "driver": "Caesar Bacarella",
           "car": "#4",
-          "manufacturer": "Chevy",
+          "manufacturer": "",
           "points": 6,
           "wins": 0,
           "races": 0
